@@ -15,5 +15,5 @@ The project is divided into 3 parts:
 3. deployment of the project on Heroku via GitHub.
 
 
-## Created by Adrian Szklarski, start time 04-06.2023
+## Created by Adrian Szklarski, start time 04-06.2023/ Under construction, yet
 
