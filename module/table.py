@@ -1,19 +1,19 @@
+import os
+
 import numpy as np
 import pandas as pd
-
-from module.clearDir import get_clear_dir
 
 '''Class that creates a csv file with data of bank customers'''
 
 
 class DataCSV:
     def __init__(self):
-        get_clear_dir()
         self.get_client()
         self.get_clear_csv()
 
     def get_client(self):
         ''' Function to build random data for analysis in *.*csv file
+        create information about client of bank
         :param scope of random choice
         :rtype int, str
         :return *.*csv file of Data Frame
@@ -68,7 +68,8 @@ class DataCSV:
                                           education_level, marital_status, f'{earnings} zł brutto',
                                           card_category, credit_limit]], index=[f'{i}'], columns=row_of_title)
 
-            with open('../csv/filename.csv', 'a', newline="", encoding='UTF-8') as csv_file:
+            link = r'/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename.csv'
+            with open(link, 'a', newline="", encoding='UTF-8') as csv_file:
                 self.df.to_csv(path_or_buf=csv_file)
 
     def get_clear_csv(self):
@@ -77,13 +78,13 @@ class DataCSV:
         :return new *.*csv file
         '''
 
-        link_csv = '/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename.csv'
-        link_csv_new = '/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename_new.csv'
+        link_csv = r'/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename.csv'
+        link_csv_new = r'/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename_new.csv'
 
         with open(link_csv, 'r') as f:
 
             # delete first column
-            df = pd.read_csv(link_csv)
+            df = pd.read_csv(link_csv, on_bad_lines='skip')
             first_column = df.columns[0]
             df = df.drop([first_column], axis=1)
             df.to_csv(link_csv, index=False)
@@ -91,7 +92,7 @@ class DataCSV:
             line_count = 0
             for i in f:
 
-                if line_count == 0:   # Head
+                if line_count == 0:  # Head
                     head = f'{"".join(i)}'
                     comma = head.translate({ord(','): None}).replace('Customer number', 'Customer number, ') \
                         .replace('Customer age', 'Customer age, ').replace('Gender', 'Gender, ') \
@@ -107,7 +108,6 @@ class DataCSV:
                     with open(link_csv_new, 'a', newline="", encoding='UTF-8') as csv_file_new:
                         csv_file_new.write(i)
                 line_count += 1
-
 
 if __name__ == '__main__':
     DataCSV()
