@@ -1,7 +1,6 @@
-import os
-
 import numpy as np
 import pandas as pd
+from random import uniform
 
 '''Class that creates a csv file with data of bank customers'''
 
@@ -28,7 +27,8 @@ class DataCSV:
             'Marital status',
             'Earnings',
             'Card Category',
-            'Credit limit'
+            'Credit limit',
+            'Avg utilities ratio'
         ]
 
         for i in range(1, 1001):
@@ -37,6 +37,7 @@ class DataCSV:
             customer_age = int(np.random.randint(18, 64))
             number_of_counts = int(np.random.randint(1, 6, 1))
             earnings = np.random.randint(2500, 32000)
+            avg = round(uniform(0, 1), 2)
 
             WORDS = ('male', 'female')
             gender = np.random.choice(WORDS)
@@ -66,7 +67,7 @@ class DataCSV:
 
             self.df = pd.DataFrame(data=[[customer_number, customer_age, gender, number_of_counts,
                                           education_level, marital_status, f'{earnings} zł brutto',
-                                          card_category, credit_limit]], index=[f'{i}'], columns=row_of_title)
+                                          card_category, credit_limit, avg]], index=[f'{i}'], columns=row_of_title)
 
             link = r'/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename.csv'
             with open(link, 'a', newline="", encoding='UTF-8') as csv_file:
@@ -100,7 +101,8 @@ class DataCSV:
                         .replace('Education level', 'Education_level, ') \
                         .replace('Marital status', 'Marital_status, ') \
                         .replace('Earnings', 'Earnings, ').replace('Card Category', 'Card_Category, ') \
-                        .replace('Credit limit', 'Credit_limit')
+                        .replace('Credit limit', 'Credit_limit, ') \
+                        .replace('Avg utilities ratio', 'Avg_utilities_ratio')
                     with open(link_csv_new, 'a', newline="", encoding='UTF-8') as csv_file_new:
                         csv_file_new.write(comma)
                     line_count += 1

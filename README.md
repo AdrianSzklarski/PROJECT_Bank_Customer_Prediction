@@ -14,6 +14,9 @@ The project is divided into 3 parts:
 2. Django-based web application;
 3. deployment of the project on Heroku via GitHub.
 
+## Avg Utilization Ratio: 
+it's how much you currently owe divided by your credit limit. It is generally expressed as a percent.  For example, if you have a total of 2000Euro in credit available on two credit cards, and a balance of 1000E on one, your credit  utilization rate is 50% — you're using half of the total credit you have available. A low credit utilization rate shows you're # using less of your available credit.
+
 ## Resluts:
 <br>
 <img src="images/csv.png" alt="csv file">
