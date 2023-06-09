@@ -1,0 +1,1 @@
+1. Przewiduję kategorię karty, którą klient wybierze lub bank może próbować sprzedać komuś i tą kategorię; 'Card Category'

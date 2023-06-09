@@ -12,7 +12,11 @@ class Bank:
 
     def get_test(self):
         '''Code testing module'''
-        return self.linkCSV.head(50)
+        dataReview = self.linkCSV.head(50), \
+               self.linkCSV.shape, \
+               self.linkCSV.isnull().sum()
+
+        return dataReview
 
     def __str__(self):
         return str(self.get_test())
@@ -21,3 +25,4 @@ class Bank:
 if __name__ == '__main__':
     result = Bank(linkCSV)
     print(result)
+

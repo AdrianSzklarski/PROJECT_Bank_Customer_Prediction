@@ -31,7 +31,7 @@ class DataCSV:
             'Credit limit'
         ]
 
-        for i in range(1, 10001):
+        for i in range(1, 1001):
             '''Create data to csv file'''
             customer_number = int(np.random.randint(100000000, 999999999, 1))
             customer_age = np.random.randint(18, 64)
