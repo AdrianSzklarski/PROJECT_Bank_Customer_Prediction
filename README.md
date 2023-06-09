@@ -14,6 +14,14 @@ The project is divided into 3 parts:
 2. Django-based web application;
 3. deployment of the project on Heroku via GitHub.
 
+## Resluts:
+<br>
+<img src="images/csv.png" alt="csv file">
+<p>csv file</p>
+<br>
+<img src="images/chart.png" alt="Customer age">
+<p>Understanding about some columns first</p>
+
 
 ## Created by Adrian Szklarski, start time 04-06.2023/ Under construction, yet
 

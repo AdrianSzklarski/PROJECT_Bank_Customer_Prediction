@@ -18,6 +18,7 @@ class Bank:
         return dataReview
 
     def get_chart(self):
+        '''Understanding about some columns first'''
         sns.set_theme(style="whitegrid")
         sns.boxplot(self.linkCSV[[' Customer_age']])
         plt.show()
