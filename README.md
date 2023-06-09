@@ -20,7 +20,7 @@ The project is divided into 3 parts:
 <p>csv file</p>
 <br>
 <img src="images/chart.png" alt="Customer age">
-<p>Understanding about some columns first</p>
+<p>In the columns, showing the value of the average age of the customer. So what does this box chart suggest? Now this box plot shows that most of the current values are actually between <a, b>. Because the file is built randomly so this data changes each time the file is run. The line representing the median or mean value is actually the average value. And this field says that most of the values are only present inside this field, which ranges from <a.b> If dots appear it means that there are some outliers, which means that these are outliers that are categorised as outliers in relation to the rest of the values that are present in this field. So for example age 70 and 74, 75 is considered an outlier. So these are very small outliers. So we can say that the age of the client is actually a pdoble column and it's not going to mess up the model when we train it using this data or this column. </p>
 
 
 ## Created by Adrian Szklarski, start time 04-06.2023/ Under construction, yet
