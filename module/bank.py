@@ -23,8 +23,13 @@ class Bank:
         sns.boxplot(self.linkCSV[[' Customer_age']])
         plt.show()
 
+    def get_avg_limit(self):
+        '''average number for a credit limit'''
+        return self.linkCSV[[' Gender', ' Credit_limit']].groupby(' Gender').agg(['mean', 'count'])
+
     def __str__(self):
-        return str(self.get_test())
+        return str(f'Code testing module:\n {self.get_test()} \
+                   \n\nAverage number for a credit limit:\n {self.get_avg_limit()}')
 
 
 if __name__ == '__main__':
