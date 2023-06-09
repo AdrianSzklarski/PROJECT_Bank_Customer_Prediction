@@ -34,7 +34,7 @@ class DataCSV:
         for i in range(1, 1001):
             '''Create data to csv file'''
             customer_number = int(np.random.randint(100000000, 999999999, 1))
-            customer_age = np.random.randint(18, 64)
+            customer_age = int(np.random.randint(18, 64))
             number_of_counts = int(np.random.randint(1, 6, 1))
             earnings = np.random.randint(2500, 32000)
 
@@ -94,12 +94,13 @@ class DataCSV:
 
                 if line_count == 0:  # Head
                     head = f'{"".join(i)}'
-                    comma = head.translate({ord(','): None}).replace('Customer number', 'Customer number, ') \
-                        .replace('Customer age', 'Customer age, ').replace('Gender', 'Gender, ') \
-                        .replace('Number of counts', 'Number of counts, ') \
-                        .replace('Education level', 'Education level, ') \
-                        .replace('Marital status', 'Marital status, ') \
-                        .replace('Earnings', 'Earnings, ').replace('Card Category', 'Card Category, ')
+                    comma = head.translate({ord(','): None}).replace('Customer number', 'Customer_number, ') \
+                        .replace('Customer age', 'Customer_age, ').replace('Gender', 'Gender, ') \
+                        .replace('Number of counts', 'Number_of_counts, ') \
+                        .replace('Education level', 'Education_level, ') \
+                        .replace('Marital status', 'Marital_status, ') \
+                        .replace('Earnings', 'Earnings, ').replace('Card Category', 'Card_Category, ') \
+                        .replace('Credit limit', 'Credit_limit')
                     with open(link_csv_new, 'a', newline="", encoding='UTF-8') as csv_file_new:
                         csv_file_new.write(comma)
                     line_count += 1

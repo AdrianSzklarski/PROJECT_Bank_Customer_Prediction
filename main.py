@@ -8,14 +8,14 @@ if __name__ == '__main__':
     if len(dir) == 0:
         try:
             DataCSV()
-            Bank(None)
+            Bank()
             print('The program to create *.*csv is started, empty directory "csv"')
         except FileNotFoundError as e:
             print(e)
     else:
         get_clear_dir()
         DataCSV()
-        Bank(None)
+        Bank()
         print('The *.*csv creation program was started, the "csv" directory was cleared')
 
 
