@@ -29,19 +29,31 @@ class Bank:
         averageRatio = self.linkCSV[[' Gender', ' Avg_utilities_ratio']].groupby(' Gender').agg(['mean', 'count'])
         return averageNumber, averageRatio
 
-    def get_card_category(self):
+    def get_analisys_card(self):
         '''determining the type of cards according to the age of the client'''
         bank_cards = self.linkCSV.groupby(' Card_Category')
+        bank_marital = self.linkCSV.groupby(' Marital_status')
+
+        # analysis for different age groups
         self.maxAge = bank_cards[' Customer_age'].max()
         self.minAge = bank_cards[' Customer_age'].min()
-        return self.maxAge, self.minAge, self.linkCSV.columns
+
+        # average for all card ratios
+        self.ave = bank_cards[' Avg_utilities_ratio'].mean()
+
+        # analysis for different civil statuses
+        self.marital = bank_marital[' Card_Category'].value_counts()
+
+        return self.maxAge, self.minAge, self.linkCSV.columns, self.ave, self.marital
 
     def __str__(self):
         return str(f'Code testing module:\n {self.get_test()} \
                    \n\nAverage number for a credit limit:\n {self.get_avg_limit()[0]} \
                    \n\nAvg utilities ratio:\n {self.get_avg_limit()[1]} \
-                   \n\nMax Age:\n {self.get_card_category()[0]} \n\nMin Age:\n {self.get_card_category()[1]} \
-                   \n\nAll columns:\n {self.get_card_category()[2]}')
+                   \n\nMax Age:\n {self.get_analisys_card()[0]} \n\nMin Age:\n {self.get_analisys_card()[1]} \
+                   \n\nAll columns:\n {self.get_analisys_card()[2]} \
+                   \n\nAverage for all card ratios:\n {self.get_analisys_card()[3]} \
+                   \n\nAnalysis for different civil statuses:\n {self.get_analisys_card()[4]}')
 
 
 if __name__ == '__main__':
