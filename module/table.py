@@ -28,7 +28,8 @@ class DataCSV:
             'Earnings',
             'Card Category',
             'Credit limit',
-            'Avg utilities ratio'
+            'Avg utilities ratio',
+            'Attrition flag'
         ]
 
         for i in range(1, 1001):
@@ -41,6 +42,9 @@ class DataCSV:
 
             WORDS = ('male', 'female')
             gender = np.random.choice(WORDS)
+
+            FLAG = ('Existing Customer', 'Attrited Customer')
+            flag = np.random.choice(FLAG)
 
             EDU = ('high school', 'Collage', 'Graduate', 'Doctorate', 'Professor', 'Unknown', 'Post-Graduate',
                    'Uneducated', 'Student')
@@ -67,7 +71,8 @@ class DataCSV:
 
             self.df = pd.DataFrame(data=[[customer_number, customer_age, gender, number_of_counts,
                                           education_level, marital_status, f'{earnings} zł brutto',
-                                          card_category, credit_limit, avg]], index=[f'{i}'], columns=row_of_title)
+                                          card_category, credit_limit, avg, flag]], index=[f'{i}'],
+                                   columns=row_of_title)
 
             link = r'/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename.csv'
             with open(link, 'a', newline="", encoding='UTF-8') as csv_file:
@@ -102,7 +107,8 @@ class DataCSV:
                         .replace('Marital status', 'Marital_status, ') \
                         .replace('Earnings', 'Earnings, ').replace('Card Category', 'Card_Category, ') \
                         .replace('Credit limit', 'Credit_limit, ') \
-                        .replace('Avg utilities ratio', 'Avg_utilities_ratio')
+                        .replace('Avg utilities ratio', 'Avg_utilities_ratio, ') \
+                        .replace('Attrition flag', 'Attrition_flag')
                     with open(link_csv_new, 'a', newline="", encoding='UTF-8') as csv_file_new:
                         csv_file_new.write(comma)
                     line_count += 1
@@ -111,6 +117,7 @@ class DataCSV:
                     with open(link_csv_new, 'a', newline="", encoding='UTF-8') as csv_file_new:
                         csv_file_new.write(i)
                 line_count += 1
+
 
 if __name__ == '__main__':
     DataCSV()

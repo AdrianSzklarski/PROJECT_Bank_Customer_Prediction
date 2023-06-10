@@ -46,6 +46,22 @@ class Bank:
 
         return self.maxAge, self.minAge, self.linkCSV.columns, self.ave, self.marital
 
+    def get_bank_customers(self):
+        '''analysis of active and inactive bank customers
+        Attrited Customer: the customer closed his account
+        Existing Customer: customer who has an activated account
+
+        The following can be used to build the model:
+        1. remove inactive customers;
+        2. leave active and inactive customers;
+        Solution 2 has been used in the model.
+        '''
+        self.customers = self.linkCSV[' Attrition_flag'].value_counts()
+        self.gender = self.linkCSV[' Gender'].value_counts()
+        self.education = self.linkCSV[' Education_level'].value_counts()
+        self.marital = self.linkCSV[' Marital_status'].value_counts()
+        return self.customers, self.gender, self.education, self.marital
+
     def __str__(self):
         return str(f'Code testing module:\n {self.get_test()} \
                    \n\nAverage number for a credit limit:\n {self.get_avg_limit()[0]} \
@@ -53,7 +69,12 @@ class Bank:
                    \n\nMax Age:\n {self.get_analisys_card()[0]} \n\nMin Age:\n {self.get_analisys_card()[1]} \
                    \n\nAll columns:\n {self.get_analisys_card()[2]} \
                    \n\nAverage for all card ratios:\n {self.get_analisys_card()[3]} \
-                   \n\nAnalysis for different civil statuses:\n {self.get_analisys_card()[4]}')
+                   \n\nAnalysis for different civil statuses:\n {self.get_analisys_card()[4]} \
+                   \n\nActive and inactive bank customers:\n {self.get_bank_customers()[0]} \
+                   \nand their gender{self.get_bank_customers()[1]} \
+                   \nand their education{self.get_bank_customers()[2]} \
+                   \nand their marital{self.get_bank_customers()[1]}')
+
 
 
 if __name__ == '__main__':

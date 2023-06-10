@@ -1,1001 +1,1001 @@
-Customer_number, Customer_age, Gender, Number_of_counts, Education_level, Marital_status, Earnings, Card_Category, Credit_limit, Avg_utilities_ratio
-742341415,33,female,4,Unknown,Married,10373 zł brutto,Silver,13650.0,0.12
-159150671,24,male,1,Professor,Single,14304 zł brutto,Gold,24600.0,0.81
-875905054,60,male,5,Professor,Married,14991 zł brutto,Gold,24600.0,0.9
-342131543,35,male,2,high school,Married,9494 zł brutto,Silver,13650.0,0.13
-338885050,54,female,4,Doctorate,Unknown,26970 zł brutto,Platinum,44460.0,0.26
-600358719,23,female,4,high school,Unknown,10541 zł brutto,Silver,13650.0,0.29
-388639956,35,male,4,Collage,Married,18155 zł brutto,Platinum,44460.0,0.38
-859025500,51,female,5,Graduate,Single,4788 zł brutto,White,3750.0,0.66
-996599113,46,female,2,Unknown,Unknown,30325 zł brutto,Platinum,44460.0,0.76
-961408106,50,male,5,Student,Unknown,24998 zł brutto,Platinum,44460.0,0.47
-820510535,29,female,5,Uneducated,Unknown,10822 zł brutto,Silver,13650.0,0.15
-516920899,46,male,5,Uneducated,Married,4710 zł brutto,White,3750.0,0.45
-281623296,25,female,1,Graduate,Single,15953 zł brutto,Gold,24600.0,0.65
-816607679,35,male,4,high school,Single,24942 zł brutto,Platinum,44460.0,0.27
-342614381,38,female,5,high school,Married,5881 zł brutto,Black,7900.0,0.39
-204684703,37,female,3,Post-Graduate,Married,30274 zł brutto,Platinum,44460.0,0.25
-531863079,41,female,1,Post-Graduate,Unknown,22974 zł brutto,Platinum,44460.0,0.89
-951621440,39,male,4,high school,Single,24584 zł brutto,Platinum,44460.0,0.78
-105701813,22,male,3,Post-Graduate,Single,26496 zł brutto,Platinum,44460.0,0.81
-648953304,33,male,3,Professor,Single,9956 zł brutto,Silver,13650.0,0.39
-654013648,24,female,2,Uneducated,Unknown,17298 zł brutto,Gold,24600.0,0.82
-356999798,26,male,1,Student,Unknown,7245 zł brutto,Black,7900.0,0.59
-888712282,53,male,4,high school,Unknown,26047 zł brutto,Platinum,44460.0,0.98
-210171624,61,female,3,Uneducated,Married,18699 zł brutto,Platinum,44460.0,0.76
-175723346,46,male,1,Uneducated,Married,7951 zł brutto,Silver,13650.0,0.35
-164821516,30,male,1,Post-Graduate,Single,19303 zł brutto,Platinum,44460.0,0.25
-150577709,32,male,5,Collage,Married,4687 zł brutto,White,3750.0,0.21
-879650686,20,male,5,Professor,Single,14929 zł brutto,Gold,24600.0,0.21
-562019527,39,female,2,Post-Graduate,Unknown,2774 zł brutto,White,3750.0,0.51
-770647247,22,male,3,Post-Graduate,Married,20384 zł brutto,Platinum,44460.0,0.04
-393478657,49,female,1,Professor,Single,13439 zł brutto,Gold,24600.0,0.61
-356106467,37,male,2,Student,Single,4934 zł brutto,White,3750.0,0.24
-997915753,36,female,3,Graduate,Single,8217 zł brutto,Silver,13650.0,0.8
-402375122,53,male,5,Uneducated,Unknown,17852 zł brutto,Gold,24600.0,0.22
-200818999,59,male,2,Student,Unknown,29821 zł brutto,Platinum,44460.0,0.43
-560981532,28,female,2,Graduate,Unknown,9834 zł brutto,Silver,13650.0,0.2
-777080440,19,male,1,Graduate,Married,19418 zł brutto,Platinum,44460.0,0.6
-678647935,46,male,5,Student,Single,8956 zł brutto,Silver,13650.0,0.75
-514351910,34,female,2,Collage,Married,31066 zł brutto,Platinum,44460.0,0.52
-316641171,41,female,2,Graduate,Unknown,24969 zł brutto,Platinum,44460.0,0.53
-724042364,26,male,5,Post-Graduate,Married,3013 zł brutto,White,3750.0,0.93
-623300387,48,male,4,Graduate,Single,31666 zł brutto,Platinum,44460.0,0.87
-804938325,59,female,3,Post-Graduate,Married,15286 zł brutto,Gold,24600.0,0.99
-205242463,51,female,2,Post-Graduate,Single,7498 zł brutto,Black,7900.0,0.91
-653004048,38,female,4,Uneducated,Unknown,2863 zł brutto,White,3750.0,0.39
-936050745,53,male,1,Post-Graduate,Unknown,7497 zł brutto,Black,7900.0,0.1
-135214529,38,male,2,Unknown,Single,17771 zł brutto,Gold,24600.0,0.0
-308563923,53,female,5,Uneducated,Married,2610 zł brutto,White,3750.0,0.44
-801747932,46,female,4,Student,Unknown,10100 zł brutto,Silver,13650.0,0.56
-332304438,55,female,2,high school,Single,24386 zł brutto,Platinum,44460.0,0.76
-873921614,24,female,3,Collage,Unknown,25481 zł brutto,Platinum,44460.0,0.76
-356967467,45,female,1,high school,Married,9505 zł brutto,Silver,13650.0,0.91
-115416189,56,male,4,Graduate,Married,19273 zł brutto,Platinum,44460.0,0.48
-140434813,32,female,2,Graduate,Married,7266 zł brutto,Black,7900.0,0.62
-376530855,34,male,4,Post-Graduate,Married,21117 zł brutto,Platinum,44460.0,0.77
-378092843,57,female,4,Uneducated,Single,24878 zł brutto,Platinum,44460.0,0.51
-189487302,54,female,5,Post-Graduate,Unknown,12856 zł brutto,Gold,24600.0,0.16
-321674656,34,male,2,Collage,Unknown,28674 zł brutto,Platinum,44460.0,0.29
-653889225,40,male,1,Uneducated,Single,17160 zł brutto,Gold,24600.0,0.46
-112117755,41,male,4,high school,Single,13563 zł brutto,Gold,24600.0,0.64
-747278490,25,female,1,Professor,Married,6908 zł brutto,Black,7900.0,0.43
-339113881,32,male,4,Collage,Single,24352 zł brutto,Platinum,44460.0,0.86
-411657802,41,male,2,Collage,Single,26776 zł brutto,Platinum,44460.0,0.56
-432070872,27,male,1,Doctorate,Unknown,4245 zł brutto,White,3750.0,0.1
-578120184,39,female,5,Doctorate,Unknown,7667 zł brutto,Silver,13650.0,0.6
-372604425,63,female,2,Graduate,Unknown,14253 zł brutto,Gold,24600.0,0.66
-487218517,49,female,2,high school,Married,20213 zł brutto,Platinum,44460.0,0.77
-886549072,63,male,5,Professor,Married,8825 zł brutto,Silver,13650.0,0.81
-611834023,58,male,2,Graduate,Married,12129 zł brutto,Gold,24600.0,0.9
-822204909,49,male,4,Uneducated,Married,25053 zł brutto,Platinum,44460.0,0.21
-143564790,37,male,4,high school,Married,14930 zł brutto,Gold,24600.0,1.0
-839576983,39,male,4,Doctorate,Unknown,4713 zł brutto,White,3750.0,0.63
-646364313,45,female,4,Collage,Married,27102 zł brutto,Platinum,44460.0,0.71
-381938747,51,male,3,high school,Married,19467 zł brutto,Platinum,44460.0,0.78
-215710126,45,male,1,Professor,Single,21032 zł brutto,Platinum,44460.0,0.04
-495741226,40,female,1,Professor,Unknown,7520 zł brutto,Silver,13650.0,0.13
-632961309,40,male,4,Post-Graduate,Single,8639 zł brutto,Silver,13650.0,0.75
-706319391,44,male,1,Collage,Single,13365 zł brutto,Gold,24600.0,0.34
-901931482,24,female,2,Doctorate,Single,30406 zł brutto,Platinum,44460.0,0.85
-689299322,37,female,5,Student,Single,26363 zł brutto,Platinum,44460.0,0.98
-483698449,54,female,2,Doctorate,Single,11114 zł brutto,Silver,13650.0,0.62
-928709381,62,female,4,Uneducated,Unknown,30709 zł brutto,Platinum,44460.0,0.0
-386175954,51,male,5,Uneducated,Single,6576 zł brutto,Black,7900.0,0.3
-999378372,61,female,3,Doctorate,Married,13518 zł brutto,Gold,24600.0,0.37
-435909674,45,female,3,Unknown,Unknown,20441 zł brutto,Platinum,44460.0,0.09
-612273583,22,female,5,Professor,Single,15472 zł brutto,Gold,24600.0,0.96
-979614502,36,male,3,Doctorate,Married,12894 zł brutto,Gold,24600.0,0.35
-673340452,58,male,5,Professor,Single,22054 zł brutto,Platinum,44460.0,0.29
-853781779,32,female,4,Post-Graduate,Unknown,23258 zł brutto,Platinum,44460.0,0.19
-627003363,60,male,5,Doctorate,Unknown,14020 zł brutto,Gold,24600.0,0.32
-486089073,51,female,1,Unknown,Unknown,17606 zł brutto,Gold,24600.0,0.35
-650544108,24,female,5,Student,Married,24840 zł brutto,Platinum,44460.0,0.48
-159314195,20,female,1,Professor,Married,17483 zł brutto,Gold,24600.0,0.62
-394040138,26,female,3,Student,Single,19336 zł brutto,Platinum,44460.0,0.33
-611116831,33,female,2,Collage,Married,30981 zł brutto,Platinum,44460.0,0.02
-839195507,30,female,5,Student,Married,5496 zł brutto,Black,7900.0,0.02
-686537162,37,male,4,Collage,Single,3647 zł brutto,White,3750.0,0.78
-184527767,35,female,3,Unknown,Unknown,4451 zł brutto,White,3750.0,0.67
-143651380,62,female,2,high school,Single,22253 zł brutto,Platinum,44460.0,0.61
-584528304,20,female,3,Post-Graduate,Unknown,19084 zł brutto,Platinum,44460.0,0.14
-409634911,20,female,3,Uneducated,Married,6606 zł brutto,Black,7900.0,0.72
-925603254,59,female,4,high school,Married,12973 zł brutto,Gold,24600.0,0.15
-861219961,40,male,1,Collage,Single,30944 zł brutto,Platinum,44460.0,0.04
-768721791,28,female,1,Professor,Married,11472 zł brutto,Silver,13650.0,0.98
-449591450,37,female,1,Doctorate,Married,15106 zł brutto,Gold,24600.0,0.03
-536963754,50,female,2,Collage,Unknown,29272 zł brutto,Platinum,44460.0,0.65
-976350049,51,male,4,Professor,Unknown,23227 zł brutto,Platinum,44460.0,0.33
-915378036,35,female,3,Uneducated,Unknown,8706 zł brutto,Silver,13650.0,0.15
-301867572,57,male,1,Student,Unknown,17195 zł brutto,Gold,24600.0,0.5
-387081511,58,female,3,high school,Unknown,27121 zł brutto,Platinum,44460.0,0.02
-354291203,33,male,3,high school,Single,21281 zł brutto,Platinum,44460.0,0.96
-590202262,28,female,5,Student,Married,27897 zł brutto,Platinum,44460.0,0.77
-514846985,43,female,3,Post-Graduate,Unknown,10318 zł brutto,Silver,13650.0,0.47
-688249272,40,female,1,Collage,Unknown,28734 zł brutto,Platinum,44460.0,0.64
-806434346,26,female,1,Unknown,Single,22002 zł brutto,Platinum,44460.0,0.11
-534706407,19,female,2,Student,Single,30857 zł brutto,Platinum,44460.0,0.43
-243656795,41,male,2,Graduate,Unknown,25150 zł brutto,Platinum,44460.0,0.5
-344074224,54,male,1,Professor,Unknown,23814 zł brutto,Platinum,44460.0,0.41
-999861104,19,male,2,Collage,Married,9612 zł brutto,Silver,13650.0,0.2
-196479110,29,female,5,Doctorate,Unknown,28048 zł brutto,Platinum,44460.0,0.41
-977749200,58,female,4,Doctorate,Single,6670 zł brutto,Black,7900.0,0.06
-152677762,24,male,3,high school,Single,30038 zł brutto,Platinum,44460.0,0.55
-852260325,31,male,3,Doctorate,Single,10864 zł brutto,Silver,13650.0,0.28
-389338138,31,female,2,Doctorate,Married,25941 zł brutto,Platinum,44460.0,0.86
-573835363,33,male,4,Graduate,Single,12425 zł brutto,Gold,24600.0,0.71
-357216024,47,female,2,Doctorate,Married,11226 zł brutto,Silver,13650.0,0.25
-127533237,56,female,5,Unknown,Single,18653 zł brutto,Platinum,44460.0,0.39
-701964904,37,male,1,Graduate,Unknown,22447 zł brutto,Platinum,44460.0,0.78
-479303279,49,female,5,Unknown,Single,29986 zł brutto,Platinum,44460.0,0.41
-620415752,52,male,2,Uneducated,Single,23826 zł brutto,Platinum,44460.0,0.79
-656579360,55,female,3,Student,Married,26363 zł brutto,Platinum,44460.0,0.66
-794194103,29,female,2,high school,Single,7615 zł brutto,Silver,13650.0,0.09
-219115581,49,female,5,Unknown,Married,26677 zł brutto,Platinum,44460.0,0.32
-393766222,29,male,5,Professor,Single,15531 zł brutto,Gold,24600.0,0.19
-842355661,38,female,1,Post-Graduate,Single,10103 zł brutto,Silver,13650.0,0.2
-639521539,25,male,3,Unknown,Unknown,11890 zł brutto,Silver,13650.0,0.99
-872348090,35,female,1,Collage,Married,15385 zł brutto,Gold,24600.0,0.37
-222192169,59,female,3,Doctorate,Single,20854 zł brutto,Platinum,44460.0,0.87
-293775655,36,male,2,high school,Single,14283 zł brutto,Gold,24600.0,0.33
-601391651,27,male,4,Post-Graduate,Unknown,4727 zł brutto,White,3750.0,0.14
-569304073,31,female,2,Uneducated,Single,9331 zł brutto,Silver,13650.0,0.96
-547038906,57,female,3,Student,Married,25074 zł brutto,Platinum,44460.0,0.7
-891564491,27,female,4,Doctorate,Unknown,22925 zł brutto,Platinum,44460.0,0.89
-263277968,30,male,3,high school,Married,25153 zł brutto,Platinum,44460.0,0.33
-532386988,52,male,5,Unknown,Unknown,10413 zł brutto,Silver,13650.0,0.94
-638221308,44,female,4,Unknown,Single,6499 zł brutto,Black,7900.0,0.9
-794061639,43,male,1,Unknown,Unknown,25538 zł brutto,Platinum,44460.0,0.26
-614820970,24,male,1,Student,Single,25200 zł brutto,Platinum,44460.0,0.54
-990574002,35,male,5,Graduate,Married,2588 zł brutto,White,3750.0,0.94
-144035344,63,male,2,Collage,Single,30225 zł brutto,Platinum,44460.0,0.06
-711696579,60,male,2,Unknown,Unknown,7766 zł brutto,Silver,13650.0,0.64
-351095132,24,female,3,Graduate,Married,30110 zł brutto,Platinum,44460.0,0.84
-594055466,59,male,4,Collage,Unknown,16262 zł brutto,Gold,24600.0,0.5
-124509337,19,female,1,Collage,Single,11837 zł brutto,Silver,13650.0,0.26
-163085028,27,female,5,high school,Married,8274 zł brutto,Silver,13650.0,1.0
-351737359,58,female,4,Doctorate,Married,5247 zł brutto,Black,7900.0,0.28
-581230062,36,female,4,Uneducated,Married,3163 zł brutto,White,3750.0,0.58
-621296827,31,male,5,Doctorate,Married,3403 zł brutto,White,3750.0,0.35
-741240294,27,female,4,Post-Graduate,Married,29394 zł brutto,Platinum,44460.0,0.7
-976247439,27,male,4,Uneducated,Married,26127 zł brutto,Platinum,44460.0,0.34
-504662275,42,male,2,Professor,Single,8999 zł brutto,Silver,13650.0,0.62
-161393509,40,male,1,Student,Single,21226 zł brutto,Platinum,44460.0,0.08
-439580542,29,male,5,Post-Graduate,Married,20483 zł brutto,Platinum,44460.0,0.32
-979779592,19,female,2,Professor,Single,18774 zł brutto,Platinum,44460.0,0.48
-381802749,35,female,2,Doctorate,Unknown,5869 zł brutto,Black,7900.0,0.83
-334068945,24,male,2,Uneducated,Single,12590 zł brutto,Gold,24600.0,0.33
-858959345,49,male,1,Uneducated,Married,22463 zł brutto,Platinum,44460.0,0.44
-873488448,55,male,3,Graduate,Married,7223 zł brutto,Black,7900.0,0.95
-547159660,49,female,3,Collage,Married,27785 zł brutto,Platinum,44460.0,0.17
-795880421,40,male,1,Graduate,Single,30343 zł brutto,Platinum,44460.0,0.27
-459607600,19,male,1,Unknown,Single,17005 zł brutto,Gold,24600.0,0.79
-461549059,41,female,5,Graduate,Unknown,9122 zł brutto,Silver,13650.0,0.43
-867663563,50,female,5,Professor,Single,20114 zł brutto,Platinum,44460.0,0.75
-615298292,25,male,1,high school,Single,10964 zł brutto,Silver,13650.0,0.13
-123918928,51,female,3,Graduate,Single,21528 zł brutto,Platinum,44460.0,0.93
-455736264,50,male,3,Unknown,Single,25117 zł brutto,Platinum,44460.0,0.39
-385803930,47,female,3,Unknown,Single,13719 zł brutto,Gold,24600.0,0.39
-555600364,43,male,1,Collage,Married,31099 zł brutto,Platinum,44460.0,0.9
-406796471,27,male,2,Collage,Unknown,12878 zł brutto,Gold,24600.0,0.99
-795439353,34,female,4,Unknown,Married,13280 zł brutto,Gold,24600.0,0.66
-254985686,21,female,5,Unknown,Unknown,30174 zł brutto,Platinum,44460.0,0.5
-440691662,58,female,2,Post-Graduate,Single,20137 zł brutto,Platinum,44460.0,0.94
-353459588,24,female,1,Post-Graduate,Married,13016 zł brutto,Gold,24600.0,0.95
-338942455,27,male,2,high school,Married,15611 zł brutto,Gold,24600.0,0.35
-986030682,23,female,5,Graduate,Single,21615 zł brutto,Platinum,44460.0,0.74
-881096283,53,male,4,Graduate,Unknown,9677 zł brutto,Silver,13650.0,0.0
-999145678,30,male,2,Graduate,Unknown,8674 zł brutto,Silver,13650.0,0.8
-129087984,30,female,1,Doctorate,Married,22687 zł brutto,Platinum,44460.0,0.35
-696584621,55,male,4,Graduate,Single,24218 zł brutto,Platinum,44460.0,0.1
-809287647,24,male,4,Post-Graduate,Married,19130 zł brutto,Platinum,44460.0,0.47
-222323608,56,female,4,Uneducated,Married,10269 zł brutto,Silver,13650.0,0.79
-459859999,33,male,5,Student,Married,14280 zł brutto,Gold,24600.0,0.72
-998710900,26,female,2,Graduate,Unknown,18170 zł brutto,Platinum,44460.0,0.96
-965164683,20,female,4,Post-Graduate,Unknown,14283 zł brutto,Gold,24600.0,0.89
-453276785,29,female,1,Post-Graduate,Married,17428 zł brutto,Gold,24600.0,0.84
-522731447,19,male,1,Collage,Unknown,5967 zł brutto,Black,7900.0,0.48
-163004162,38,male,5,high school,Married,9024 zł brutto,Silver,13650.0,0.9
-803010235,38,female,2,high school,Unknown,27217 zł brutto,Platinum,44460.0,0.52
-165903974,58,female,1,Post-Graduate,Single,31407 zł brutto,Platinum,44460.0,0.01
-981452940,46,male,1,Unknown,Married,16765 zł brutto,Gold,24600.0,0.75
-522779605,56,female,1,high school,Married,23793 zł brutto,Platinum,44460.0,0.17
-665187400,38,male,5,Student,Unknown,14712 zł brutto,Gold,24600.0,0.94
-808297061,33,male,3,Collage,Unknown,10654 zł brutto,Silver,13650.0,0.36
-684345707,19,female,5,Uneducated,Married,3282 zł brutto,White,3750.0,0.05
-504786914,43,female,2,Student,Single,17704 zł brutto,Gold,24600.0,0.94
-703408043,25,female,5,Doctorate,Unknown,24582 zł brutto,Platinum,44460.0,0.76
-979217639,31,female,4,Uneducated,Single,27326 zł brutto,Platinum,44460.0,0.28
-377634322,37,female,3,Post-Graduate,Married,19145 zł brutto,Platinum,44460.0,0.88
-423592059,55,male,5,Post-Graduate,Unknown,3128 zł brutto,White,3750.0,0.48
-927123395,60,female,4,Unknown,Unknown,6137 zł brutto,Black,7900.0,0.63
-366599543,37,male,1,high school,Single,28083 zł brutto,Platinum,44460.0,0.89
-566688171,23,male,1,Uneducated,Married,24752 zł brutto,Platinum,44460.0,0.99
-964374919,24,male,1,Doctorate,Single,11172 zł brutto,Silver,13650.0,0.99
-474761707,33,male,4,Post-Graduate,Married,8300 zł brutto,Silver,13650.0,0.77
-103882525,22,male,2,Unknown,Married,30998 zł brutto,Platinum,44460.0,0.29
-289151325,32,female,5,high school,Unknown,23767 zł brutto,Platinum,44460.0,0.74
-570587684,57,female,2,high school,Married,2889 zł brutto,White,3750.0,0.4
-119224786,25,female,3,Collage,Single,16234 zł brutto,Gold,24600.0,0.63
-995201191,49,male,2,Student,Married,14714 zł brutto,Gold,24600.0,0.0
-753677211,43,male,2,Unknown,Single,30971 zł brutto,Platinum,44460.0,0.42
-341006426,30,male,3,high school,Unknown,18003 zł brutto,Platinum,44460.0,0.63
-988658011,39,male,2,high school,Married,7684 zł brutto,Silver,13650.0,0.48
-461352388,23,male,2,Graduate,Unknown,28299 zł brutto,Platinum,44460.0,0.09
-381385816,32,female,1,Doctorate,Unknown,6578 zł brutto,Black,7900.0,0.52
-331113919,34,female,4,Post-Graduate,Unknown,6819 zł brutto,Black,7900.0,0.6
-199853778,55,female,3,Uneducated,Single,30215 zł brutto,Platinum,44460.0,0.77
-372829562,52,male,2,Doctorate,Married,16202 zł brutto,Gold,24600.0,0.87
-201928591,37,male,5,Uneducated,Unknown,24214 zł brutto,Platinum,44460.0,0.19
-454190504,44,male,5,Post-Graduate,Unknown,7860 zł brutto,Silver,13650.0,0.16
-670351010,33,male,3,Post-Graduate,Single,22533 zł brutto,Platinum,44460.0,0.07
-222072482,27,female,4,Graduate,Married,18664 zł brutto,Platinum,44460.0,0.72
-338040562,44,female,4,Post-Graduate,Unknown,3040 zł brutto,White,3750.0,0.65
-200321892,61,male,4,Collage,Married,16878 zł brutto,Gold,24600.0,0.99
-647606386,41,female,5,Professor,Unknown,9872 zł brutto,Silver,13650.0,0.6
-368563336,49,male,1,Graduate,Married,7984 zł brutto,Silver,13650.0,0.52
-199001900,27,male,1,Doctorate,Single,12877 zł brutto,Gold,24600.0,0.19
-409280264,56,male,5,Uneducated,Married,13463 zł brutto,Gold,24600.0,0.47
-175221461,24,female,3,high school,Unknown,11463 zł brutto,Silver,13650.0,0.1
-988551839,57,female,5,Collage,Single,14971 zł brutto,Gold,24600.0,0.68
-607779579,42,male,4,Uneducated,Unknown,25680 zł brutto,Platinum,44460.0,0.3
-857384116,56,female,3,Uneducated,Single,25676 zł brutto,Platinum,44460.0,0.9
-891359472,19,female,4,Post-Graduate,Single,10858 zł brutto,Silver,13650.0,0.66
-801840327,35,male,4,Doctorate,Married,9605 zł brutto,Silver,13650.0,0.16
-418808168,33,female,2,Graduate,Single,23226 zł brutto,Platinum,44460.0,0.1
-861017859,31,male,5,Collage,Unknown,21251 zł brutto,Platinum,44460.0,0.33
-504372982,22,male,1,Graduate,Unknown,18986 zł brutto,Platinum,44460.0,0.53
-558744093,34,female,5,Post-Graduate,Single,17505 zł brutto,Gold,24600.0,0.3
-380797602,58,female,5,Student,Unknown,8379 zł brutto,Silver,13650.0,0.5
-764043668,20,female,4,Professor,Single,25851 zł brutto,Platinum,44460.0,0.91
-297290942,18,female,3,high school,Unknown,11511 zł brutto,Silver,13650.0,0.74
-135116975,19,male,2,Collage,Unknown,10382 zł brutto,Silver,13650.0,0.79
-112757438,59,female,1,Graduate,Married,14524 zł brutto,Gold,24600.0,0.69
-326071476,59,female,2,Unknown,Married,21817 zł brutto,Platinum,44460.0,0.09
-471693082,31,female,1,Collage,Married,17711 zł brutto,Gold,24600.0,0.78
-737538166,46,female,4,Collage,Single,4042 zł brutto,White,3750.0,0.02
-694974594,37,female,4,Doctorate,Single,15812 zł brutto,Gold,24600.0,0.24
-576108032,43,female,4,Uneducated,Single,15255 zł brutto,Gold,24600.0,0.68
-667992051,55,female,3,Doctorate,Married,26351 zł brutto,Platinum,44460.0,0.45
-863334333,39,female,2,Doctorate,Unknown,25469 zł brutto,Platinum,44460.0,0.28
-803883612,23,female,4,Collage,Single,26563 zł brutto,Platinum,44460.0,0.69
-210804254,35,male,4,Student,Unknown,21853 zł brutto,Platinum,44460.0,0.16
-501220586,55,male,5,Graduate,Unknown,22183 zł brutto,Platinum,44460.0,0.3
-932550067,58,male,2,Professor,Married,13907 zł brutto,Gold,24600.0,1.0
-888354733,43,male,3,Doctorate,Married,4518 zł brutto,White,3750.0,0.15
-800692709,28,female,5,high school,Single,24823 zł brutto,Platinum,44460.0,0.88
-709563691,43,male,4,Doctorate,Single,3745 zł brutto,White,3750.0,0.97
-480700245,28,male,1,high school,Married,6908 zł brutto,Black,7900.0,0.44
-165284734,33,male,3,Collage,Unknown,25666 zł brutto,Platinum,44460.0,0.37
-722132461,55,male,1,Post-Graduate,Married,18678 zł brutto,Platinum,44460.0,0.65
-564201590,52,male,2,Graduate,Single,6443 zł brutto,Black,7900.0,0.24
-762440238,55,male,5,Collage,Single,30208 zł brutto,Platinum,44460.0,0.81
-932028915,63,male,5,Doctorate,Unknown,23550 zł brutto,Platinum,44460.0,0.42
-324687869,56,female,5,Doctorate,Single,23899 zł brutto,Platinum,44460.0,0.54
-992315278,18,male,2,Unknown,Unknown,6346 zł brutto,Black,7900.0,0.9
-166006943,34,male,5,Professor,Married,22685 zł brutto,Platinum,44460.0,0.75
-466041907,44,male,1,high school,Unknown,7156 zł brutto,Black,7900.0,0.58
-660574807,48,female,4,Post-Graduate,Unknown,7672 zł brutto,Silver,13650.0,0.57
-233610546,51,female,1,Unknown,Married,13520 zł brutto,Gold,24600.0,0.22
-337292068,26,male,5,Professor,Single,21965 zł brutto,Platinum,44460.0,0.66
-299310747,34,female,4,Graduate,Married,24352 zł brutto,Platinum,44460.0,0.68
-220322223,26,female,3,high school,Single,25516 zł brutto,Platinum,44460.0,0.26
-488196258,49,female,3,Graduate,Unknown,13787 zł brutto,Gold,24600.0,1.0
-800624990,44,female,2,Graduate,Married,16370 zł brutto,Gold,24600.0,0.36
-360226857,63,female,4,Graduate,Married,31667 zł brutto,Platinum,44460.0,0.9
-692573777,41,male,2,Unknown,Married,12153 zł brutto,Gold,24600.0,0.51
-810713680,28,male,2,Student,Unknown,21756 zł brutto,Platinum,44460.0,0.27
-113967108,28,male,4,Collage,Single,11127 zł brutto,Silver,13650.0,0.57
-969125408,54,male,2,Doctorate,Unknown,24629 zł brutto,Platinum,44460.0,0.81
-394366277,24,female,2,Doctorate,Married,3993 zł brutto,White,3750.0,0.2
-591426515,28,female,3,Collage,Married,5566 zł brutto,Black,7900.0,0.16
-423900377,19,male,1,Graduate,Single,18698 zł brutto,Platinum,44460.0,0.04
-652122598,42,female,2,Unknown,Married,28595 zł brutto,Platinum,44460.0,0.59
-571118996,33,male,5,Professor,Married,23402 zł brutto,Platinum,44460.0,0.88
-425185200,20,female,4,Graduate,Unknown,17809 zł brutto,Gold,24600.0,0.55
-962800660,23,male,3,Student,Unknown,19619 zł brutto,Platinum,44460.0,0.79
-904525195,60,female,2,Collage,Single,27203 zł brutto,Platinum,44460.0,0.2
-173748895,59,male,5,Professor,Unknown,29416 zł brutto,Platinum,44460.0,0.8
-464770705,25,female,4,Student,Married,14628 zł brutto,Gold,24600.0,0.34
-910265257,53,male,3,Doctorate,Unknown,27919 zł brutto,Platinum,44460.0,0.2
-446413121,62,male,4,Post-Graduate,Single,22626 zł brutto,Platinum,44460.0,0.49
-815684175,30,female,5,Student,Married,26506 zł brutto,Platinum,44460.0,0.15
-516091410,47,female,2,Collage,Single,18365 zł brutto,Platinum,44460.0,0.21
-329584284,39,male,5,high school,Married,19071 zł brutto,Platinum,44460.0,0.61
-354349685,34,female,1,Collage,Single,13467 zł brutto,Gold,24600.0,0.38
-507614802,26,female,1,Post-Graduate,Married,13870 zł brutto,Gold,24600.0,0.71
-940131029,48,female,4,Graduate,Married,2687 zł brutto,White,3750.0,0.02
-162315476,43,male,2,Student,Unknown,31768 zł brutto,Platinum,44460.0,0.68
-203636233,21,male,1,Doctorate,Unknown,17141 zł brutto,Gold,24600.0,0.73
-801220075,25,female,1,Unknown,Unknown,16030 zł brutto,Gold,24600.0,0.5
-307198780,25,female,2,Professor,Unknown,13009 zł brutto,Gold,24600.0,0.86
-955941157,30,female,2,Unknown,Single,9003 zł brutto,Silver,13650.0,0.69
-917415756,29,female,4,Student,Married,30212 zł brutto,Platinum,44460.0,0.58
-362733740,20,female,2,Professor,Married,13089 zł brutto,Gold,24600.0,0.86
-560102818,30,male,1,Post-Graduate,Married,29935 zł brutto,Platinum,44460.0,0.28
-896632646,48,male,4,Unknown,Unknown,30138 zł brutto,Platinum,44460.0,0.03
-753717446,62,female,1,Collage,Married,14337 zł brutto,Gold,24600.0,0.57
-444228132,54,male,2,high school,Married,29236 zł brutto,Platinum,44460.0,0.59
-519613018,50,female,5,Collage,Married,29837 zł brutto,Platinum,44460.0,0.18
-952562287,39,female,3,Unknown,Married,15917 zł brutto,Gold,24600.0,0.21
-103675395,36,female,2,Unknown,Unknown,17049 zł brutto,Gold,24600.0,0.19
-339805856,43,female,4,Student,Single,14816 zł brutto,Gold,24600.0,0.32
-398525850,32,male,5,high school,Married,19394 zł brutto,Platinum,44460.0,0.34
-414963394,29,male,3,Unknown,Married,25437 zł brutto,Platinum,44460.0,0.14
-909816122,43,male,2,Doctorate,Unknown,28979 zł brutto,Platinum,44460.0,0.12
-711474969,63,female,3,Unknown,Single,12341 zł brutto,Gold,24600.0,0.38
-381196279,59,male,3,Post-Graduate,Married,6322 zł brutto,Black,7900.0,0.94
-448619775,57,male,5,Uneducated,Married,10771 zł brutto,Silver,13650.0,0.84
-383301757,51,male,2,Post-Graduate,Single,5473 zł brutto,Black,7900.0,0.95
-547055509,53,female,2,Graduate,Single,8820 zł brutto,Silver,13650.0,0.27
-654151458,40,female,3,Doctorate,Married,11662 zł brutto,Silver,13650.0,0.28
-466619613,61,male,4,Unknown,Married,21262 zł brutto,Platinum,44460.0,0.34
-852918745,49,female,3,high school,Married,11496 zł brutto,Silver,13650.0,0.15
-668749071,19,male,2,Uneducated,Married,6527 zł brutto,Black,7900.0,0.27
-821613496,35,female,5,Unknown,Single,28503 zł brutto,Platinum,44460.0,0.51
-187836052,19,female,1,Post-Graduate,Single,20267 zł brutto,Platinum,44460.0,0.4
-451260132,36,female,5,Student,Married,6536 zł brutto,Black,7900.0,0.66
-815213615,62,male,5,Post-Graduate,Single,4669 zł brutto,White,3750.0,0.94
-331805579,31,male,3,Unknown,Married,27732 zł brutto,Platinum,44460.0,0.39
-655195360,24,female,1,Uneducated,Unknown,28259 zł brutto,Platinum,44460.0,0.48
-678549498,53,female,2,Uneducated,Married,10180 zł brutto,Silver,13650.0,0.56
-823946972,25,male,3,Post-Graduate,Unknown,24807 zł brutto,Platinum,44460.0,0.17
-730413132,25,male,1,Uneducated,Single,19954 zł brutto,Platinum,44460.0,0.84
-699374787,22,female,4,Doctorate,Married,24112 zł brutto,Platinum,44460.0,0.74
-482314839,48,female,4,Post-Graduate,Unknown,19407 zł brutto,Platinum,44460.0,0.65
-396610957,26,male,1,Uneducated,Single,11918 zł brutto,Silver,13650.0,0.55
-519291243,54,male,5,Collage,Unknown,21796 zł brutto,Platinum,44460.0,0.47
-793837325,39,male,3,Doctorate,Single,9010 zł brutto,Silver,13650.0,0.39
-578977205,24,male,3,Doctorate,Married,5726 zł brutto,Black,7900.0,0.31
-155189603,44,female,3,Student,Married,19928 zł brutto,Platinum,44460.0,0.76
-172170321,20,female,2,Doctorate,Single,5899 zł brutto,Black,7900.0,0.55
-981419203,56,female,3,Collage,Unknown,11994 zł brutto,Silver,13650.0,0.35
-468273960,58,male,4,Graduate,Married,29999 zł brutto,Platinum,44460.0,0.47
-679612117,61,female,4,Doctorate,Single,31065 zł brutto,Platinum,44460.0,0.5
-775240426,46,male,3,Doctorate,Married,11234 zł brutto,Silver,13650.0,0.4
-718355231,45,female,1,Post-Graduate,Single,8605 zł brutto,Silver,13650.0,0.48
-222091932,23,male,2,Uneducated,Single,25506 zł brutto,Platinum,44460.0,0.01
-508330223,46,female,4,Doctorate,Unknown,17929 zł brutto,Gold,24600.0,0.34
-841802237,51,male,1,Collage,Unknown,30604 zł brutto,Platinum,44460.0,0.53
-102815764,48,female,5,Graduate,Unknown,25477 zł brutto,Platinum,44460.0,0.13
-332473466,23,female,3,Post-Graduate,Unknown,16944 zł brutto,Gold,24600.0,0.98
-483930264,52,female,5,Unknown,Single,16840 zł brutto,Gold,24600.0,0.62
-202388042,53,female,1,Doctorate,Single,14712 zł brutto,Gold,24600.0,0.95
-556982578,29,male,5,Professor,Unknown,8492 zł brutto,Silver,13650.0,0.5
-297751379,38,female,4,Collage,Unknown,22049 zł brutto,Platinum,44460.0,0.58
-189412777,43,female,4,Doctorate,Married,30743 zł brutto,Platinum,44460.0,0.77
-739221131,24,female,5,Post-Graduate,Married,17780 zł brutto,Gold,24600.0,0.88
-833368186,43,male,2,Doctorate,Single,29717 zł brutto,Platinum,44460.0,0.24
-127467747,46,male,4,Student,Unknown,21524 zł brutto,Platinum,44460.0,0.88
-185600632,30,female,1,high school,Unknown,10299 zł brutto,Silver,13650.0,0.0
-573552151,20,female,5,Professor,Unknown,19748 zł brutto,Platinum,44460.0,0.36
-970363725,42,male,2,Doctorate,Single,28738 zł brutto,Platinum,44460.0,0.0
-175349183,48,male,4,Professor,Unknown,21394 zł brutto,Platinum,44460.0,0.77
-936697515,49,female,2,Uneducated,Married,5216 zł brutto,Black,7900.0,0.18
-938303982,22,female,3,Graduate,Unknown,21066 zł brutto,Platinum,44460.0,0.94
-548923023,38,female,5,Unknown,Single,9582 zł brutto,Silver,13650.0,0.09
-781693396,58,female,2,Doctorate,Married,16697 zł brutto,Gold,24600.0,0.95
-931015084,54,male,4,Unknown,Single,17698 zł brutto,Gold,24600.0,0.99
-618895417,35,male,2,Uneducated,Unknown,20510 zł brutto,Platinum,44460.0,0.61
-450634438,48,female,3,high school,Married,29064 zł brutto,Platinum,44460.0,0.11
-680447873,18,female,4,Professor,Married,10972 zł brutto,Silver,13650.0,0.53
-285155356,32,female,5,Uneducated,Single,9639 zł brutto,Silver,13650.0,0.55
-846283476,20,female,2,Collage,Unknown,26710 zł brutto,Platinum,44460.0,0.34
-757997562,60,male,5,Professor,Unknown,25694 zł brutto,Platinum,44460.0,0.65
-746697570,43,male,5,Unknown,Married,12198 zł brutto,Gold,24600.0,0.59
-677457053,58,female,1,Uneducated,Married,31404 zł brutto,Platinum,44460.0,0.38
-900404355,55,male,4,Graduate,Unknown,21376 zł brutto,Platinum,44460.0,0.31
-705797823,39,female,3,Uneducated,Unknown,19478 zł brutto,Platinum,44460.0,0.54
-525829380,42,female,5,Uneducated,Married,18484 zł brutto,Platinum,44460.0,0.08
-171188434,44,male,5,Post-Graduate,Unknown,9619 zł brutto,Silver,13650.0,0.78
-792063696,19,male,1,Uneducated,Single,27271 zł brutto,Platinum,44460.0,0.36
-722488223,32,male,4,Graduate,Married,14620 zł brutto,Gold,24600.0,0.3
-504394901,28,male,2,Unknown,Single,21919 zł brutto,Platinum,44460.0,0.39
-156700028,45,male,5,Collage,Married,23548 zł brutto,Platinum,44460.0,0.33
-605852386,23,female,4,Collage,Unknown,29740 zł brutto,Platinum,44460.0,0.04
-973409209,27,male,1,Uneducated,Single,13723 zł brutto,Gold,24600.0,0.97
-529917866,48,male,1,Unknown,Unknown,27237 zł brutto,Platinum,44460.0,0.66
-920269509,27,male,4,Unknown,Unknown,8063 zł brutto,Silver,13650.0,0.35
-684117968,21,male,1,Professor,Married,5694 zł brutto,Black,7900.0,0.96
-325703854,20,female,1,high school,Unknown,20519 zł brutto,Platinum,44460.0,0.06
-859851169,38,male,3,Post-Graduate,Single,28351 zł brutto,Platinum,44460.0,0.47
-882582945,52,female,1,Uneducated,Single,18329 zł brutto,Platinum,44460.0,0.1
-199065995,33,male,2,Post-Graduate,Married,22750 zł brutto,Platinum,44460.0,0.93
-913880659,46,female,2,Uneducated,Single,16908 zł brutto,Gold,24600.0,0.45
-487234495,57,male,2,Post-Graduate,Single,8829 zł brutto,Silver,13650.0,0.61
-519813119,59,female,1,Uneducated,Single,15083 zł brutto,Gold,24600.0,0.96
-120009889,61,female,1,Professor,Married,31576 zł brutto,Platinum,44460.0,0.48
-609949354,20,female,4,Student,Single,25522 zł brutto,Platinum,44460.0,0.33
-662022188,45,female,5,Doctorate,Single,5784 zł brutto,Black,7900.0,0.68
-193643005,60,female,4,Collage,Unknown,12897 zł brutto,Gold,24600.0,0.57
-172586479,38,male,3,Student,Unknown,22342 zł brutto,Platinum,44460.0,0.83
-931971612,60,female,5,Doctorate,Unknown,26234 zł brutto,Platinum,44460.0,0.64
-569710734,38,male,2,Uneducated,Unknown,19812 zł brutto,Platinum,44460.0,0.49
-244657410,27,female,1,Graduate,Unknown,13940 zł brutto,Gold,24600.0,0.7
-155036119,31,male,1,Student,Single,16458 zł brutto,Gold,24600.0,0.46
-329605978,22,female,3,Unknown,Unknown,5033 zł brutto,Black,7900.0,0.49
-648418234,44,male,5,Student,Unknown,15196 zł brutto,Gold,24600.0,0.95
-129122584,28,male,3,Student,Unknown,22387 zł brutto,Platinum,44460.0,0.59
-908108456,40,female,1,Uneducated,Single,25187 zł brutto,Platinum,44460.0,0.67
-498692151,48,female,5,Student,Unknown,21670 zł brutto,Platinum,44460.0,0.53
-907615341,19,male,3,Collage,Single,16758 zł brutto,Gold,24600.0,0.32
-515337696,47,female,1,Professor,Married,15694 zł brutto,Gold,24600.0,0.09
-304118319,29,female,4,Post-Graduate,Single,24035 zł brutto,Platinum,44460.0,0.94
-203593234,37,female,3,Unknown,Single,26720 zł brutto,Platinum,44460.0,0.86
-346157211,45,female,2,Post-Graduate,Married,23090 zł brutto,Platinum,44460.0,0.19
-543790883,18,female,3,Professor,Married,3862 zł brutto,White,3750.0,0.7
-583088485,27,female,1,Collage,Single,14019 zł brutto,Gold,24600.0,0.24
-807102131,60,male,4,high school,Single,23338 zł brutto,Platinum,44460.0,0.71
-405814308,25,male,2,Student,Unknown,30442 zł brutto,Platinum,44460.0,0.26
-493295132,25,female,1,Graduate,Unknown,21881 zł brutto,Platinum,44460.0,0.08
-201843167,41,female,5,high school,Unknown,29719 zł brutto,Platinum,44460.0,0.0
-336024221,49,male,4,Collage,Unknown,21567 zł brutto,Platinum,44460.0,0.91
-778572888,52,male,2,Student,Unknown,28591 zł brutto,Platinum,44460.0,0.36
-646226055,20,male,1,Unknown,Single,18044 zł brutto,Platinum,44460.0,0.29
-702822593,26,male,2,Uneducated,Single,7862 zł brutto,Silver,13650.0,0.36
-941421894,56,male,2,Graduate,Unknown,26063 zł brutto,Platinum,44460.0,0.37
-799462414,36,female,1,Graduate,Married,4947 zł brutto,White,3750.0,0.95
-467718972,25,female,1,Post-Graduate,Unknown,3203 zł brutto,White,3750.0,0.46
-491807030,18,female,3,Student,Married,4984 zł brutto,White,3750.0,0.62
-754315782,42,male,3,Professor,Unknown,21119 zł brutto,Platinum,44460.0,0.49
-909842304,62,female,3,Graduate,Single,26926 zł brutto,Platinum,44460.0,0.32
-108606931,48,female,1,Doctorate,Married,16227 zł brutto,Gold,24600.0,0.94
-137122424,32,female,2,Collage,Married,8829 zł brutto,Silver,13650.0,0.21
-883692472,34,male,4,Professor,Single,17320 zł brutto,Gold,24600.0,0.25
-931803781,60,female,3,Uneducated,Single,8967 zł brutto,Silver,13650.0,0.52
-694125363,61,male,2,Doctorate,Unknown,13292 zł brutto,Gold,24600.0,0.32
-692220812,30,female,5,Graduate,Unknown,23641 zł brutto,Platinum,44460.0,0.49
-832179577,44,female,2,Graduate,Married,5547 zł brutto,Black,7900.0,0.04
-206347572,21,female,3,high school,Married,8664 zł brutto,Silver,13650.0,0.45
-372748626,43,male,5,Professor,Married,22019 zł brutto,Platinum,44460.0,0.56
-302083176,52,female,2,Graduate,Married,14358 zł brutto,Gold,24600.0,0.63
-113355237,47,male,3,Unknown,Single,30553 zł brutto,Platinum,44460.0,0.23
-237990414,35,male,3,Collage,Married,26488 zł brutto,Platinum,44460.0,0.13
-898382730,23,female,4,Doctorate,Married,11807 zł brutto,Silver,13650.0,0.75
-345870736,62,male,5,Student,Married,7661 zł brutto,Silver,13650.0,0.5
-283691613,22,female,5,Uneducated,Unknown,28823 zł brutto,Platinum,44460.0,0.73
-188787550,23,female,5,Uneducated,Married,12685 zł brutto,Gold,24600.0,0.61
-710363756,41,female,5,Unknown,Single,24667 zł brutto,Platinum,44460.0,0.29
-848100910,28,female,1,Professor,Single,2766 zł brutto,White,3750.0,0.75
-646281556,43,male,1,Graduate,Married,28992 zł brutto,Platinum,44460.0,0.43
-911507130,18,male,5,Post-Graduate,Married,14713 zł brutto,Gold,24600.0,0.27
-326497710,52,female,1,Unknown,Single,24332 zł brutto,Platinum,44460.0,0.9
-160016699,41,female,1,Professor,Married,11183 zł brutto,Silver,13650.0,0.25
-597358772,56,female,3,Doctorate,Married,28657 zł brutto,Platinum,44460.0,0.92
-180340748,58,female,4,Post-Graduate,Single,3379 zł brutto,White,3750.0,0.53
-940709836,32,female,3,Student,Single,3427 zł brutto,White,3750.0,0.32
-328031726,57,female,1,high school,Married,30516 zł brutto,Platinum,44460.0,1.0
-951698524,24,male,3,Post-Graduate,Unknown,20191 zł brutto,Platinum,44460.0,0.73
-147815524,56,female,1,Collage,Unknown,10459 zł brutto,Silver,13650.0,0.97
-446389886,44,male,4,Doctorate,Married,18903 zł brutto,Platinum,44460.0,0.66
-722798869,57,male,2,Collage,Single,18666 zł brutto,Platinum,44460.0,0.23
-859568598,44,male,3,Collage,Unknown,9956 zł brutto,Silver,13650.0,0.36
-861805841,54,female,3,Unknown,Unknown,6714 zł brutto,Black,7900.0,0.98
-352610198,18,male,3,Professor,Unknown,7692 zł brutto,Silver,13650.0,0.1
-900281442,47,female,1,Professor,Single,25578 zł brutto,Platinum,44460.0,0.64
-955611819,52,male,4,Professor,Married,25696 zł brutto,Platinum,44460.0,0.32
-935243329,40,female,4,Graduate,Married,25327 zł brutto,Platinum,44460.0,0.82
-995108950,36,female,4,Post-Graduate,Single,31557 zł brutto,Platinum,44460.0,0.57
-894036617,20,female,2,Professor,Single,14811 zł brutto,Gold,24600.0,0.19
-469284749,63,female,1,Collage,Unknown,30921 zł brutto,Platinum,44460.0,0.49
-461154168,57,female,1,high school,Married,4090 zł brutto,White,3750.0,0.33
-614183567,61,male,5,Uneducated,Single,16074 zł brutto,Gold,24600.0,0.62
-144704572,46,female,5,Post-Graduate,Single,29965 zł brutto,Platinum,44460.0,0.19
-907970268,41,male,2,Collage,Unknown,28859 zł brutto,Platinum,44460.0,0.45
-139718427,45,male,4,Collage,Single,31802 zł brutto,Platinum,44460.0,0.44
-170341420,60,female,3,Doctorate,Unknown,24857 zł brutto,Platinum,44460.0,0.39
-105232725,55,female,4,Unknown,Single,15378 zł brutto,Gold,24600.0,0.46
-481885054,29,male,1,Collage,Married,29735 zł brutto,Platinum,44460.0,0.95
-594021512,58,female,3,Professor,Unknown,3069 zł brutto,White,3750.0,0.64
-593114685,62,female,3,Collage,Unknown,15350 zł brutto,Gold,24600.0,0.62
-147493270,21,female,3,Unknown,Married,22471 zł brutto,Platinum,44460.0,0.28
-387932453,61,female,3,Uneducated,Married,12394 zł brutto,Gold,24600.0,0.16
-402825641,61,male,5,Professor,Married,31761 zł brutto,Platinum,44460.0,0.72
-156303596,23,female,4,high school,Married,24064 zł brutto,Platinum,44460.0,0.03
-103235742,46,female,3,Post-Graduate,Married,29540 zł brutto,Platinum,44460.0,0.26
-891682767,18,female,3,Post-Graduate,Single,15328 zł brutto,Gold,24600.0,0.9
-959062791,57,female,2,Unknown,Unknown,11795 zł brutto,Silver,13650.0,0.05
-804585177,49,female,2,Student,Single,31875 zł brutto,Platinum,44460.0,0.36
-931474394,60,female,3,high school,Single,8256 zł brutto,Silver,13650.0,0.08
-661446972,36,male,2,Professor,Single,28135 zł brutto,Platinum,44460.0,0.44
-622959275,40,female,4,Doctorate,Unknown,5168 zł brutto,Black,7900.0,0.14
-915583524,61,female,2,Student,Unknown,23662 zł brutto,Platinum,44460.0,0.07
-514904231,27,female,3,Post-Graduate,Married,8377 zł brutto,Silver,13650.0,0.33
-884797246,37,male,4,Graduate,Unknown,29570 zł brutto,Platinum,44460.0,0.18
-289260918,28,male,1,Uneducated,Unknown,28094 zł brutto,Platinum,44460.0,0.84
-532293423,62,female,5,Professor,Unknown,17066 zł brutto,Gold,24600.0,0.63
-960073091,39,female,3,Uneducated,Unknown,26532 zł brutto,Platinum,44460.0,0.86
-272864185,29,male,5,high school,Unknown,17942 zł brutto,Gold,24600.0,0.27
-767534942,31,male,2,Graduate,Unknown,10199 zł brutto,Silver,13650.0,0.59
-289283896,28,female,1,Uneducated,Unknown,29406 zł brutto,Platinum,44460.0,0.22
-558285514,63,female,4,Collage,Married,27330 zł brutto,Platinum,44460.0,0.83
-242489505,49,female,5,Student,Unknown,30787 zł brutto,Platinum,44460.0,0.27
-173979222,43,male,1,Uneducated,Married,5170 zł brutto,Black,7900.0,0.55
-610580486,29,male,5,Graduate,Unknown,23581 zł brutto,Platinum,44460.0,0.31
-106797675,56,male,3,Professor,Unknown,26449 zł brutto,Platinum,44460.0,0.27
-275806218,44,male,1,Student,Married,15345 zł brutto,Gold,24600.0,0.31
-282832669,46,female,4,high school,Unknown,18298 zł brutto,Platinum,44460.0,0.69
-643506336,53,female,1,Unknown,Unknown,16871 zł brutto,Gold,24600.0,0.08
-438044408,38,female,5,high school,Unknown,9797 zł brutto,Silver,13650.0,0.43
-503000642,23,female,3,high school,Unknown,13655 zł brutto,Gold,24600.0,0.31
-281059754,34,female,3,Professor,Married,30887 zł brutto,Platinum,44460.0,0.98
-425896085,29,female,5,Post-Graduate,Single,19564 zł brutto,Platinum,44460.0,0.63
-100606468,60,male,3,Professor,Unknown,11577 zł brutto,Silver,13650.0,0.04
-629717771,61,male,5,Post-Graduate,Single,12664 zł brutto,Gold,24600.0,0.9
-504897905,18,female,2,Graduate,Unknown,25461 zł brutto,Platinum,44460.0,0.33
-907967672,57,male,3,Student,Married,6229 zł brutto,Black,7900.0,0.34
-524794659,57,male,1,Unknown,Unknown,22335 zł brutto,Platinum,44460.0,0.96
-632367012,22,male,3,Unknown,Married,24903 zł brutto,Platinum,44460.0,0.73
-717731191,44,male,4,Graduate,Single,6191 zł brutto,Black,7900.0,0.87
-323658723,25,male,2,Post-Graduate,Unknown,17348 zł brutto,Gold,24600.0,0.29
-701631025,40,female,5,Professor,Married,2679 zł brutto,White,3750.0,0.28
-681900793,36,female,2,Collage,Single,19631 zł brutto,Platinum,44460.0,0.48
-678827856,26,male,2,Uneducated,Single,4099 zł brutto,White,3750.0,0.86
-687132397,23,female,2,Unknown,Married,16177 zł brutto,Gold,24600.0,0.95
-180814622,45,female,1,Post-Graduate,Unknown,3909 zł brutto,White,3750.0,0.92
-333698542,63,male,3,high school,Single,18134 zł brutto,Platinum,44460.0,0.65
-472724632,58,male,4,Collage,Single,25781 zł brutto,Platinum,44460.0,0.25
-791650414,41,male,3,high school,Single,21531 zł brutto,Platinum,44460.0,0.48
-688048279,46,male,3,Post-Graduate,Unknown,3748 zł brutto,White,3750.0,0.7
-654278787,59,female,4,Student,Single,21291 zł brutto,Platinum,44460.0,0.51
-732835885,53,female,1,Post-Graduate,Unknown,20426 zł brutto,Platinum,44460.0,0.98
-547191753,50,female,5,Doctorate,Single,14806 zł brutto,Gold,24600.0,0.52
-332623016,55,male,4,high school,Unknown,25033 zł brutto,Platinum,44460.0,0.84
-220088378,57,female,2,high school,Single,19594 zł brutto,Platinum,44460.0,0.25
-113407985,38,male,4,Doctorate,Single,25716 zł brutto,Platinum,44460.0,0.05
-162264318,44,female,2,Uneducated,Unknown,27331 zł brutto,Platinum,44460.0,0.31
-282671304,19,male,3,Graduate,Unknown,7291 zł brutto,Black,7900.0,0.62
-274362383,54,female,5,Professor,Unknown,16944 zł brutto,Gold,24600.0,0.39
-931710806,56,male,2,Doctorate,Married,25710 zł brutto,Platinum,44460.0,0.42
-559056031,31,male,3,Professor,Single,27404 zł brutto,Platinum,44460.0,0.38
-678054223,23,male,1,Doctorate,Married,3430 zł brutto,White,3750.0,0.54
-465662160,25,male,1,Doctorate,Unknown,9599 zł brutto,Silver,13650.0,0.08
-478073559,32,female,2,Doctorate,Married,24735 zł brutto,Platinum,44460.0,0.78
-996246393,22,male,5,Graduate,Unknown,6787 zł brutto,Black,7900.0,0.64
-414692541,45,male,2,Professor,Single,11052 zł brutto,Silver,13650.0,0.69
-468639584,51,male,3,Professor,Married,10663 zł brutto,Silver,13650.0,0.04
-182082019,46,female,5,high school,Single,17583 zł brutto,Gold,24600.0,0.54
-444141819,58,male,5,Post-Graduate,Unknown,14549 zł brutto,Gold,24600.0,0.78
-355807735,57,male,5,Uneducated,Single,20717 zł brutto,Platinum,44460.0,0.77
-397766993,44,female,4,Professor,Married,18444 zł brutto,Platinum,44460.0,0.66
-489045265,33,female,4,Collage,Married,3938 zł brutto,White,3750.0,0.44
-438454320,52,female,2,Unknown,Single,11947 zł brutto,Silver,13650.0,0.48
-181304193,58,female,3,Graduate,Single,9958 zł brutto,Silver,13650.0,0.44
-352321742,49,male,3,Student,Married,11888 zł brutto,Silver,13650.0,0.66
-154685781,60,male,3,Post-Graduate,Unknown,5108 zł brutto,Black,7900.0,0.87
-338123736,45,female,1,Unknown,Unknown,19064 zł brutto,Platinum,44460.0,0.52
-561584485,39,male,5,Unknown,Unknown,14836 zł brutto,Gold,24600.0,0.72
-714480060,56,male,5,Graduate,Unknown,25712 zł brutto,Platinum,44460.0,0.48
-236636905,59,male,4,Student,Single,7092 zł brutto,Black,7900.0,0.83
-759457407,28,male,3,Unknown,Unknown,30436 zł brutto,Platinum,44460.0,0.17
-468290043,47,female,1,Unknown,Single,2721 zł brutto,White,3750.0,0.64
-692636297,62,female,2,Student,Unknown,16045 zł brutto,Gold,24600.0,0.32
-129804979,22,female,5,Post-Graduate,Unknown,12255 zł brutto,Gold,24600.0,0.22
-987971053,20,female,2,Uneducated,Unknown,8789 zł brutto,Silver,13650.0,0.27
-292658443,31,male,5,Unknown,Single,31934 zł brutto,Platinum,44460.0,0.12
-621122388,56,male,1,Student,Unknown,26783 zł brutto,Platinum,44460.0,0.08
-339139938,25,female,3,Collage,Married,5592 zł brutto,Black,7900.0,0.46
-731485058,61,male,4,Student,Single,3066 zł brutto,White,3750.0,0.69
-547662851,26,male,3,Graduate,Unknown,22203 zł brutto,Platinum,44460.0,0.22
-307778160,22,male,3,Post-Graduate,Married,25921 zł brutto,Platinum,44460.0,0.56
-503735153,53,female,2,Student,Married,20691 zł brutto,Platinum,44460.0,0.08
-143214716,33,female,5,Post-Graduate,Unknown,14794 zł brutto,Gold,24600.0,0.39
-776396683,55,female,1,Collage,Single,17145 zł brutto,Gold,24600.0,0.49
-126086694,48,male,2,Post-Graduate,Married,10171 zł brutto,Silver,13650.0,0.88
-858341225,23,female,4,Collage,Unknown,17179 zł brutto,Gold,24600.0,0.33
-849519245,54,male,5,high school,Single,4096 zł brutto,White,3750.0,0.29
-483371129,23,female,2,Post-Graduate,Single,9864 zł brutto,Silver,13650.0,0.32
-860824646,59,male,4,Professor,Single,23158 zł brutto,Platinum,44460.0,0.52
-494566430,28,male,1,high school,Married,9415 zł brutto,Silver,13650.0,0.66
-883028391,61,female,1,Professor,Single,14673 zł brutto,Gold,24600.0,0.73
-617586282,18,female,1,Doctorate,Married,16695 zł brutto,Gold,24600.0,0.17
-291336905,59,male,4,Collage,Unknown,16553 zł brutto,Gold,24600.0,0.83
-328761449,27,female,3,Graduate,Married,18161 zł brutto,Platinum,44460.0,0.09
-856426923,40,male,5,Graduate,Single,31861 zł brutto,Platinum,44460.0,0.11
-683183166,46,male,3,Graduate,Married,9831 zł brutto,Silver,13650.0,0.05
-148431741,18,male,5,Uneducated,Single,22763 zł brutto,Platinum,44460.0,0.95
-381829002,58,female,2,high school,Single,24471 zł brutto,Platinum,44460.0,0.5
-580119930,46,male,4,Professor,Single,2976 zł brutto,White,3750.0,0.41
-895772385,21,female,2,Doctorate,Married,14429 zł brutto,Gold,24600.0,0.22
-733933180,62,male,1,Student,Unknown,10652 zł brutto,Silver,13650.0,0.15
-680092285,60,male,5,Collage,Married,18441 zł brutto,Platinum,44460.0,0.04
-797577440,49,male,1,Post-Graduate,Married,23088 zł brutto,Platinum,44460.0,0.06
-226984777,38,female,2,Graduate,Married,14554 zł brutto,Gold,24600.0,0.64
-439374485,52,male,4,Doctorate,Married,23061 zł brutto,Platinum,44460.0,0.59
-843466813,25,female,4,Collage,Unknown,6340 zł brutto,Black,7900.0,0.97
-126842367,42,male,3,Graduate,Married,19444 zł brutto,Platinum,44460.0,0.01
-256272151,24,female,4,Uneducated,Unknown,24491 zł brutto,Platinum,44460.0,0.65
-100659417,32,male,2,Doctorate,Married,19660 zł brutto,Platinum,44460.0,0.37
-116159398,27,female,1,Post-Graduate,Married,5752 zł brutto,Black,7900.0,0.2
-159207588,35,female,3,Graduate,Married,9150 zł brutto,Silver,13650.0,0.47
-831725082,26,male,3,Unknown,Single,20826 zł brutto,Platinum,44460.0,0.28
-877890007,34,female,1,Uneducated,Single,16863 zł brutto,Gold,24600.0,0.44
-427797924,24,female,4,Unknown,Married,21723 zł brutto,Platinum,44460.0,0.18
-501760643,53,female,5,Student,Single,3375 zł brutto,White,3750.0,0.98
-575787532,62,male,5,Doctorate,Married,5857 zł brutto,Black,7900.0,0.38
-997561670,36,female,3,Post-Graduate,Unknown,7662 zł brutto,Silver,13650.0,0.78
-864081864,34,male,4,Uneducated,Unknown,4185 zł brutto,White,3750.0,0.15
-855423769,58,male,2,Professor,Unknown,5660 zł brutto,Black,7900.0,0.19
-243993804,27,male,2,Student,Unknown,8625 zł brutto,Silver,13650.0,0.8
-499098202,61,male,5,Collage,Married,19799 zł brutto,Platinum,44460.0,0.56
-296958857,22,female,3,high school,Unknown,14394 zł brutto,Gold,24600.0,0.42
-620999302,59,male,3,Unknown,Married,5657 zł brutto,Black,7900.0,0.79
-553501101,43,female,5,high school,Married,11607 zł brutto,Silver,13650.0,0.24
-952302068,48,male,5,Unknown,Single,27876 zł brutto,Platinum,44460.0,0.07
-375361314,50,female,2,Graduate,Unknown,17379 zł brutto,Gold,24600.0,0.14
-502455105,19,male,4,Graduate,Unknown,18105 zł brutto,Platinum,44460.0,0.07
-228532202,52,male,5,Unknown,Single,28641 zł brutto,Platinum,44460.0,0.8
-327629379,38,female,2,Uneducated,Single,9869 zł brutto,Silver,13650.0,0.22
-154286509,41,male,4,Unknown,Married,17085 zł brutto,Gold,24600.0,0.67
-249504228,63,male,2,Doctorate,Married,10725 zł brutto,Silver,13650.0,0.62
-604628833,50,female,4,Unknown,Single,22892 zł brutto,Platinum,44460.0,0.41
-610314879,40,male,5,Unknown,Unknown,4272 zł brutto,White,3750.0,0.25
-707324418,30,male,1,Unknown,Married,2895 zł brutto,White,3750.0,0.67
-982640906,46,male,5,Collage,Unknown,7965 zł brutto,Silver,13650.0,0.85
-461234304,49,female,5,Post-Graduate,Single,23785 zł brutto,Platinum,44460.0,0.67
-759480728,40,female,4,Post-Graduate,Married,11988 zł brutto,Silver,13650.0,0.39
-632831586,60,male,4,Doctorate,Married,7018 zł brutto,Black,7900.0,0.84
-191090505,18,male,1,high school,Unknown,16674 zł brutto,Gold,24600.0,0.73
-797187268,27,female,4,Post-Graduate,Married,6394 zł brutto,Black,7900.0,0.81
-954196953,18,female,5,Doctorate,Married,14559 zł brutto,Gold,24600.0,0.71
-725556758,44,male,1,Unknown,Single,20897 zł brutto,Platinum,44460.0,0.04
-638677326,23,male,2,Post-Graduate,Unknown,14223 zł brutto,Gold,24600.0,0.11
-930533816,31,male,1,Collage,Unknown,25187 zł brutto,Platinum,44460.0,0.8
-739572265,62,female,4,Doctorate,Married,19763 zł brutto,Platinum,44460.0,0.12
-680332740,21,female,1,Uneducated,Single,22109 zł brutto,Platinum,44460.0,0.21
-689048031,24,male,5,Collage,Single,27451 zł brutto,Platinum,44460.0,0.51
-453427739,57,male,5,Professor,Unknown,14563 zł brutto,Gold,24600.0,0.68
-109486424,25,female,1,Graduate,Unknown,24852 zł brutto,Platinum,44460.0,0.18
-641742367,29,female,3,Unknown,Single,20493 zł brutto,Platinum,44460.0,0.2
-267283996,44,female,1,high school,Unknown,26942 zł brutto,Platinum,44460.0,0.39
-938180306,28,male,2,Post-Graduate,Unknown,11721 zł brutto,Silver,13650.0,0.96
-300078525,61,male,5,Doctorate,Single,29461 zł brutto,Platinum,44460.0,0.84
-371618324,32,female,2,Doctorate,Single,9181 zł brutto,Silver,13650.0,0.19
-974190894,51,male,3,Uneducated,Married,5305 zł brutto,Black,7900.0,0.87
-235854286,48,male,4,Graduate,Married,7825 zł brutto,Silver,13650.0,0.38
-339499491,52,male,1,Doctorate,Married,5040 zł brutto,Black,7900.0,0.76
-276880861,30,female,3,Professor,Single,22002 zł brutto,Platinum,44460.0,0.18
-313087203,28,female,3,Student,Single,18240 zł brutto,Platinum,44460.0,0.45
-309355377,38,male,5,Graduate,Single,9970 zł brutto,Silver,13650.0,0.77
-171199252,25,female,3,Collage,Married,14922 zł brutto,Gold,24600.0,0.17
-806584840,27,male,5,Graduate,Married,25980 zł brutto,Platinum,44460.0,0.13
-193332559,24,female,4,Post-Graduate,Single,9841 zł brutto,Silver,13650.0,0.59
-442681274,18,male,3,Unknown,Married,6435 zł brutto,Black,7900.0,0.24
-735328020,58,female,5,Collage,Single,26038 zł brutto,Platinum,44460.0,0.25
-333691681,62,male,2,Unknown,Single,4107 zł brutto,White,3750.0,0.26
-243344327,47,female,1,Professor,Unknown,14046 zł brutto,Gold,24600.0,0.38
-142185327,27,female,2,Post-Graduate,Married,3769 zł brutto,White,3750.0,0.76
-544614768,31,male,2,Unknown,Unknown,7633 zł brutto,Silver,13650.0,0.05
-251344386,35,male,5,Professor,Unknown,28218 zł brutto,Platinum,44460.0,0.81
-797307875,50,male,5,Uneducated,Single,14750 zł brutto,Gold,24600.0,0.74
-929604057,20,male,1,Student,Single,8808 zł brutto,Silver,13650.0,0.11
-729128566,63,male,1,Student,Single,24150 zł brutto,Platinum,44460.0,0.82
-546250143,58,male,3,Post-Graduate,Married,29649 zł brutto,Platinum,44460.0,0.15
-359750300,26,male,1,Student,Unknown,18546 zł brutto,Platinum,44460.0,0.01
-486954975,36,female,4,Student,Unknown,12939 zł brutto,Gold,24600.0,0.08
-908194945,20,female,4,Unknown,Single,15403 zł brutto,Gold,24600.0,0.25
-816629688,51,male,3,Uneducated,Married,6739 zł brutto,Black,7900.0,0.6
-316611709,37,female,2,Professor,Married,4264 zł brutto,White,3750.0,0.57
-975135059,24,female,1,Uneducated,Single,28464 zł brutto,Platinum,44460.0,0.43
-781038337,41,male,4,Collage,Single,21716 zł brutto,Platinum,44460.0,0.57
-534400665,35,female,5,Doctorate,Single,21942 zł brutto,Platinum,44460.0,0.31
-798903810,58,female,2,Graduate,Unknown,10975 zł brutto,Silver,13650.0,0.86
-946661921,56,female,5,Collage,Unknown,11981 zł brutto,Silver,13650.0,0.23
-616780112,52,male,1,Doctorate,Single,31253 zł brutto,Platinum,44460.0,0.7
-911389476,56,male,3,Student,Single,15927 zł brutto,Gold,24600.0,0.54
-296552567,57,male,1,Doctorate,Single,17537 zł brutto,Gold,24600.0,0.3
-135199117,58,female,5,Professor,Unknown,8436 zł brutto,Silver,13650.0,0.45
-329883027,36,male,4,Professor,Unknown,14011 zł brutto,Gold,24600.0,0.43
-601578163,29,male,3,Student,Unknown,23988 zł brutto,Platinum,44460.0,0.3
-241599443,26,female,5,Collage,Unknown,25730 zł brutto,Platinum,44460.0,0.89
-974881759,60,male,4,Unknown,Married,24991 zł brutto,Platinum,44460.0,0.53
-592201940,22,male,2,high school,Married,18734 zł brutto,Platinum,44460.0,0.19
-548956646,55,female,2,Doctorate,Married,27694 zł brutto,Platinum,44460.0,0.48
-903492752,31,female,3,Student,Married,9217 zł brutto,Silver,13650.0,0.67
-929721034,28,female,4,Collage,Unknown,11587 zł brutto,Silver,13650.0,0.82
-998685087,54,female,1,Professor,Unknown,5085 zł brutto,Black,7900.0,0.55
-206708633,31,male,1,Student,Married,19147 zł brutto,Platinum,44460.0,0.36
-433763422,36,female,4,Collage,Single,20794 zł brutto,Platinum,44460.0,0.56
-338099596,62,male,4,Doctorate,Married,7169 zł brutto,Black,7900.0,0.97
-978220909,31,male,2,Doctorate,Single,18010 zł brutto,Platinum,44460.0,0.11
-140505430,52,male,4,Post-Graduate,Married,31057 zł brutto,Platinum,44460.0,0.44
-915216532,31,male,5,Collage,Married,11879 zł brutto,Silver,13650.0,0.94
-856007328,37,male,4,Graduate,Married,10048 zł brutto,Silver,13650.0,0.63
-120044951,35,female,3,high school,Married,26560 zł brutto,Platinum,44460.0,0.46
-288973814,31,male,1,Professor,Unknown,15311 zł brutto,Gold,24600.0,0.4
-389622233,60,female,5,Post-Graduate,Unknown,16996 zł brutto,Gold,24600.0,0.31
-337337353,35,female,4,Student,Married,19578 zł brutto,Platinum,44460.0,0.01
-931902974,36,male,5,Uneducated,Single,18518 zł brutto,Platinum,44460.0,0.52
-183047322,25,male,4,Collage,Single,16107 zł brutto,Gold,24600.0,0.98
-286292512,32,male,1,Unknown,Married,22408 zł brutto,Platinum,44460.0,0.16
-138851624,22,male,1,Professor,Married,29063 zł brutto,Platinum,44460.0,0.57
-274797874,58,male,1,Post-Graduate,Single,28070 zł brutto,Platinum,44460.0,0.86
-156006885,27,female,2,Uneducated,Unknown,18672 zł brutto,Platinum,44460.0,0.78
-410099974,46,male,4,Uneducated,Single,22942 zł brutto,Platinum,44460.0,0.07
-276638557,19,male,1,high school,Married,5300 zł brutto,Black,7900.0,0.2
-992547154,56,female,1,Doctorate,Married,11862 zł brutto,Silver,13650.0,0.78
-677531453,22,male,3,Post-Graduate,Married,2719 zł brutto,White,3750.0,0.06
-521834263,59,female,1,Post-Graduate,Single,19536 zł brutto,Platinum,44460.0,0.78
-179172094,29,male,4,Post-Graduate,Unknown,16465 zł brutto,Gold,24600.0,0.69
-139548910,32,male,5,Doctorate,Single,3970 zł brutto,White,3750.0,0.43
-418810250,62,female,3,Student,Married,20294 zł brutto,Platinum,44460.0,0.51
-213012202,30,female,1,Doctorate,Unknown,18387 zł brutto,Platinum,44460.0,0.1
-664208195,35,female,3,Doctorate,Single,12206 zł brutto,Gold,24600.0,0.76
-858629872,41,male,5,high school,Married,8186 zł brutto,Silver,13650.0,0.18
-516586793,57,female,2,Post-Graduate,Single,5464 zł brutto,Black,7900.0,0.77
-448705549,30,male,3,Collage,Single,27040 zł brutto,Platinum,44460.0,0.47
-494868034,22,male,5,Graduate,Single,26323 zł brutto,Platinum,44460.0,0.67
-526407615,58,female,3,Student,Married,29561 zł brutto,Platinum,44460.0,0.32
-752977583,54,male,3,Post-Graduate,Unknown,13379 zł brutto,Gold,24600.0,0.39
-691314597,47,male,4,Unknown,Married,22997 zł brutto,Platinum,44460.0,0.88
-380042421,47,female,3,Uneducated,Single,30659 zł brutto,Platinum,44460.0,0.83
-858476327,48,female,3,Student,Married,9460 zł brutto,Silver,13650.0,0.55
-872484837,39,male,2,Student,Single,15058 zł brutto,Gold,24600.0,0.07
-852540866,54,male,4,Post-Graduate,Unknown,16020 zł brutto,Gold,24600.0,0.47
-574780292,43,female,5,Professor,Married,29850 zł brutto,Platinum,44460.0,0.24
-544214102,37,female,3,Doctorate,Unknown,18489 zł brutto,Platinum,44460.0,0.6
-834275033,39,female,4,Post-Graduate,Single,8672 zł brutto,Silver,13650.0,0.95
-211394838,30,male,4,Graduate,Unknown,11444 zł brutto,Silver,13650.0,0.1
-806030268,56,male,5,Collage,Married,29916 zł brutto,Platinum,44460.0,0.57
-120736953,50,male,1,high school,Unknown,23122 zł brutto,Platinum,44460.0,0.65
-102267954,44,male,2,Uneducated,Married,14276 zł brutto,Gold,24600.0,0.34
-739863971,55,male,2,Student,Unknown,8621 zł brutto,Silver,13650.0,0.61
-564811457,55,male,3,Collage,Single,28006 zł brutto,Platinum,44460.0,0.67
-572950946,52,female,4,Graduate,Married,4266 zł brutto,White,3750.0,0.64
-820408919,42,male,2,Doctorate,Single,21671 zł brutto,Platinum,44460.0,1.0
-502216890,60,female,2,Student,Married,23686 zł brutto,Platinum,44460.0,0.93
-296087256,18,female,2,high school,Single,21202 zł brutto,Platinum,44460.0,0.34
-789344253,22,male,3,Post-Graduate,Single,17654 zł brutto,Gold,24600.0,0.51
-760747820,55,female,3,Professor,Single,9044 zł brutto,Silver,13650.0,0.22
-267450696,53,female,5,Student,Single,18647 zł brutto,Platinum,44460.0,0.9
-675536108,39,male,5,Graduate,Married,21576 zł brutto,Platinum,44460.0,0.5
-421203123,42,male,5,Post-Graduate,Single,17028 zł brutto,Gold,24600.0,0.15
-980417371,34,female,2,Collage,Single,9506 zł brutto,Silver,13650.0,0.11
-672965479,62,female,2,Graduate,Unknown,4413 zł brutto,White,3750.0,0.95
-823051412,47,male,1,Collage,Married,24836 zł brutto,Platinum,44460.0,0.62
-693286915,47,male,1,Collage,Married,27195 zł brutto,Platinum,44460.0,0.93
-887523729,39,male,4,Student,Single,24391 zł brutto,Platinum,44460.0,0.23
-834784182,47,male,2,high school,Unknown,20548 zł brutto,Platinum,44460.0,0.28
-229978362,46,female,2,Unknown,Unknown,24238 zł brutto,Platinum,44460.0,0.03
-866650865,34,female,1,Student,Unknown,26250 zł brutto,Platinum,44460.0,0.55
-617184303,40,female,4,Post-Graduate,Single,19235 zł brutto,Platinum,44460.0,0.76
-621495988,47,female,2,Student,Unknown,18504 zł brutto,Platinum,44460.0,0.69
-288691109,60,female,4,Doctorate,Married,29004 zł brutto,Platinum,44460.0,0.03
-454423176,47,female,4,Graduate,Married,7774 zł brutto,Silver,13650.0,0.12
-466544322,57,female,4,Unknown,Unknown,3270 zł brutto,White,3750.0,0.11
-537042064,22,male,4,Professor,Single,25744 zł brutto,Platinum,44460.0,0.78
-564456033,25,female,4,Uneducated,Unknown,7768 zł brutto,Silver,13650.0,0.13
-603716291,49,female,1,Graduate,Single,29379 zł brutto,Platinum,44460.0,0.77
-538811262,22,female,2,Uneducated,Unknown,14600 zł brutto,Gold,24600.0,0.58
-459777262,48,male,3,Collage,Unknown,25547 zł brutto,Platinum,44460.0,0.85
-559504572,21,male,1,Professor,Single,22692 zł brutto,Platinum,44460.0,0.09
-236601255,26,female,5,Collage,Single,22502 zł brutto,Platinum,44460.0,0.52
-555777216,54,female,5,Professor,Married,14049 zł brutto,Gold,24600.0,0.54
-925949947,33,female,3,Unknown,Unknown,23694 zł brutto,Platinum,44460.0,0.64
-184808172,62,female,1,Doctorate,Single,3250 zł brutto,White,3750.0,0.52
-318925042,38,female,2,Doctorate,Married,13472 zł brutto,Gold,24600.0,0.99
-983411914,53,female,3,Student,Unknown,23099 zł brutto,Platinum,44460.0,0.19
-568756891,63,female,2,Post-Graduate,Married,6298 zł brutto,Black,7900.0,0.19
-317431175,26,male,1,Graduate,Single,23352 zł brutto,Platinum,44460.0,0.1
-760498160,44,male,5,Uneducated,Unknown,14764 zł brutto,Gold,24600.0,0.7
-595350502,43,female,1,Post-Graduate,Single,4846 zł brutto,White,3750.0,0.16
-309132145,25,male,4,Unknown,Unknown,3694 zł brutto,White,3750.0,0.11
-149895609,43,male,1,Doctorate,Unknown,3101 zł brutto,White,3750.0,0.87
-130534421,19,male,2,Student,Single,25383 zł brutto,Platinum,44460.0,0.35
-432095081,30,female,2,Professor,Single,7606 zł brutto,Silver,13650.0,0.27
-771721330,31,male,1,Graduate,Single,11321 zł brutto,Silver,13650.0,0.5
-111591796,35,female,4,Collage,Single,25255 zł brutto,Platinum,44460.0,0.25
-116563884,28,female,5,Collage,Unknown,3868 zł brutto,White,3750.0,0.06
-942232526,40,male,4,Collage,Single,11454 zł brutto,Silver,13650.0,0.59
-639569398,50,male,4,Student,Single,24703 zł brutto,Platinum,44460.0,0.02
-294125366,53,female,4,Post-Graduate,Single,15970 zł brutto,Gold,24600.0,0.27
-998042264,51,female,5,Doctorate,Unknown,22305 zł brutto,Platinum,44460.0,0.32
-970980224,57,female,3,Professor,Single,29053 zł brutto,Platinum,44460.0,0.76
-772767396,28,male,5,Uneducated,Married,9013 zł brutto,Silver,13650.0,0.64
-381582704,40,female,5,Student,Married,31088 zł brutto,Platinum,44460.0,0.56
-828189667,41,female,2,Collage,Unknown,7180 zł brutto,Black,7900.0,0.61
-819968926,38,female,1,high school,Single,23300 zł brutto,Platinum,44460.0,0.61
-173470137,20,male,5,Doctorate,Single,6563 zł brutto,Black,7900.0,0.5
-314501468,18,male,1,Uneducated,Unknown,28203 zł brutto,Platinum,44460.0,0.3
-621930250,35,female,4,high school,Married,27563 zł brutto,Platinum,44460.0,0.23
-210313795,24,female,4,Student,Unknown,24591 zł brutto,Platinum,44460.0,0.98
-655647503,61,female,4,Post-Graduate,Married,9815 zł brutto,Silver,13650.0,0.98
-435731780,42,female,3,Uneducated,Unknown,31499 zł brutto,Platinum,44460.0,0.08
-206048996,36,female,5,Doctorate,Single,24332 zł brutto,Platinum,44460.0,0.12
-236189272,33,female,3,Unknown,Single,6037 zł brutto,Black,7900.0,0.66
-985853277,34,male,4,Professor,Single,3288 zł brutto,White,3750.0,0.27
-817609819,32,female,5,Professor,Single,13692 zł brutto,Gold,24600.0,0.43
-698550418,22,male,1,Graduate,Married,16810 zł brutto,Gold,24600.0,0.17
-639999042,45,female,3,Student,Single,18248 zł brutto,Platinum,44460.0,0.13
-929391235,35,female,1,Doctorate,Unknown,20182 zł brutto,Platinum,44460.0,0.22
-454536001,59,male,3,Student,Married,8019 zł brutto,Silver,13650.0,0.86
-189912148,24,male,3,high school,Single,23615 zł brutto,Platinum,44460.0,0.99
-769062281,26,male,3,Unknown,Married,23383 zł brutto,Platinum,44460.0,0.71
-757038637,27,female,5,Unknown,Single,2833 zł brutto,White,3750.0,0.38
-108122409,44,male,4,Student,Single,29166 zł brutto,Platinum,44460.0,0.49
-142070553,40,male,1,Collage,Married,25548 zł brutto,Platinum,44460.0,0.18
-783768643,55,female,1,Graduate,Married,29392 zł brutto,Platinum,44460.0,0.94
-319405303,27,male,5,Post-Graduate,Married,17963 zł brutto,Gold,24600.0,0.63
-539595081,61,female,3,Graduate,Married,28872 zł brutto,Platinum,44460.0,0.64
-689138477,51,male,1,Post-Graduate,Single,26893 zł brutto,Platinum,44460.0,0.91
-190040835,20,female,3,Professor,Single,18800 zł brutto,Platinum,44460.0,0.43
-453139714,37,female,4,Graduate,Married,24643 zł brutto,Platinum,44460.0,0.88
-305027578,52,female,1,Professor,Single,21849 zł brutto,Platinum,44460.0,0.37
-270397322,34,female,5,Post-Graduate,Unknown,13243 zł brutto,Gold,24600.0,0.06
-747217360,39,male,5,Collage,Married,26703 zł brutto,Platinum,44460.0,0.5
-864999997,41,male,2,Student,Married,26579 zł brutto,Platinum,44460.0,0.62
-750778350,47,female,5,Uneducated,Unknown,20969 zł brutto,Platinum,44460.0,0.27
-873926284,43,female,4,Uneducated,Unknown,22731 zł brutto,Platinum,44460.0,0.15
-772710079,54,female,4,Unknown,Married,19403 zł brutto,Platinum,44460.0,0.92
-502878453,42,male,5,Student,Married,14749 zł brutto,Gold,24600.0,0.62
-236119427,63,male,5,Post-Graduate,Single,19889 zł brutto,Platinum,44460.0,0.04
-317517626,37,female,5,Unknown,Married,22505 zł brutto,Platinum,44460.0,0.13
-502844227,63,female,4,Student,Single,7206 zł brutto,Black,7900.0,0.31
-231086895,49,female,5,Professor,Unknown,27879 zł brutto,Platinum,44460.0,0.29
-905350415,20,female,1,Doctorate,Single,9041 zł brutto,Silver,13650.0,0.99
-603432766,57,female,2,Professor,Single,12065 zł brutto,Gold,24600.0,0.99
-632348357,42,male,2,Student,Single,20410 zł brutto,Platinum,44460.0,0.93
-928964422,39,male,1,Professor,Single,19624 zł brutto,Platinum,44460.0,0.68
-220848450,38,female,5,Unknown,Married,28184 zł brutto,Platinum,44460.0,0.02
-584823283,58,male,3,Graduate,Single,12305 zł brutto,Gold,24600.0,0.77
-498755027,42,female,4,Student,Married,3449 zł brutto,White,3750.0,0.35
-804773613,21,male,4,Doctorate,Married,20550 zł brutto,Platinum,44460.0,0.47
-950533624,46,male,3,Doctorate,Single,18716 zł brutto,Platinum,44460.0,0.27
-370669585,27,male,5,Professor,Married,8114 zł brutto,Silver,13650.0,0.33
-950925949,31,female,2,Unknown,Married,15189 zł brutto,Gold,24600.0,0.78
-833219361,59,male,2,Graduate,Single,20630 zł brutto,Platinum,44460.0,0.29
-305842839,62,female,3,Professor,Married,5733 zł brutto,Black,7900.0,0.34
-350126619,29,male,1,Professor,Single,3379 zł brutto,White,3750.0,0.78
-646834357,35,male,5,Unknown,Unknown,19760 zł brutto,Platinum,44460.0,0.38
-204427564,28,male,2,Professor,Single,9572 zł brutto,Silver,13650.0,0.53
-454068317,34,male,3,Collage,Unknown,9498 zł brutto,Silver,13650.0,0.89
-771318601,32,male,2,Graduate,Married,8912 zł brutto,Silver,13650.0,0.45
-156709607,29,female,5,Doctorate,Married,8508 zł brutto,Silver,13650.0,0.74
-489900706,20,female,3,Unknown,Single,9803 zł brutto,Silver,13650.0,0.51
-393055358,40,male,1,Graduate,Unknown,14803 zł brutto,Gold,24600.0,0.05
-130407323,37,male,5,high school,Single,6808 zł brutto,Black,7900.0,0.95
-335564208,28,male,3,Unknown,Unknown,22540 zł brutto,Platinum,44460.0,0.52
-698909982,21,female,2,Professor,Unknown,9387 zł brutto,Silver,13650.0,0.21
-984557472,43,male,1,Collage,Single,4884 zł brutto,White,3750.0,0.55
-217888219,24,female,4,Collage,Single,31681 zł brutto,Platinum,44460.0,0.01
-392537490,24,male,3,Professor,Single,5340 zł brutto,Black,7900.0,0.92
-878661783,32,female,1,high school,Unknown,16415 zł brutto,Gold,24600.0,0.43
-508884340,51,female,3,Uneducated,Unknown,9880 zł brutto,Silver,13650.0,0.8
-735578356,22,male,2,Student,Unknown,19144 zł brutto,Platinum,44460.0,0.56
-701598486,21,male,1,Uneducated,Unknown,25751 zł brutto,Platinum,44460.0,0.57
-618746090,40,female,5,Graduate,Unknown,3384 zł brutto,White,3750.0,0.48
-253949173,20,male,1,Graduate,Single,24194 zł brutto,Platinum,44460.0,0.74
-446036408,39,female,2,Graduate,Single,2547 zł brutto,White,3750.0,0.58
-973567842,58,male,4,Post-Graduate,Unknown,9485 zł brutto,Silver,13650.0,0.16
-238527018,22,male,2,Professor,Single,23780 zł brutto,Platinum,44460.0,0.74
-890978039,30,male,1,Graduate,Married,15544 zł brutto,Gold,24600.0,0.59
-951886887,57,female,2,Student,Unknown,30738 zł brutto,Platinum,44460.0,0.67
-134367926,45,female,3,Unknown,Married,4511 zł brutto,White,3750.0,0.58
-550571076,40,male,2,high school,Single,11474 zł brutto,Silver,13650.0,0.01
-667772965,26,female,2,Post-Graduate,Unknown,10633 zł brutto,Silver,13650.0,0.7
-402503792,41,male,5,Student,Married,10928 zł brutto,Silver,13650.0,0.88
-566687841,31,female,1,Graduate,Unknown,25962 zł brutto,Platinum,44460.0,0.55
-473195365,46,female,1,Graduate,Married,12262 zł brutto,Gold,24600.0,0.59
-702528385,23,male,1,Collage,Married,13770 zł brutto,Gold,24600.0,0.3
-329147235,43,female,4,Collage,Unknown,26390 zł brutto,Platinum,44460.0,0.27
-864624016,41,male,5,Graduate,Single,5735 zł brutto,Black,7900.0,0.82
-768513852,25,male,1,high school,Married,9872 zł brutto,Silver,13650.0,0.0
-165775740,36,female,2,Student,Married,4984 zł brutto,White,3750.0,0.23
-590412169,50,male,2,high school,Unknown,31185 zł brutto,Platinum,44460.0,0.82
-156157208,44,male,5,Collage,Married,15511 zł brutto,Gold,24600.0,0.58
-438995788,57,female,4,Post-Graduate,Unknown,4692 zł brutto,White,3750.0,0.69
-977171509,53,male,1,Unknown,Unknown,7945 zł brutto,Silver,13650.0,0.69
-317219022,23,female,1,Doctorate,Single,31443 zł brutto,Platinum,44460.0,0.93
-149391266,22,female,2,Doctorate,Single,26459 zł brutto,Platinum,44460.0,0.29
-142755695,47,male,4,Doctorate,Married,22899 zł brutto,Platinum,44460.0,0.64
-855984698,46,male,1,Uneducated,Unknown,25697 zł brutto,Platinum,44460.0,0.87
-613614647,46,female,2,Professor,Married,7582 zł brutto,Silver,13650.0,0.03
-487912130,56,female,1,Uneducated,Single,14151 zł brutto,Gold,24600.0,0.82
-270206451,45,female,5,Collage,Single,22353 zł brutto,Platinum,44460.0,0.49
-961294387,42,female,4,Graduate,Single,4965 zł brutto,White,3750.0,0.61
-754493932,45,male,5,Professor,Unknown,19183 zł brutto,Platinum,44460.0,0.33
-392037424,45,female,4,Post-Graduate,Single,22144 zł brutto,Platinum,44460.0,0.07
-211279064,45,male,2,Doctorate,Married,31635 zł brutto,Platinum,44460.0,0.44
-647113823,63,female,5,Post-Graduate,Married,6916 zł brutto,Black,7900.0,0.49
-851657003,36,female,4,Collage,Married,16989 zł brutto,Gold,24600.0,0.99
-255535514,63,female,4,Post-Graduate,Single,17767 zł brutto,Gold,24600.0,0.53
-370880963,55,female,2,Professor,Single,7022 zł brutto,Black,7900.0,0.38
-235263856,50,male,5,Doctorate,Married,15192 zł brutto,Gold,24600.0,0.86
-985827009,20,male,4,Collage,Married,29518 zł brutto,Platinum,44460.0,0.4
-524496573,48,male,5,Doctorate,Single,20496 zł brutto,Platinum,44460.0,0.32
-244059293,24,female,1,high school,Married,17431 zł brutto,Gold,24600.0,0.68
-768484942,61,female,3,Doctorate,Married,7650 zł brutto,Silver,13650.0,0.57
-595070699,33,female,5,Graduate,Unknown,24401 zł brutto,Platinum,44460.0,0.18
-296987220,23,female,5,Doctorate,Single,7591 zł brutto,Silver,13650.0,0.28
-966123499,30,female,2,Graduate,Married,20272 zł brutto,Platinum,44460.0,0.16
-190642620,40,male,5,Professor,Single,28483 zł brutto,Platinum,44460.0,0.05
-486890450,21,male,3,Uneducated,Married,31680 zł brutto,Platinum,44460.0,0.04
-285049591,48,male,5,Collage,Married,11072 zł brutto,Silver,13650.0,0.89
-447476443,34,female,4,high school,Married,8945 zł brutto,Silver,13650.0,0.73
-406136195,49,male,1,Professor,Single,18073 zł brutto,Platinum,44460.0,0.24
-555987284,24,female,5,Doctorate,Married,13550 zł brutto,Gold,24600.0,0.73
-578838433,27,male,3,Doctorate,Single,26926 zł brutto,Platinum,44460.0,0.72
-407485403,52,female,1,Graduate,Single,28949 zł brutto,Platinum,44460.0,0.22
-734804829,56,female,4,high school,Single,26914 zł brutto,Platinum,44460.0,0.06
-337044613,49,male,3,Student,Single,28617 zł brutto,Platinum,44460.0,0.84
-496287104,41,female,4,high school,Unknown,12067 zł brutto,Gold,24600.0,0.05
-637099165,22,female,1,Uneducated,Married,5512 zł brutto,Black,7900.0,0.9
-431420505,52,female,4,Post-Graduate,Single,11470 zł brutto,Silver,13650.0,0.87
-931702674,46,male,5,Collage,Unknown,25459 zł brutto,Platinum,44460.0,0.45
-406229172,46,male,4,Collage,Single,25736 zł brutto,Platinum,44460.0,0.11
-834214813,63,female,3,Uneducated,Single,25382 zł brutto,Platinum,44460.0,0.75
-152243596,19,male,3,Doctorate,Unknown,7686 zł brutto,Silver,13650.0,0.97
-647516870,40,male,4,Uneducated,Married,26579 zł brutto,Platinum,44460.0,0.48
-211119361,23,female,2,high school,Married,24246 zł brutto,Platinum,44460.0,0.38
-517644081,51,male,2,Collage,Married,31676 zł brutto,Platinum,44460.0,0.67
-754750259,30,male,5,Post-Graduate,Married,14038 zł brutto,Gold,24600.0,0.94
-661147952,56,male,4,high school,Single,3267 zł brutto,White,3750.0,0.01
-834445905,43,male,2,Student,Single,28008 zł brutto,Platinum,44460.0,0.58
-166614508,56,female,4,high school,Single,9234 zł brutto,Silver,13650.0,0.65
-972693062,24,male,3,Unknown,Single,17168 zł brutto,Gold,24600.0,0.08
-550166962,44,male,2,Graduate,Unknown,15692 zł brutto,Gold,24600.0,0.57
-914317429,37,male,2,Uneducated,Single,29866 zł brutto,Platinum,44460.0,0.0
-270913002,26,male,2,Graduate,Married,17460 zł brutto,Gold,24600.0,0.29
-419887162,18,female,2,Uneducated,Unknown,11544 zł brutto,Silver,13650.0,0.08
-165371280,23,male,3,Collage,Single,20366 zł brutto,Platinum,44460.0,0.1
-546261180,22,female,1,Graduate,Single,8771 zł brutto,Silver,13650.0,0.18
-782781762,53,male,3,Doctorate,Single,8818 zł brutto,Silver,13650.0,0.9
-916952132,51,female,1,Post-Graduate,Unknown,16477 zł brutto,Gold,24600.0,0.75
-888029998,43,female,4,Uneducated,Unknown,24487 zł brutto,Platinum,44460.0,0.07
-219602127,56,female,3,Collage,Married,14351 zł brutto,Gold,24600.0,0.33
-682664842,45,male,3,Graduate,Married,31077 zł brutto,Platinum,44460.0,0.15
-343058933,44,male,4,high school,Unknown,31455 zł brutto,Platinum,44460.0,0.32
-856076559,35,female,5,Professor,Single,26201 zł brutto,Platinum,44460.0,0.3
-774009222,51,male,2,Uneducated,Unknown,20811 zł brutto,Platinum,44460.0,0.55
-569690055,30,female,3,Professor,Married,14337 zł brutto,Gold,24600.0,0.99
-928326673,26,male,5,Doctorate,Unknown,4358 zł brutto,White,3750.0,0.96
-955209264,54,male,1,Post-Graduate,Married,27029 zł brutto,Platinum,44460.0,0.31
-456820334,47,male,2,Student,Married,15187 zł brutto,Gold,24600.0,0.76
-808529595,35,female,3,Post-Graduate,Unknown,19957 zł brutto,Platinum,44460.0,0.81
-443291776,26,female,3,Doctorate,Unknown,15692 zł brutto,Gold,24600.0,0.8
-927409433,32,female,2,Post-Graduate,Married,10837 zł brutto,Silver,13650.0,0.23
-607949137,19,male,2,Student,Married,9967 zł brutto,Silver,13650.0,0.23
-275433015,59,male,2,Post-Graduate,Single,6480 zł brutto,Black,7900.0,0.35
-709538465,39,male,2,Doctorate,Married,13319 zł brutto,Gold,24600.0,0.93
-807278467,57,male,5,Graduate,Married,27842 zł brutto,Platinum,44460.0,0.66
-465816646,50,male,5,Professor,Unknown,31620 zł brutto,Platinum,44460.0,0.77
-227602847,62,male,2,Doctorate,Married,30351 zł brutto,Platinum,44460.0,0.41
-855428852,36,male,5,Uneducated,Unknown,26443 zł brutto,Platinum,44460.0,0.25
-561626590,20,male,1,Graduate,Single,30983 zł brutto,Platinum,44460.0,0.43
-212744691,28,female,5,Graduate,Single,14636 zł brutto,Gold,24600.0,0.34
-928730980,26,male,3,Doctorate,Unknown,30145 zł brutto,Platinum,44460.0,0.5
-257870351,43,male,3,Student,Married,15327 zł brutto,Gold,24600.0,0.14
-295473462,47,female,5,Post-Graduate,Single,27256 zł brutto,Platinum,44460.0,0.8
-532449496,59,male,3,Student,Married,4359 zł brutto,White,3750.0,0.23
-490033824,36,female,4,Post-Graduate,Married,14863 zł brutto,Gold,24600.0,0.84
-846720039,61,female,1,high school,Married,20236 zł brutto,Platinum,44460.0,0.66
-353191959,51,male,1,Student,Unknown,30535 zł brutto,Platinum,44460.0,0.95
-365091245,58,male,2,Uneducated,Married,21872 zł brutto,Platinum,44460.0,0.09
-274206281,48,female,3,Collage,Single,30364 zł brutto,Platinum,44460.0,0.18
-370179356,50,female,3,Graduate,Unknown,12776 zł brutto,Gold,24600.0,0.16
-725486400,31,female,1,Uneducated,Married,6478 zł brutto,Black,7900.0,0.78
-486693693,30,female,5,Professor,Unknown,24914 zł brutto,Platinum,44460.0,0.0
-223451748,20,female,3,Professor,Married,13172 zł brutto,Gold,24600.0,0.11
-416297288,20,female,5,Doctorate,Unknown,16146 zł brutto,Gold,24600.0,0.64
-441855508,33,female,5,Professor,Single,14986 zł brutto,Gold,24600.0,0.52
-947258797,20,female,5,Unknown,Married,12512 zł brutto,Gold,24600.0,0.85
-501084876,53,male,5,Student,Married,5314 zł brutto,Black,7900.0,0.92
-581216551,30,female,2,high school,Married,11216 zł brutto,Silver,13650.0,0.07
-251030571,19,female,2,Professor,Married,12760 zł brutto,Gold,24600.0,0.7
-629883146,20,male,3,Uneducated,Single,2518 zł brutto,White,3750.0,0.17
-155311472,56,female,1,Unknown,Single,8373 zł brutto,Silver,13650.0,0.92
-418786073,55,female,2,high school,Single,31172 zł brutto,Platinum,44460.0,0.02
-315280175,50,male,1,Unknown,Single,27341 zł brutto,Platinum,44460.0,0.42
-503504376,34,male,1,high school,Single,18087 zł brutto,Platinum,44460.0,0.2
-763072416,61,male,2,Uneducated,Married,7356 zł brutto,Black,7900.0,0.37
-122338813,51,male,5,Collage,Unknown,19567 zł brutto,Platinum,44460.0,1.0
-254962285,61,female,4,Unknown,Married,23254 zł brutto,Platinum,44460.0,0.27
-917358272,34,female,1,Collage,Unknown,28476 zł brutto,Platinum,44460.0,0.61
-602962836,27,male,2,Post-Graduate,Unknown,6774 zł brutto,Black,7900.0,0.66
-228106855,35,female,2,Post-Graduate,Unknown,26282 zł brutto,Platinum,44460.0,0.05
-428683877,63,female,3,Unknown,Single,27743 zł brutto,Platinum,44460.0,0.13
-114512889,50,female,1,Unknown,Married,21491 zł brutto,Platinum,44460.0,0.62
-379984042,63,male,4,Post-Graduate,Unknown,22435 zł brutto,Platinum,44460.0,0.22
-223157058,26,male,5,Unknown,Married,2604 zł brutto,White,3750.0,0.24
-567635601,53,female,5,Professor,Married,4786 zł brutto,White,3750.0,0.63
-891283982,35,male,4,Graduate,Married,10125 zł brutto,Silver,13650.0,0.55
+Customer_number, Customer_age, Gender, Number_of_counts, Education_level, Marital_status, Earnings, Card_Category, Credit_limit, Avg_utilities_ratio, Attrition_flag
+103160653,20,female,1,Student,Unknown,6998 zł brutto,Black,7900.0,0.23,Attrited Customer
+427062376,35,female,2,Unknown,Unknown,10567 zł brutto,Silver,13650.0,0.71,Existing Customer
+622855633,60,female,5,Collage,Unknown,3631 zł brutto,White,3750.0,0.97,Existing Customer
+655996248,42,male,3,Post-Graduate,Single,4944 zł brutto,White,3750.0,0.81,Attrited Customer
+731408874,20,female,5,Professor,Single,17466 zł brutto,Gold,24600.0,0.15,Existing Customer
+232773007,28,female,1,Uneducated,Single,21893 zł brutto,Platinum,44460.0,0.57,Existing Customer
+768379504,52,female,2,high school,Single,9636 zł brutto,Silver,13650.0,0.74,Attrited Customer
+667271871,24,male,2,Collage,Married,18815 zł brutto,Platinum,44460.0,0.99,Existing Customer
+119067928,41,female,2,Student,Single,8446 zł brutto,Silver,13650.0,0.56,Existing Customer
+431050088,28,male,2,Post-Graduate,Married,23803 zł brutto,Platinum,44460.0,0.58,Attrited Customer
+734121302,26,male,2,Post-Graduate,Married,19387 zł brutto,Platinum,44460.0,0.78,Existing Customer
+501313014,38,female,3,Unknown,Single,15717 zł brutto,Gold,24600.0,0.94,Existing Customer
+956526517,50,male,3,Doctorate,Married,10735 zł brutto,Silver,13650.0,0.26,Existing Customer
+234471755,31,female,4,Professor,Single,10077 zł brutto,Silver,13650.0,0.65,Attrited Customer
+545942394,34,female,2,Doctorate,Married,18464 zł brutto,Platinum,44460.0,0.12,Existing Customer
+540873802,44,female,5,Student,Single,18807 zł brutto,Platinum,44460.0,0.48,Existing Customer
+995248512,48,female,2,Post-Graduate,Single,28323 zł brutto,Platinum,44460.0,0.82,Attrited Customer
+209862526,48,male,1,Doctorate,Married,13991 zł brutto,Gold,24600.0,0.01,Existing Customer
+946158946,23,female,3,Unknown,Unknown,14370 zł brutto,Gold,24600.0,0.41,Attrited Customer
+898145025,23,female,1,Post-Graduate,Single,22745 zł brutto,Platinum,44460.0,0.51,Attrited Customer
+588131866,24,male,5,Graduate,Unknown,10503 zł brutto,Silver,13650.0,0.98,Attrited Customer
+259619638,60,male,3,Post-Graduate,Single,18269 zł brutto,Platinum,44460.0,0.58,Attrited Customer
+408958540,58,female,4,Uneducated,Single,22322 zł brutto,Platinum,44460.0,0.18,Attrited Customer
+213528894,18,female,1,Doctorate,Unknown,4474 zł brutto,White,3750.0,0.52,Attrited Customer
+918588745,25,male,4,Student,Unknown,23329 zł brutto,Platinum,44460.0,0.88,Attrited Customer
+338951083,36,male,4,Collage,Married,22458 zł brutto,Platinum,44460.0,0.09,Attrited Customer
+137773608,38,male,2,Unknown,Married,23658 zł brutto,Platinum,44460.0,0.4,Existing Customer
+951339765,36,female,4,Student,Unknown,29989 zł brutto,Platinum,44460.0,0.57,Existing Customer
+830523147,22,male,5,Professor,Married,24601 zł brutto,Platinum,44460.0,0.16,Attrited Customer
+232180780,50,female,3,Collage,Unknown,5909 zł brutto,Black,7900.0,0.96,Attrited Customer
+185682091,26,female,1,Post-Graduate,Married,3022 zł brutto,White,3750.0,0.83,Attrited Customer
+557239651,19,male,4,Post-Graduate,Single,18965 zł brutto,Platinum,44460.0,0.53,Attrited Customer
+588448651,33,male,1,Uneducated,Unknown,7278 zł brutto,Black,7900.0,0.13,Attrited Customer
+929101644,23,female,2,Uneducated,Unknown,13517 zł brutto,Gold,24600.0,0.41,Attrited Customer
+433384446,18,male,1,Unknown,Married,22766 zł brutto,Platinum,44460.0,0.39,Existing Customer
+769876341,37,male,2,Graduate,Unknown,16578 zł brutto,Gold,24600.0,0.39,Attrited Customer
+943345004,45,male,3,Doctorate,Married,19952 zł brutto,Platinum,44460.0,0.06,Existing Customer
+394251203,53,female,1,Uneducated,Single,13563 zł brutto,Gold,24600.0,0.6,Existing Customer
+958691023,37,female,5,Unknown,Married,21182 zł brutto,Platinum,44460.0,0.62,Attrited Customer
+572276566,48,female,4,Graduate,Unknown,20992 zł brutto,Platinum,44460.0,0.97,Existing Customer
+366735177,51,male,1,Unknown,Married,25325 zł brutto,Platinum,44460.0,0.82,Attrited Customer
+332171681,53,male,5,Collage,Unknown,28807 zł brutto,Platinum,44460.0,0.74,Attrited Customer
+413897592,23,male,5,Post-Graduate,Unknown,31546 zł brutto,Platinum,44460.0,0.39,Attrited Customer
+311491077,46,female,3,Uneducated,Married,17116 zł brutto,Gold,24600.0,0.35,Existing Customer
+849651818,38,female,3,Student,Unknown,7855 zł brutto,Silver,13650.0,0.07,Existing Customer
+393496881,46,male,4,Student,Single,29089 zł brutto,Platinum,44460.0,0.72,Attrited Customer
+428987936,60,male,3,Post-Graduate,Single,4934 zł brutto,White,3750.0,0.32,Attrited Customer
+478525453,32,female,5,Collage,Married,21870 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+654251326,23,female,1,Uneducated,Married,30624 zł brutto,Platinum,44460.0,0.69,Existing Customer
+982543280,47,male,5,Post-Graduate,Unknown,23990 zł brutto,Platinum,44460.0,0.61,Attrited Customer
+469034898,28,male,4,Professor,Single,22966 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+571548472,30,female,3,Collage,Unknown,10246 zł brutto,Silver,13650.0,0.13,Existing Customer
+138673431,46,female,3,Doctorate,Unknown,19272 zł brutto,Platinum,44460.0,0.22,Attrited Customer
+736217922,28,male,1,Professor,Unknown,19963 zł brutto,Platinum,44460.0,0.72,Attrited Customer
+714570111,31,male,5,Student,Single,14115 zł brutto,Gold,24600.0,0.51,Attrited Customer
+628965923,46,female,5,Uneducated,Single,26535 zł brutto,Platinum,44460.0,0.23,Attrited Customer
+791778495,18,male,3,Unknown,Unknown,27028 zł brutto,Platinum,44460.0,0.98,Attrited Customer
+614555085,63,female,3,Professor,Single,12755 zł brutto,Gold,24600.0,0.69,Existing Customer
+804078621,33,male,2,Unknown,Single,30827 zł brutto,Platinum,44460.0,0.18,Attrited Customer
+544356534,51,female,4,Post-Graduate,Unknown,30163 zł brutto,Platinum,44460.0,0.02,Existing Customer
+120349483,57,male,1,Post-Graduate,Married,23125 zł brutto,Platinum,44460.0,0.03,Attrited Customer
+686811705,25,female,4,Uneducated,Unknown,12501 zł brutto,Gold,24600.0,0.4,Existing Customer
+463607217,46,female,1,Unknown,Married,7271 zł brutto,Black,7900.0,0.34,Existing Customer
+722203335,61,male,2,high school,Single,12935 zł brutto,Gold,24600.0,0.73,Existing Customer
+243793456,23,male,2,Graduate,Single,11561 zł brutto,Silver,13650.0,0.21,Existing Customer
+518486987,20,female,5,Collage,Unknown,8647 zł brutto,Silver,13650.0,0.03,Attrited Customer
+915835487,26,male,1,Collage,Married,25211 zł brutto,Platinum,44460.0,0.58,Existing Customer
+887258009,57,male,2,Student,Unknown,17958 zł brutto,Gold,24600.0,0.13,Existing Customer
+954627660,24,female,2,Uneducated,Married,27217 zł brutto,Platinum,44460.0,0.98,Existing Customer
+827505718,56,female,5,Doctorate,Married,13508 zł brutto,Gold,24600.0,0.45,Attrited Customer
+945489492,47,female,5,Post-Graduate,Married,4392 zł brutto,White,3750.0,0.37,Attrited Customer
+809984386,60,male,2,Graduate,Unknown,31566 zł brutto,Platinum,44460.0,0.72,Attrited Customer
+487023407,33,male,3,Student,Married,9577 zł brutto,Silver,13650.0,0.2,Existing Customer
+610296546,29,male,3,high school,Single,23153 zł brutto,Platinum,44460.0,0.43,Existing Customer
+708962662,44,female,5,Collage,Unknown,11186 zł brutto,Silver,13650.0,0.0,Existing Customer
+403532510,29,female,5,Professor,Single,25838 zł brutto,Platinum,44460.0,0.12,Existing Customer
+584539934,37,female,2,Post-Graduate,Married,11662 zł brutto,Silver,13650.0,0.18,Existing Customer
+702555363,22,male,3,Collage,Unknown,3208 zł brutto,White,3750.0,0.2,Existing Customer
+760740251,35,male,2,Uneducated,Married,29298 zł brutto,Platinum,44460.0,0.04,Existing Customer
+459215311,42,male,4,Graduate,Unknown,9929 zł brutto,Silver,13650.0,0.93,Attrited Customer
+450625081,59,male,4,Uneducated,Married,23461 zł brutto,Platinum,44460.0,0.97,Existing Customer
+254835307,42,male,5,Unknown,Unknown,3106 zł brutto,White,3750.0,0.15,Existing Customer
+805384004,30,female,5,Collage,Married,23227 zł brutto,Platinum,44460.0,0.02,Existing Customer
+359954198,20,female,4,Student,Unknown,27081 zł brutto,Platinum,44460.0,0.47,Attrited Customer
+386550318,51,male,5,Collage,Single,13212 zł brutto,Gold,24600.0,0.02,Attrited Customer
+539583470,57,male,3,Collage,Married,16745 zł brutto,Gold,24600.0,0.22,Existing Customer
+346957728,39,male,3,Uneducated,Unknown,7526 zł brutto,Silver,13650.0,0.51,Existing Customer
+581241870,31,male,3,Uneducated,Married,13438 zł brutto,Gold,24600.0,0.74,Existing Customer
+410538879,23,male,4,Graduate,Unknown,13705 zł brutto,Gold,24600.0,0.77,Existing Customer
+662953456,52,female,2,Professor,Single,16156 zł brutto,Gold,24600.0,0.05,Existing Customer
+236646859,58,male,1,Doctorate,Single,15343 zł brutto,Gold,24600.0,0.57,Attrited Customer
+429174818,49,male,1,high school,Single,20034 zł brutto,Platinum,44460.0,0.38,Existing Customer
+364738805,56,male,2,high school,Single,4616 zł brutto,White,3750.0,0.8,Existing Customer
+911057764,49,female,1,Graduate,Married,17025 zł brutto,Gold,24600.0,0.56,Existing Customer
+582404324,30,male,2,Unknown,Married,23578 zł brutto,Platinum,44460.0,0.38,Attrited Customer
+691069067,42,female,2,Professor,Single,4088 zł brutto,White,3750.0,0.24,Existing Customer
+230507510,59,male,2,high school,Married,15009 zł brutto,Gold,24600.0,0.71,Attrited Customer
+185281479,63,male,3,Post-Graduate,Unknown,11546 zł brutto,Silver,13650.0,0.54,Attrited Customer
+477242255,51,male,2,high school,Unknown,6525 zł brutto,Black,7900.0,0.62,Attrited Customer
+552743644,47,female,3,Student,Single,4122 zł brutto,White,3750.0,0.68,Attrited Customer
+727311088,56,female,2,Unknown,Single,15936 zł brutto,Gold,24600.0,0.5,Existing Customer
+737046867,38,male,5,Student,Single,5494 zł brutto,Black,7900.0,0.56,Attrited Customer
+270882394,49,male,2,Professor,Unknown,21088 zł brutto,Platinum,44460.0,0.14,Existing Customer
+430127607,24,female,3,Collage,Married,16715 zł brutto,Gold,24600.0,0.76,Existing Customer
+231117463,45,male,3,Student,Married,30899 zł brutto,Platinum,44460.0,0.82,Existing Customer
+902806833,29,female,2,Collage,Unknown,18256 zł brutto,Platinum,44460.0,0.81,Existing Customer
+357388785,37,male,1,Doctorate,Single,17311 zł brutto,Gold,24600.0,0.39,Existing Customer
+977283159,25,male,5,Student,Single,8689 zł brutto,Silver,13650.0,0.29,Existing Customer
+424328450,62,male,4,Collage,Unknown,7905 zł brutto,Silver,13650.0,0.02,Existing Customer
+366491615,47,female,1,Doctorate,Married,9710 zł brutto,Silver,13650.0,0.93,Attrited Customer
+554695344,56,female,1,Post-Graduate,Single,8269 zł brutto,Silver,13650.0,0.4,Attrited Customer
+749290677,34,male,1,high school,Unknown,13381 zł brutto,Gold,24600.0,0.4,Existing Customer
+923173463,40,male,5,Unknown,Married,7265 zł brutto,Black,7900.0,0.62,Existing Customer
+997093416,42,male,2,Post-Graduate,Single,9390 zł brutto,Silver,13650.0,0.35,Existing Customer
+987317724,23,female,1,Student,Unknown,13902 zł brutto,Gold,24600.0,0.22,Attrited Customer
+173634519,18,female,2,Doctorate,Unknown,4190 zł brutto,White,3750.0,0.28,Attrited Customer
+200651292,47,female,4,Professor,Unknown,19875 zł brutto,Platinum,44460.0,0.48,Existing Customer
+871251551,45,female,1,Doctorate,Single,20395 zł brutto,Platinum,44460.0,0.34,Attrited Customer
+594447473,20,male,5,Graduate,Unknown,9138 zł brutto,Silver,13650.0,0.79,Existing Customer
+238671302,18,female,4,Student,Married,16456 zł brutto,Gold,24600.0,0.19,Existing Customer
+863500557,35,male,1,Student,Married,13438 zł brutto,Gold,24600.0,0.69,Existing Customer
+823275314,45,male,2,Unknown,Married,21010 zł brutto,Platinum,44460.0,0.1,Attrited Customer
+631597032,31,male,3,Professor,Single,30414 zł brutto,Platinum,44460.0,0.24,Attrited Customer
+930633992,34,male,1,Doctorate,Married,15524 zł brutto,Gold,24600.0,0.9,Existing Customer
+321192580,49,male,2,Unknown,Single,3913 zł brutto,White,3750.0,0.68,Attrited Customer
+674024971,30,male,1,Professor,Married,28636 zł brutto,Platinum,44460.0,0.71,Attrited Customer
+977904366,52,male,4,Post-Graduate,Unknown,26091 zł brutto,Platinum,44460.0,0.75,Existing Customer
+726007368,38,male,1,Doctorate,Single,15285 zł brutto,Gold,24600.0,0.46,Existing Customer
+129823561,57,female,1,Uneducated,Unknown,14986 zł brutto,Gold,24600.0,0.14,Existing Customer
+985625079,22,male,2,Collage,Married,7004 zł brutto,Black,7900.0,0.2,Attrited Customer
+788671224,60,male,2,Graduate,Unknown,5424 zł brutto,Black,7900.0,0.67,Existing Customer
+222594224,55,male,3,high school,Unknown,6499 zł brutto,Black,7900.0,0.14,Attrited Customer
+599472244,49,male,4,Professor,Single,13239 zł brutto,Gold,24600.0,0.25,Existing Customer
+295557302,35,male,1,Uneducated,Married,24297 zł brutto,Platinum,44460.0,0.26,Existing Customer
+639773707,31,male,4,Unknown,Unknown,14303 zł brutto,Gold,24600.0,0.23,Existing Customer
+517354629,31,female,2,Unknown,Single,5960 zł brutto,Black,7900.0,0.46,Existing Customer
+735648143,39,female,5,Unknown,Single,9746 zł brutto,Silver,13650.0,0.25,Attrited Customer
+476290455,36,female,3,Doctorate,Married,21163 zł brutto,Platinum,44460.0,0.08,Existing Customer
+576556059,48,male,3,Collage,Single,2680 zł brutto,White,3750.0,0.01,Existing Customer
+972007741,50,female,2,Uneducated,Married,23835 zł brutto,Platinum,44460.0,0.3,Attrited Customer
+210492671,60,female,5,Post-Graduate,Unknown,4204 zł brutto,White,3750.0,0.04,Attrited Customer
+706429685,53,male,4,Unknown,Single,7457 zł brutto,Black,7900.0,0.2,Attrited Customer
+907277295,58,female,5,Student,Married,6325 zł brutto,Black,7900.0,0.6,Existing Customer
+947367335,35,male,4,Graduate,Married,31832 zł brutto,Platinum,44460.0,0.27,Attrited Customer
+237964648,40,female,2,Unknown,Single,14212 zł brutto,Gold,24600.0,0.86,Existing Customer
+664831300,43,male,3,Student,Single,10366 zł brutto,Silver,13650.0,0.39,Existing Customer
+896367799,60,male,3,Collage,Single,12147 zł brutto,Gold,24600.0,0.06,Attrited Customer
+773533374,60,male,2,Student,Single,10075 zł brutto,Silver,13650.0,0.07,Attrited Customer
+292948015,26,male,3,Professor,Unknown,14454 zł brutto,Gold,24600.0,0.38,Attrited Customer
+398042110,25,female,1,Graduate,Single,7638 zł brutto,Silver,13650.0,0.6,Attrited Customer
+929871314,21,male,3,Student,Married,24313 zł brutto,Platinum,44460.0,0.27,Existing Customer
+119283210,57,female,2,Collage,Unknown,7444 zł brutto,Black,7900.0,0.75,Existing Customer
+851841802,27,female,2,Professor,Married,30908 zł brutto,Platinum,44460.0,0.55,Existing Customer
+548435731,33,female,1,Uneducated,Unknown,13496 zł brutto,Gold,24600.0,0.23,Attrited Customer
+593993282,45,male,4,Professor,Unknown,2873 zł brutto,White,3750.0,0.02,Attrited Customer
+802260592,33,female,4,high school,Single,22528 zł brutto,Platinum,44460.0,0.64,Existing Customer
+868128605,36,male,3,Graduate,Married,30858 zł brutto,Platinum,44460.0,0.76,Attrited Customer
+603483699,62,male,1,Uneducated,Unknown,19836 zł brutto,Platinum,44460.0,0.47,Existing Customer
+928288865,51,male,4,Doctorate,Single,4620 zł brutto,White,3750.0,0.75,Existing Customer
+304090419,41,female,3,Professor,Single,22034 zł brutto,Platinum,44460.0,0.5,Existing Customer
+660653073,58,male,2,Professor,Unknown,2875 zł brutto,White,3750.0,0.5,Existing Customer
+675790830,39,male,1,Doctorate,Married,16800 zł brutto,Gold,24600.0,0.4,Attrited Customer
+206706022,30,female,1,Collage,Single,14990 zł brutto,Gold,24600.0,0.08,Attrited Customer
+207081510,21,female,4,Professor,Unknown,13492 zł brutto,Gold,24600.0,0.69,Attrited Customer
+492467386,49,female,1,high school,Unknown,7923 zł brutto,Silver,13650.0,0.78,Existing Customer
+802547053,60,male,2,Uneducated,Single,8325 zł brutto,Silver,13650.0,0.97,Attrited Customer
+354525812,31,male,2,Student,Unknown,3909 zł brutto,White,3750.0,0.52,Existing Customer
+713394245,50,male,2,Uneducated,Single,3035 zł brutto,White,3750.0,0.41,Attrited Customer
+923004999,24,male,4,Unknown,Unknown,23659 zł brutto,Platinum,44460.0,0.78,Attrited Customer
+623782131,45,male,1,Doctorate,Single,27506 zł brutto,Platinum,44460.0,0.33,Attrited Customer
+260336221,52,female,1,Doctorate,Married,19209 zł brutto,Platinum,44460.0,0.62,Existing Customer
+708159958,30,female,2,Student,Married,12468 zł brutto,Gold,24600.0,0.81,Existing Customer
+390672368,34,female,4,Graduate,Single,26830 zł brutto,Platinum,44460.0,0.28,Attrited Customer
+583401790,46,female,2,Uneducated,Married,20799 zł brutto,Platinum,44460.0,0.26,Existing Customer
+969115548,48,male,4,Doctorate,Married,20149 zł brutto,Platinum,44460.0,0.32,Attrited Customer
+165626588,21,female,5,Graduate,Single,24241 zł brutto,Platinum,44460.0,0.03,Existing Customer
+288639273,52,female,5,Student,Unknown,27521 zł brutto,Platinum,44460.0,0.5,Existing Customer
+792518004,24,female,1,Doctorate,Single,20573 zł brutto,Platinum,44460.0,0.2,Attrited Customer
+984573549,27,female,5,Collage,Unknown,27431 zł brutto,Platinum,44460.0,0.76,Attrited Customer
+691273502,32,female,2,Professor,Single,25337 zł brutto,Platinum,44460.0,0.79,Attrited Customer
+579541209,30,female,1,Student,Single,6363 zł brutto,Black,7900.0,0.0,Existing Customer
+905437952,47,female,2,high school,Single,11149 zł brutto,Silver,13650.0,0.64,Attrited Customer
+997277916,43,male,5,Uneducated,Married,5060 zł brutto,Black,7900.0,0.15,Existing Customer
+544168030,59,female,2,Student,Single,2940 zł brutto,White,3750.0,0.77,Existing Customer
+343766053,56,female,3,Unknown,Unknown,7863 zł brutto,Silver,13650.0,0.18,Attrited Customer
+433896085,41,female,3,Unknown,Single,2696 zł brutto,White,3750.0,0.89,Existing Customer
+169546274,25,male,1,Uneducated,Unknown,26631 zł brutto,Platinum,44460.0,0.31,Attrited Customer
+130572873,40,male,1,Student,Single,22749 zł brutto,Platinum,44460.0,0.79,Existing Customer
+671201809,41,male,4,Post-Graduate,Unknown,3876 zł brutto,White,3750.0,0.2,Existing Customer
+491834323,28,male,2,Post-Graduate,Unknown,20055 zł brutto,Platinum,44460.0,0.3,Existing Customer
+870508806,22,female,4,Post-Graduate,Single,5370 zł brutto,Black,7900.0,0.78,Attrited Customer
+823563356,58,female,4,Post-Graduate,Unknown,31425 zł brutto,Platinum,44460.0,0.39,Attrited Customer
+728303497,43,female,3,Student,Unknown,28397 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+358322734,31,male,4,Unknown,Single,6298 zł brutto,Black,7900.0,0.17,Existing Customer
+910610462,33,male,4,Student,Single,29202 zł brutto,Platinum,44460.0,0.08,Existing Customer
+524487924,44,female,1,Doctorate,Married,26750 zł brutto,Platinum,44460.0,0.24,Existing Customer
+745590036,47,male,2,Uneducated,Single,26552 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+273728227,42,female,3,Doctorate,Married,18136 zł brutto,Platinum,44460.0,0.22,Existing Customer
+834551172,58,male,2,Collage,Unknown,7716 zł brutto,Silver,13650.0,0.11,Existing Customer
+271660986,22,female,3,Graduate,Single,18393 zł brutto,Platinum,44460.0,0.87,Existing Customer
+378076546,44,female,1,Uneducated,Single,3435 zł brutto,White,3750.0,0.58,Existing Customer
+880441774,23,male,5,Unknown,Unknown,16099 zł brutto,Gold,24600.0,0.65,Existing Customer
+129795659,26,female,2,Unknown,Unknown,3050 zł brutto,White,3750.0,0.55,Existing Customer
+410046339,29,female,5,Graduate,Unknown,30266 zł brutto,Platinum,44460.0,0.93,Attrited Customer
+905939965,24,female,2,Uneducated,Unknown,3191 zł brutto,White,3750.0,0.75,Attrited Customer
+682632432,46,female,4,Graduate,Unknown,21624 zł brutto,Platinum,44460.0,0.53,Attrited Customer
+616762332,54,male,4,Post-Graduate,Unknown,7624 zł brutto,Silver,13650.0,0.73,Attrited Customer
+943944645,43,male,5,Unknown,Unknown,28763 zł brutto,Platinum,44460.0,0.29,Existing Customer
+198407029,44,male,2,Student,Single,13312 zł brutto,Gold,24600.0,0.49,Attrited Customer
+705708894,61,female,1,Uneducated,Single,21358 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+637356722,63,female,2,Professor,Single,18148 zł brutto,Platinum,44460.0,0.73,Attrited Customer
+620153931,19,female,5,Post-Graduate,Married,29735 zł brutto,Platinum,44460.0,0.4,Attrited Customer
+673205821,52,male,2,Professor,Married,3098 zł brutto,White,3750.0,0.13,Existing Customer
+941000237,57,male,3,Student,Unknown,16529 zł brutto,Gold,24600.0,0.06,Attrited Customer
+107784054,31,male,4,Student,Married,2625 zł brutto,White,3750.0,0.52,Existing Customer
+550897811,32,female,2,Professor,Married,6054 zł brutto,Black,7900.0,0.91,Attrited Customer
+183674365,38,male,3,Doctorate,Unknown,5551 zł brutto,Black,7900.0,0.91,Attrited Customer
+980421514,49,male,3,Unknown,Married,19405 zł brutto,Platinum,44460.0,0.03,Attrited Customer
+698758636,28,female,5,Doctorate,Unknown,22727 zł brutto,Platinum,44460.0,0.23,Existing Customer
+343592023,44,male,2,high school,Unknown,21092 zł brutto,Platinum,44460.0,0.49,Attrited Customer
+686295503,57,female,2,Uneducated,Unknown,23340 zł brutto,Platinum,44460.0,0.7,Attrited Customer
+680872428,39,female,2,Graduate,Married,29613 zł brutto,Platinum,44460.0,0.63,Existing Customer
+184425524,32,female,1,Professor,Unknown,22233 zł brutto,Platinum,44460.0,0.79,Attrited Customer
+345976559,26,female,1,Professor,Married,22063 zł brutto,Platinum,44460.0,0.48,Attrited Customer
+212768853,18,male,4,high school,Unknown,22006 zł brutto,Platinum,44460.0,0.11,Existing Customer
+286336764,29,male,5,high school,Single,23648 zł brutto,Platinum,44460.0,0.28,Existing Customer
+382610103,21,male,2,Graduate,Unknown,12902 zł brutto,Gold,24600.0,0.19,Attrited Customer
+693037204,60,female,2,Post-Graduate,Single,7741 zł brutto,Silver,13650.0,0.91,Existing Customer
+873353552,35,female,1,Student,Unknown,7378 zł brutto,Black,7900.0,0.44,Existing Customer
+885831120,19,male,4,Graduate,Single,3923 zł brutto,White,3750.0,0.54,Attrited Customer
+588136210,53,female,1,high school,Unknown,31038 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+432404259,47,female,1,Unknown,Married,13808 zł brutto,Gold,24600.0,0.68,Existing Customer
+949884832,28,female,3,Uneducated,Single,29210 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+699472882,55,male,3,Uneducated,Married,14484 zł brutto,Gold,24600.0,0.91,Existing Customer
+952113441,24,male,3,Professor,Unknown,21985 zł brutto,Platinum,44460.0,0.45,Attrited Customer
+506441652,19,female,1,Uneducated,Single,13824 zł brutto,Gold,24600.0,0.09,Existing Customer
+654138378,29,female,3,Professor,Married,11157 zł brutto,Silver,13650.0,0.19,Attrited Customer
+747402603,41,female,2,Uneducated,Married,6248 zł brutto,Black,7900.0,0.89,Existing Customer
+963476568,49,male,2,Graduate,Unknown,3736 zł brutto,White,3750.0,0.99,Attrited Customer
+685422810,27,female,3,Collage,Married,6473 zł brutto,Black,7900.0,0.28,Attrited Customer
+341033572,52,male,3,Professor,Married,6512 zł brutto,Black,7900.0,0.74,Existing Customer
+652959928,31,male,4,Doctorate,Single,25307 zł brutto,Platinum,44460.0,0.03,Attrited Customer
+830653806,37,male,4,Doctorate,Single,17669 zł brutto,Gold,24600.0,0.75,Attrited Customer
+712626166,31,male,3,Unknown,Married,22936 zł brutto,Platinum,44460.0,0.95,Existing Customer
+485369507,46,female,4,Unknown,Married,21064 zł brutto,Platinum,44460.0,0.68,Existing Customer
+915292937,19,female,4,Doctorate,Unknown,12747 zł brutto,Gold,24600.0,0.23,Existing Customer
+185033137,47,female,3,Doctorate,Married,22905 zł brutto,Platinum,44460.0,0.22,Existing Customer
+286172523,37,female,1,Student,Single,2782 zł brutto,White,3750.0,0.1,Attrited Customer
+368991385,35,female,5,Graduate,Married,26719 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+875400444,23,female,5,Unknown,Married,21641 zł brutto,Platinum,44460.0,0.92,Existing Customer
+278683807,45,male,2,high school,Married,5954 zł brutto,Black,7900.0,0.19,Existing Customer
+407257432,27,male,5,Uneducated,Married,27785 zł brutto,Platinum,44460.0,0.65,Existing Customer
+286809817,55,female,4,Collage,Single,26894 zł brutto,Platinum,44460.0,0.93,Attrited Customer
+287370808,40,female,4,Collage,Unknown,10337 zł brutto,Silver,13650.0,0.84,Attrited Customer
+851292763,52,female,1,Collage,Married,15492 zł brutto,Gold,24600.0,0.72,Existing Customer
+530842575,63,male,1,high school,Single,4772 zł brutto,White,3750.0,0.01,Existing Customer
+185827817,63,female,1,Collage,Married,2950 zł brutto,White,3750.0,0.5,Existing Customer
+499443499,49,male,2,Collage,Single,2617 zł brutto,White,3750.0,0.32,Attrited Customer
+939723653,60,female,4,Graduate,Unknown,27720 zł brutto,Platinum,44460.0,0.19,Existing Customer
+288790868,33,male,1,Collage,Unknown,12391 zł brutto,Gold,24600.0,0.51,Existing Customer
+641863449,52,female,3,Collage,Unknown,20074 zł brutto,Platinum,44460.0,0.75,Existing Customer
+521961595,20,female,4,high school,Single,7106 zł brutto,Black,7900.0,0.12,Existing Customer
+496147969,38,female,2,Collage,Single,6521 zł brutto,Black,7900.0,0.81,Existing Customer
+842513787,20,male,4,Professor,Married,6547 zł brutto,Black,7900.0,0.49,Existing Customer
+886899951,39,female,3,Collage,Unknown,30661 zł brutto,Platinum,44460.0,0.97,Existing Customer
+930123324,40,male,2,Collage,Single,9915 zł brutto,Silver,13650.0,0.93,Existing Customer
+936415437,44,female,1,Student,Unknown,9631 zł brutto,Silver,13650.0,0.46,Existing Customer
+791369831,27,male,1,Unknown,Single,11788 zł brutto,Silver,13650.0,0.49,Attrited Customer
+545632348,51,female,5,Professor,Unknown,24345 zł brutto,Platinum,44460.0,0.16,Attrited Customer
+369109905,63,male,3,Uneducated,Unknown,28065 zł brutto,Platinum,44460.0,0.31,Existing Customer
+582862217,48,female,2,Post-Graduate,Married,4535 zł brutto,White,3750.0,0.58,Existing Customer
+105467091,22,female,1,Graduate,Single,24783 zł brutto,Platinum,44460.0,0.29,Attrited Customer
+161916179,19,male,5,Collage,Unknown,2667 zł brutto,White,3750.0,0.92,Existing Customer
+510128919,45,female,5,Unknown,Married,9861 zł brutto,Silver,13650.0,0.92,Existing Customer
+181891218,40,male,5,Post-Graduate,Married,17260 zł brutto,Gold,24600.0,0.04,Existing Customer
+132584856,46,male,1,Post-Graduate,Single,14405 zł brutto,Gold,24600.0,0.75,Existing Customer
+534632104,44,female,2,Unknown,Single,12632 zł brutto,Gold,24600.0,0.07,Attrited Customer
+630401654,47,male,4,Uneducated,Single,31066 zł brutto,Platinum,44460.0,0.85,Existing Customer
+991492471,55,male,5,Graduate,Married,27797 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+737911025,35,female,5,Professor,Unknown,19392 zł brutto,Platinum,44460.0,0.99,Existing Customer
+352257461,62,male,3,Professor,Single,4728 zł brutto,White,3750.0,0.64,Existing Customer
+530845325,18,female,2,Graduate,Unknown,22148 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+555059636,49,female,2,Post-Graduate,Unknown,5515 zł brutto,Black,7900.0,0.74,Existing Customer
+126579293,46,male,2,Uneducated,Married,14681 zł brutto,Gold,24600.0,0.93,Existing Customer
+735694414,30,male,3,Uneducated,Married,22859 zł brutto,Platinum,44460.0,0.95,Existing Customer
+762812896,30,female,3,Uneducated,Unknown,12658 zł brutto,Gold,24600.0,0.37,Existing Customer
+504702243,61,male,4,high school,Married,3220 zł brutto,White,3750.0,0.75,Attrited Customer
+879739532,49,female,1,Unknown,Unknown,5194 zł brutto,Black,7900.0,0.99,Attrited Customer
+775700946,49,male,4,Uneducated,Unknown,5005 zł brutto,Black,7900.0,0.38,Existing Customer
+495777217,63,female,5,Unknown,Single,14879 zł brutto,Gold,24600.0,0.45,Existing Customer
+402567711,61,female,5,Collage,Unknown,18296 zł brutto,Platinum,44460.0,0.34,Existing Customer
+562148642,60,male,5,Unknown,Married,27709 zł brutto,Platinum,44460.0,0.19,Existing Customer
+841266811,63,male,5,Uneducated,Single,17570 zł brutto,Gold,24600.0,0.61,Existing Customer
+653809338,18,male,5,Student,Unknown,11183 zł brutto,Silver,13650.0,0.77,Existing Customer
+877538778,27,male,2,Uneducated,Married,28674 zł brutto,Platinum,44460.0,0.86,Existing Customer
+983241603,33,male,5,Unknown,Married,24540 zł brutto,Platinum,44460.0,0.97,Existing Customer
+471874094,21,female,3,high school,Married,9923 zł brutto,Silver,13650.0,0.45,Attrited Customer
+463034602,42,female,1,Student,Married,12541 zł brutto,Gold,24600.0,0.94,Existing Customer
+546168025,55,male,1,Doctorate,Unknown,16178 zł brutto,Gold,24600.0,0.5,Attrited Customer
+284857190,43,male,4,Graduate,Unknown,30721 zł brutto,Platinum,44460.0,0.8,Existing Customer
+848195071,56,female,1,Post-Graduate,Unknown,26348 zł brutto,Platinum,44460.0,0.32,Attrited Customer
+947106965,63,male,5,Uneducated,Married,9011 zł brutto,Silver,13650.0,0.78,Attrited Customer
+408624483,38,female,1,Graduate,Single,12783 zł brutto,Gold,24600.0,0.44,Attrited Customer
+192846564,45,male,3,Collage,Single,31898 zł brutto,Platinum,44460.0,0.33,Attrited Customer
+595282599,41,female,5,high school,Unknown,11104 zł brutto,Silver,13650.0,0.43,Attrited Customer
+483425934,42,female,4,Professor,Single,13787 zł brutto,Gold,24600.0,0.73,Existing Customer
+672859445,61,female,5,Collage,Single,15581 zł brutto,Gold,24600.0,0.3,Existing Customer
+962151002,51,female,1,Uneducated,Unknown,24147 zł brutto,Platinum,44460.0,0.65,Attrited Customer
+558583778,34,female,3,high school,Unknown,26696 zł brutto,Platinum,44460.0,0.88,Existing Customer
+181243914,42,female,5,Graduate,Unknown,17226 zł brutto,Gold,24600.0,0.78,Attrited Customer
+692987474,24,female,3,Student,Unknown,26902 zł brutto,Platinum,44460.0,0.33,Existing Customer
+901785425,47,male,3,Unknown,Single,8385 zł brutto,Silver,13650.0,0.18,Existing Customer
+276020122,26,male,4,Professor,Single,19693 zł brutto,Platinum,44460.0,0.79,Existing Customer
+618684849,49,male,3,Post-Graduate,Unknown,8080 zł brutto,Silver,13650.0,0.21,Existing Customer
+688669582,53,female,1,Unknown,Single,18065 zł brutto,Platinum,44460.0,0.41,Existing Customer
+403818795,62,female,5,Professor,Single,24264 zł brutto,Platinum,44460.0,0.22,Attrited Customer
+363005571,58,male,3,Professor,Single,2892 zł brutto,White,3750.0,0.95,Attrited Customer
+785574311,62,male,5,Collage,Unknown,18198 zł brutto,Platinum,44460.0,0.59,Attrited Customer
+785409652,57,female,2,Post-Graduate,Single,13409 zł brutto,Gold,24600.0,0.52,Attrited Customer
+980058424,47,male,4,Doctorate,Single,11032 zł brutto,Silver,13650.0,0.47,Attrited Customer
+904044257,37,male,3,Uneducated,Single,16620 zł brutto,Gold,24600.0,0.12,Attrited Customer
+851312506,59,male,5,Collage,Single,4659 zł brutto,White,3750.0,0.04,Existing Customer
+953762957,58,female,4,Uneducated,Married,9908 zł brutto,Silver,13650.0,0.98,Existing Customer
+753378950,57,male,1,Doctorate,Unknown,11810 zł brutto,Silver,13650.0,0.8,Existing Customer
+632633048,27,female,5,high school,Single,4349 zł brutto,White,3750.0,0.13,Attrited Customer
+889163633,24,female,2,high school,Married,4122 zł brutto,White,3750.0,0.94,Existing Customer
+541455605,40,male,1,Uneducated,Single,27582 zł brutto,Platinum,44460.0,0.5,Existing Customer
+711391146,58,male,1,Student,Married,20048 zł brutto,Platinum,44460.0,0.8,Existing Customer
+709809369,23,female,5,Post-Graduate,Single,24247 zł brutto,Platinum,44460.0,0.43,Existing Customer
+484116672,60,female,1,Professor,Single,11389 zł brutto,Silver,13650.0,0.03,Attrited Customer
+397319910,45,female,1,high school,Married,4127 zł brutto,White,3750.0,0.97,Existing Customer
+611782924,62,male,4,Professor,Unknown,31812 zł brutto,Platinum,44460.0,0.66,Attrited Customer
+226760743,38,female,4,Professor,Married,6559 zł brutto,Black,7900.0,0.41,Attrited Customer
+321318616,37,female,5,Doctorate,Married,27170 zł brutto,Platinum,44460.0,0.71,Attrited Customer
+620693956,29,female,3,Post-Graduate,Married,5192 zł brutto,Black,7900.0,0.36,Attrited Customer
+242361374,51,male,2,Post-Graduate,Married,5631 zł brutto,Black,7900.0,0.37,Attrited Customer
+315581797,62,female,4,high school,Single,25992 zł brutto,Platinum,44460.0,0.24,Attrited Customer
+958322736,37,male,2,Professor,Married,9367 zł brutto,Silver,13650.0,0.77,Attrited Customer
+545490375,48,male,3,Uneducated,Unknown,6980 zł brutto,Black,7900.0,0.03,Attrited Customer
+370136396,26,female,3,Unknown,Unknown,18774 zł brutto,Platinum,44460.0,0.77,Existing Customer
+408127549,59,female,3,Uneducated,Unknown,17824 zł brutto,Gold,24600.0,0.42,Existing Customer
+965240504,51,male,5,Student,Unknown,7014 zł brutto,Black,7900.0,0.31,Attrited Customer
+116131766,35,male,3,Professor,Married,26329 zł brutto,Platinum,44460.0,0.38,Attrited Customer
+188347439,54,male,1,Graduate,Married,29374 zł brutto,Platinum,44460.0,0.45,Attrited Customer
+921615302,36,male,5,Graduate,Unknown,26675 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+787704056,32,female,1,high school,Married,7516 zł brutto,Silver,13650.0,0.96,Existing Customer
+734731364,23,female,5,high school,Unknown,9100 zł brutto,Silver,13650.0,0.25,Attrited Customer
+218018715,48,female,3,Uneducated,Unknown,27057 zł brutto,Platinum,44460.0,0.41,Existing Customer
+150142146,43,male,3,Graduate,Unknown,27455 zł brutto,Platinum,44460.0,0.08,Existing Customer
+713451072,44,female,4,high school,Unknown,9443 zł brutto,Silver,13650.0,0.45,Attrited Customer
+845787295,29,male,5,Uneducated,Married,21233 zł brutto,Platinum,44460.0,0.7,Existing Customer
+942739973,44,female,4,high school,Single,12248 zł brutto,Gold,24600.0,0.21,Attrited Customer
+367138377,40,female,1,Post-Graduate,Married,10013 zł brutto,Silver,13650.0,0.5,Attrited Customer
+537777830,61,male,2,Uneducated,Unknown,31843 zł brutto,Platinum,44460.0,0.31,Existing Customer
+703982676,25,male,1,Graduate,Single,21066 zł brutto,Platinum,44460.0,0.72,Existing Customer
+928496046,49,female,4,Post-Graduate,Married,17700 zł brutto,Gold,24600.0,0.84,Attrited Customer
+552278938,59,female,1,Professor,Married,5879 zł brutto,Black,7900.0,0.32,Attrited Customer
+887875803,32,male,5,Post-Graduate,Married,23628 zł brutto,Platinum,44460.0,0.23,Attrited Customer
+737832063,18,male,2,Graduate,Unknown,24982 zł brutto,Platinum,44460.0,0.79,Existing Customer
+529034620,28,female,3,high school,Single,8959 zł brutto,Silver,13650.0,0.76,Existing Customer
+379128771,33,male,5,Uneducated,Unknown,11841 zł brutto,Silver,13650.0,0.35,Attrited Customer
+427488311,26,female,3,Graduate,Married,5939 zł brutto,Black,7900.0,0.04,Existing Customer
+587191822,62,male,1,high school,Married,25560 zł brutto,Platinum,44460.0,0.59,Existing Customer
+157734215,46,female,1,Student,Unknown,14672 zł brutto,Gold,24600.0,0.25,Attrited Customer
+957127861,26,female,4,Doctorate,Married,17158 zł brutto,Gold,24600.0,0.84,Attrited Customer
+343276288,39,male,2,Doctorate,Unknown,4662 zł brutto,White,3750.0,0.51,Existing Customer
+971594206,50,female,1,Professor,Single,28770 zł brutto,Platinum,44460.0,0.31,Attrited Customer
+207207360,46,male,1,Professor,Married,26767 zł brutto,Platinum,44460.0,0.05,Attrited Customer
+939739387,46,female,2,Doctorate,Unknown,13317 zł brutto,Gold,24600.0,0.53,Existing Customer
+229439885,43,male,4,Unknown,Unknown,22906 zł brutto,Platinum,44460.0,0.1,Existing Customer
+738877617,28,female,3,Post-Graduate,Single,20216 zł brutto,Platinum,44460.0,0.23,Attrited Customer
+348688703,43,female,2,Uneducated,Single,29602 zł brutto,Platinum,44460.0,0.31,Existing Customer
+246748563,45,male,4,Graduate,Unknown,13696 zł brutto,Gold,24600.0,0.34,Attrited Customer
+470914051,42,female,4,Collage,Unknown,13405 zł brutto,Gold,24600.0,1.0,Attrited Customer
+886967218,31,male,1,Post-Graduate,Married,22581 zł brutto,Platinum,44460.0,0.22,Attrited Customer
+571651979,47,female,4,Uneducated,Unknown,29014 zł brutto,Platinum,44460.0,0.36,Existing Customer
+539170444,60,male,2,high school,Married,27883 zł brutto,Platinum,44460.0,0.73,Existing Customer
+771706591,18,male,1,Graduate,Married,28888 zł brutto,Platinum,44460.0,0.26,Existing Customer
+692836811,28,male,1,Post-Graduate,Married,14896 zł brutto,Gold,24600.0,0.59,Attrited Customer
+990612425,27,female,2,high school,Single,15104 zł brutto,Gold,24600.0,0.08,Attrited Customer
+270818558,53,female,1,Post-Graduate,Married,19878 zł brutto,Platinum,44460.0,0.86,Attrited Customer
+275697364,53,male,1,Uneducated,Single,15847 zł brutto,Gold,24600.0,0.17,Existing Customer
+942379561,29,male,1,Uneducated,Married,26137 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+900359775,39,female,4,Graduate,Single,12943 zł brutto,Gold,24600.0,0.64,Attrited Customer
+579891980,21,female,4,Graduate,Single,28858 zł brutto,Platinum,44460.0,0.08,Attrited Customer
+452016114,31,female,5,Collage,Married,3474 zł brutto,White,3750.0,0.39,Attrited Customer
+551060453,31,male,4,Post-Graduate,Single,10941 zł brutto,Silver,13650.0,0.03,Attrited Customer
+713249433,38,female,5,Student,Single,21078 zł brutto,Platinum,44460.0,0.77,Attrited Customer
+993715529,39,female,5,Unknown,Unknown,6929 zł brutto,Black,7900.0,0.97,Attrited Customer
+107786614,18,male,1,Unknown,Married,5264 zł brutto,Black,7900.0,0.18,Existing Customer
+986167987,50,male,4,Uneducated,Unknown,26835 zł brutto,Platinum,44460.0,0.64,Attrited Customer
+916560881,44,male,4,Student,Unknown,4037 zł brutto,White,3750.0,0.69,Attrited Customer
+194003654,46,male,3,Student,Single,5665 zł brutto,Black,7900.0,0.73,Existing Customer
+165193599,46,male,3,Unknown,Single,23722 zł brutto,Platinum,44460.0,0.58,Attrited Customer
+443175846,31,male,2,Unknown,Single,31935 zł brutto,Platinum,44460.0,0.41,Attrited Customer
+304830115,31,female,3,Collage,Married,5529 zł brutto,Black,7900.0,0.57,Existing Customer
+746064297,22,female,3,Unknown,Single,14609 zł brutto,Gold,24600.0,0.53,Existing Customer
+618303325,62,male,1,Student,Unknown,27449 zł brutto,Platinum,44460.0,0.43,Existing Customer
+499569023,28,female,2,Doctorate,Single,10571 zł brutto,Silver,13650.0,0.72,Existing Customer
+882430336,31,female,4,Collage,Married,14771 zł brutto,Gold,24600.0,0.97,Existing Customer
+614480629,30,female,4,Professor,Married,8672 zł brutto,Silver,13650.0,0.71,Attrited Customer
+759059344,34,female,2,Graduate,Single,4838 zł brutto,White,3750.0,0.39,Existing Customer
+466578407,23,female,5,Collage,Unknown,14499 zł brutto,Gold,24600.0,0.3,Existing Customer
+127098259,31,male,4,Professor,Married,19633 zł brutto,Platinum,44460.0,0.9,Existing Customer
+176673526,51,female,3,Collage,Single,3215 zł brutto,White,3750.0,0.7,Existing Customer
+216585091,21,female,1,Unknown,Unknown,28945 zł brutto,Platinum,44460.0,0.73,Attrited Customer
+843171482,23,female,2,Unknown,Unknown,28867 zł brutto,Platinum,44460.0,0.38,Attrited Customer
+749778798,34,female,1,Collage,Single,24025 zł brutto,Platinum,44460.0,0.72,Attrited Customer
+983411049,23,male,2,high school,Unknown,11407 zł brutto,Silver,13650.0,0.95,Existing Customer
+299965584,47,male,4,Graduate,Married,11712 zł brutto,Silver,13650.0,0.45,Existing Customer
+357102529,24,male,5,Collage,Unknown,27567 zł brutto,Platinum,44460.0,0.15,Existing Customer
+233635864,49,male,2,Professor,Unknown,6013 zł brutto,Black,7900.0,0.06,Existing Customer
+968581028,52,male,2,Collage,Single,3764 zł brutto,White,3750.0,0.51,Attrited Customer
+888218031,38,male,4,Collage,Single,3551 zł brutto,White,3750.0,0.54,Attrited Customer
+968045728,19,female,3,high school,Married,8540 zł brutto,Silver,13650.0,0.94,Attrited Customer
+171964213,35,male,3,Doctorate,Unknown,19836 zł brutto,Platinum,44460.0,0.18,Existing Customer
+759092669,25,male,1,Graduate,Married,10049 zł brutto,Silver,13650.0,0.6,Attrited Customer
+450197115,61,female,2,Student,Single,21210 zł brutto,Platinum,44460.0,0.6,Attrited Customer
+323305274,56,female,4,Graduate,Married,17918 zł brutto,Gold,24600.0,0.41,Existing Customer
+270505244,29,female,1,Graduate,Single,5598 zł brutto,Black,7900.0,0.33,Attrited Customer
+221100623,59,male,2,Graduate,Single,2610 zł brutto,White,3750.0,0.14,Existing Customer
+906162387,25,male,3,Collage,Single,7153 zł brutto,Black,7900.0,0.21,Attrited Customer
+443629821,40,female,1,Doctorate,Married,11502 zł brutto,Silver,13650.0,0.69,Existing Customer
+854692901,60,female,4,Unknown,Single,31232 zł brutto,Platinum,44460.0,0.79,Existing Customer
+528009630,23,female,3,Professor,Unknown,23675 zł brutto,Platinum,44460.0,0.88,Existing Customer
+503312678,46,female,2,Doctorate,Married,29352 zł brutto,Platinum,44460.0,0.96,Attrited Customer
+605338298,35,female,2,Collage,Married,27957 zł brutto,Platinum,44460.0,0.93,Existing Customer
+783785426,25,male,5,Student,Unknown,28212 zł brutto,Platinum,44460.0,0.41,Attrited Customer
+725254296,52,male,5,Collage,Single,31952 zł brutto,Platinum,44460.0,0.68,Attrited Customer
+939296558,22,male,4,high school,Married,14321 zł brutto,Gold,24600.0,0.88,Existing Customer
+408953747,28,male,4,Uneducated,Single,26034 zł brutto,Platinum,44460.0,0.94,Attrited Customer
+719177136,28,female,1,Professor,Single,6087 zł brutto,Black,7900.0,0.39,Existing Customer
+836646590,36,male,4,Collage,Married,12652 zł brutto,Gold,24600.0,0.75,Existing Customer
+223101024,36,female,4,Unknown,Single,26970 zł brutto,Platinum,44460.0,0.2,Existing Customer
+840566458,46,female,5,Doctorate,Unknown,2969 zł brutto,White,3750.0,0.99,Attrited Customer
+609815653,22,male,1,Unknown,Unknown,19382 zł brutto,Platinum,44460.0,0.53,Existing Customer
+677171312,44,male,5,Post-Graduate,Unknown,7992 zł brutto,Silver,13650.0,0.85,Existing Customer
+432048875,60,male,2,Unknown,Married,27313 zł brutto,Platinum,44460.0,0.13,Attrited Customer
+120154429,52,female,1,Post-Graduate,Single,14194 zł brutto,Gold,24600.0,0.54,Attrited Customer
+921365539,50,male,5,Uneducated,Married,7514 zł brutto,Silver,13650.0,0.4,Existing Customer
+858341317,19,male,5,Graduate,Married,12691 zł brutto,Gold,24600.0,0.37,Existing Customer
+332618121,49,female,5,Collage,Single,30881 zł brutto,Platinum,44460.0,0.19,Existing Customer
+802661670,33,male,2,Collage,Unknown,31822 zł brutto,Platinum,44460.0,0.44,Attrited Customer
+737657302,21,female,5,Student,Unknown,25785 zł brutto,Platinum,44460.0,0.16,Attrited Customer
+171551517,28,male,5,Uneducated,Single,4629 zł brutto,White,3750.0,0.98,Existing Customer
+683949094,59,male,5,Post-Graduate,Married,31976 zł brutto,Platinum,44460.0,0.3,Attrited Customer
+306785081,20,female,5,Professor,Unknown,25611 zł brutto,Platinum,44460.0,0.94,Existing Customer
+404875507,23,female,5,high school,Married,31578 zł brutto,Platinum,44460.0,0.48,Attrited Customer
+623112925,48,male,3,Doctorate,Married,22748 zł brutto,Platinum,44460.0,0.04,Attrited Customer
+931102264,46,male,3,Doctorate,Single,5378 zł brutto,Black,7900.0,0.96,Existing Customer
+907516942,26,female,5,Doctorate,Unknown,21270 zł brutto,Platinum,44460.0,0.3,Existing Customer
+985318808,42,female,2,Unknown,Married,12207 zł brutto,Gold,24600.0,0.09,Attrited Customer
+697974308,33,male,4,Professor,Married,2776 zł brutto,White,3750.0,0.3,Attrited Customer
+222776162,48,male,4,Uneducated,Married,19705 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+428404200,37,female,4,Professor,Unknown,9176 zł brutto,Silver,13650.0,0.62,Existing Customer
+112813436,23,female,5,high school,Married,2815 zł brutto,White,3750.0,0.52,Attrited Customer
+404967607,49,female,1,Post-Graduate,Unknown,26403 zł brutto,Platinum,44460.0,0.3,Existing Customer
+424099493,47,male,5,Post-Graduate,Single,11839 zł brutto,Silver,13650.0,0.6,Existing Customer
+507421256,18,male,2,Doctorate,Married,24097 zł brutto,Platinum,44460.0,0.83,Existing Customer
+412962289,51,female,1,Collage,Unknown,25421 zł brutto,Platinum,44460.0,0.54,Existing Customer
+402440206,26,male,5,Collage,Unknown,11500 zł brutto,Silver,13650.0,0.85,Attrited Customer
+756687479,53,female,3,Student,Married,3517 zł brutto,White,3750.0,0.41,Attrited Customer
+168181033,25,female,2,Student,Unknown,4141 zł brutto,White,3750.0,0.58,Existing Customer
+577167536,63,male,4,Uneducated,Unknown,18885 zł brutto,Platinum,44460.0,0.59,Attrited Customer
+326818646,19,male,2,Uneducated,Unknown,11426 zł brutto,Silver,13650.0,0.5,Existing Customer
+182952125,32,male,3,Uneducated,Unknown,24752 zł brutto,Platinum,44460.0,0.92,Attrited Customer
+729400482,36,female,4,Unknown,Married,20545 zł brutto,Platinum,44460.0,0.39,Existing Customer
+510651031,61,male,5,high school,Married,4063 zł brutto,White,3750.0,0.92,Existing Customer
+635847550,33,male,5,high school,Single,12350 zł brutto,Gold,24600.0,0.02,Existing Customer
+686555413,21,male,5,Post-Graduate,Married,11618 zł brutto,Silver,13650.0,0.4,Attrited Customer
+827290313,44,female,4,Student,Single,6394 zł brutto,Black,7900.0,0.24,Attrited Customer
+241230827,40,male,4,Collage,Unknown,23084 zł brutto,Platinum,44460.0,0.93,Existing Customer
+417026376,60,female,4,Post-Graduate,Married,19984 zł brutto,Platinum,44460.0,0.05,Existing Customer
+203215600,27,female,5,Unknown,Single,23489 zł brutto,Platinum,44460.0,0.2,Existing Customer
+380339290,51,male,2,Doctorate,Single,15955 zł brutto,Gold,24600.0,0.83,Attrited Customer
+360677938,57,female,4,Post-Graduate,Married,4371 zł brutto,White,3750.0,0.02,Existing Customer
+904669612,49,male,1,Uneducated,Unknown,27562 zł brutto,Platinum,44460.0,0.42,Existing Customer
+295961632,51,female,3,Unknown,Single,10962 zł brutto,Silver,13650.0,0.08,Existing Customer
+511318295,41,female,1,Uneducated,Unknown,14214 zł brutto,Gold,24600.0,0.85,Attrited Customer
+833117962,57,female,4,Post-Graduate,Unknown,29747 zł brutto,Platinum,44460.0,0.5,Attrited Customer
+838114832,29,female,5,Professor,Married,13058 zł brutto,Gold,24600.0,0.82,Attrited Customer
+887680689,60,female,3,Collage,Married,13395 zł brutto,Gold,24600.0,0.59,Attrited Customer
+519364542,63,male,4,Collage,Single,3755 zł brutto,White,3750.0,0.44,Attrited Customer
+638650064,20,female,2,Unknown,Single,12828 zł brutto,Gold,24600.0,0.64,Existing Customer
+215899152,18,female,1,Uneducated,Single,21801 zł brutto,Platinum,44460.0,0.18,Existing Customer
+748962634,27,female,3,Student,Unknown,24988 zł brutto,Platinum,44460.0,0.47,Existing Customer
+132937843,39,male,1,Professor,Married,24312 zł brutto,Platinum,44460.0,0.24,Attrited Customer
+654413294,54,male,2,Doctorate,Single,24558 zł brutto,Platinum,44460.0,0.98,Existing Customer
+643828797,38,female,1,Uneducated,Single,9507 zł brutto,Silver,13650.0,0.6,Attrited Customer
+306468852,42,female,5,Professor,Single,22987 zł brutto,Platinum,44460.0,0.75,Attrited Customer
+585977892,32,female,2,Collage,Married,24522 zł brutto,Platinum,44460.0,0.51,Existing Customer
+477106444,44,male,5,Post-Graduate,Unknown,11951 zł brutto,Silver,13650.0,0.6,Existing Customer
+267273867,56,male,5,Uneducated,Unknown,7842 zł brutto,Silver,13650.0,0.38,Attrited Customer
+195274083,50,male,2,Post-Graduate,Married,29494 zł brutto,Platinum,44460.0,0.27,Attrited Customer
+338121622,37,female,1,Post-Graduate,Married,24081 zł brutto,Platinum,44460.0,0.85,Attrited Customer
+912946813,21,female,5,Unknown,Married,31077 zł brutto,Platinum,44460.0,0.7,Existing Customer
+337250477,47,male,1,high school,Unknown,14432 zł brutto,Gold,24600.0,0.64,Existing Customer
+228055272,25,female,5,Doctorate,Single,18382 zł brutto,Platinum,44460.0,0.02,Attrited Customer
+453730518,54,female,2,Unknown,Single,18460 zł brutto,Platinum,44460.0,0.32,Attrited Customer
+737434160,59,female,1,Collage,Unknown,10920 zł brutto,Silver,13650.0,0.81,Existing Customer
+916015110,54,male,2,high school,Unknown,24320 zł brutto,Platinum,44460.0,0.39,Existing Customer
+512690836,59,male,2,Professor,Married,21262 zł brutto,Platinum,44460.0,0.9,Attrited Customer
+789660435,38,female,2,Unknown,Married,26377 zł brutto,Platinum,44460.0,0.02,Existing Customer
+387301243,62,male,2,Doctorate,Single,10398 zł brutto,Silver,13650.0,0.01,Existing Customer
+722670956,61,male,1,Unknown,Married,29112 zł brutto,Platinum,44460.0,0.53,Attrited Customer
+632536730,24,male,1,Professor,Single,9720 zł brutto,Silver,13650.0,0.04,Existing Customer
+226811679,50,male,4,Graduate,Unknown,2507 zł brutto,White,3750.0,0.77,Existing Customer
+700176897,42,female,5,Collage,Single,5260 zł brutto,Black,7900.0,0.86,Existing Customer
+322042104,50,male,1,Post-Graduate,Unknown,21542 zł brutto,Platinum,44460.0,0.39,Existing Customer
+310576847,46,male,5,Student,Single,8924 zł brutto,Silver,13650.0,0.22,Existing Customer
+984985230,23,female,4,Student,Single,20961 zł brutto,Platinum,44460.0,0.47,Existing Customer
+871106355,20,female,3,Post-Graduate,Single,24659 zł brutto,Platinum,44460.0,0.69,Attrited Customer
+951025183,62,female,1,Doctorate,Unknown,4568 zł brutto,White,3750.0,0.45,Attrited Customer
+999019917,30,male,2,Collage,Unknown,5279 zł brutto,Black,7900.0,0.78,Existing Customer
+536726667,37,female,4,Doctorate,Unknown,20227 zł brutto,Platinum,44460.0,0.6,Attrited Customer
+409706395,26,female,5,Student,Married,6960 zł brutto,Black,7900.0,0.42,Attrited Customer
+569536535,22,male,4,Professor,Single,13687 zł brutto,Gold,24600.0,0.04,Attrited Customer
+483005038,26,female,1,Student,Married,24720 zł brutto,Platinum,44460.0,0.35,Attrited Customer
+856809276,23,male,3,Post-Graduate,Unknown,29254 zł brutto,Platinum,44460.0,0.47,Attrited Customer
+859617015,53,female,3,Graduate,Unknown,10905 zł brutto,Silver,13650.0,0.62,Attrited Customer
+315703934,41,female,5,Doctorate,Married,26690 zł brutto,Platinum,44460.0,0.41,Existing Customer
+979220541,38,female,2,Student,Unknown,8824 zł brutto,Silver,13650.0,0.23,Existing Customer
+963122715,35,female,5,Professor,Single,10886 zł brutto,Silver,13650.0,0.36,Attrited Customer
+993152742,31,female,3,high school,Unknown,21952 zł brutto,Platinum,44460.0,0.92,Existing Customer
+266900817,34,male,5,Professor,Single,5273 zł brutto,Black,7900.0,0.44,Attrited Customer
+365913380,30,female,5,Unknown,Single,31455 zł brutto,Platinum,44460.0,0.34,Existing Customer
+430498639,40,male,2,Collage,Unknown,25646 zł brutto,Platinum,44460.0,0.04,Existing Customer
+181759297,54,female,1,Professor,Married,20366 zł brutto,Platinum,44460.0,0.33,Existing Customer
+322533013,34,female,3,Uneducated,Married,16890 zł brutto,Gold,24600.0,0.5,Existing Customer
+787848610,18,female,5,Graduate,Single,25992 zł brutto,Platinum,44460.0,0.17,Existing Customer
+525949711,60,male,4,Unknown,Single,14359 zł brutto,Gold,24600.0,0.56,Attrited Customer
+697599883,25,female,4,high school,Married,2806 zł brutto,White,3750.0,0.56,Attrited Customer
+239661328,18,female,1,Graduate,Single,5733 zł brutto,Black,7900.0,0.82,Attrited Customer
+209206468,47,female,3,Graduate,Unknown,21254 zł brutto,Platinum,44460.0,0.58,Attrited Customer
+917489952,25,female,4,Student,Unknown,8263 zł brutto,Silver,13650.0,0.03,Attrited Customer
+696407810,54,female,5,high school,Unknown,31314 zł brutto,Platinum,44460.0,0.05,Existing Customer
+923025146,56,male,1,Doctorate,Unknown,21795 zł brutto,Platinum,44460.0,0.92,Attrited Customer
+596838977,52,female,2,Professor,Single,20257 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+557864943,55,male,5,Student,Single,22598 zł brutto,Platinum,44460.0,0.98,Attrited Customer
+395698831,35,male,3,Student,Single,18531 zł brutto,Platinum,44460.0,0.08,Attrited Customer
+995101054,46,female,3,high school,Single,11441 zł brutto,Silver,13650.0,0.13,Attrited Customer
+191117886,44,female,2,Student,Single,25166 zł brutto,Platinum,44460.0,0.02,Attrited Customer
+820619472,21,male,3,high school,Single,17384 zł brutto,Gold,24600.0,0.04,Existing Customer
+470407638,56,male,3,Professor,Single,10943 zł brutto,Silver,13650.0,0.8,Attrited Customer
+608772381,19,female,1,Professor,Single,20074 zł brutto,Platinum,44460.0,0.76,Attrited Customer
+332537714,54,female,4,Uneducated,Married,19134 zł brutto,Platinum,44460.0,0.8,Existing Customer
+584330495,21,female,1,Student,Unknown,13416 zł brutto,Gold,24600.0,0.03,Attrited Customer
+466759498,20,female,3,Doctorate,Unknown,4035 zł brutto,White,3750.0,0.15,Attrited Customer
+370335536,63,male,4,Unknown,Single,15595 zł brutto,Gold,24600.0,0.52,Attrited Customer
+522187751,29,female,2,Graduate,Unknown,16693 zł brutto,Gold,24600.0,0.12,Attrited Customer
+712046354,49,male,5,Collage,Married,31928 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+954579218,39,male,5,Post-Graduate,Single,4769 zł brutto,White,3750.0,0.91,Existing Customer
+390467949,21,male,5,Graduate,Married,10226 zł brutto,Silver,13650.0,0.34,Attrited Customer
+291769961,45,male,2,Unknown,Single,2815 zł brutto,White,3750.0,0.99,Existing Customer
+674434772,29,female,4,Professor,Unknown,3941 zł brutto,White,3750.0,0.52,Existing Customer
+545902087,52,male,1,Uneducated,Married,20894 zł brutto,Platinum,44460.0,0.47,Existing Customer
+506479289,27,female,3,Uneducated,Married,3467 zł brutto,White,3750.0,0.15,Existing Customer
+996694914,36,male,1,Doctorate,Married,18731 zł brutto,Platinum,44460.0,0.39,Attrited Customer
+939440059,37,female,5,Doctorate,Unknown,30415 zł brutto,Platinum,44460.0,0.81,Attrited Customer
+404733334,53,female,4,Unknown,Single,6643 zł brutto,Black,7900.0,0.6,Attrited Customer
+941089390,29,female,1,Uneducated,Married,27608 zł brutto,Platinum,44460.0,0.02,Attrited Customer
+482132304,58,female,2,high school,Married,27643 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+303047897,49,female,1,Post-Graduate,Unknown,11452 zł brutto,Silver,13650.0,0.08,Attrited Customer
+815680511,23,female,4,Collage,Married,31026 zł brutto,Platinum,44460.0,0.11,Attrited Customer
+566205981,40,male,4,Student,Single,2583 zł brutto,White,3750.0,0.52,Attrited Customer
+686726419,28,female,5,Graduate,Single,24448 zł brutto,Platinum,44460.0,0.09,Attrited Customer
+784664738,63,male,5,high school,Married,11845 zł brutto,Silver,13650.0,0.05,Attrited Customer
+579336664,62,female,1,Doctorate,Unknown,6872 zł brutto,Black,7900.0,0.38,Existing Customer
+721956076,37,male,2,Post-Graduate,Single,4523 zł brutto,White,3750.0,0.46,Existing Customer
+100557855,60,female,3,Uneducated,Unknown,28343 zł brutto,Platinum,44460.0,0.81,Existing Customer
+653150152,46,female,3,Graduate,Married,13384 zł brutto,Gold,24600.0,0.18,Attrited Customer
+504418214,51,female,4,Uneducated,Single,14601 zł brutto,Gold,24600.0,0.3,Existing Customer
+729166879,52,male,5,Graduate,Unknown,8252 zł brutto,Silver,13650.0,0.96,Existing Customer
+108847827,34,male,1,Doctorate,Single,4613 zł brutto,White,3750.0,0.29,Existing Customer
+600812130,19,male,3,Collage,Married,25782 zł brutto,Platinum,44460.0,0.04,Attrited Customer
+573424956,31,male,2,Doctorate,Single,25180 zł brutto,Platinum,44460.0,0.44,Attrited Customer
+650989742,24,male,2,Doctorate,Single,12375 zł brutto,Gold,24600.0,0.19,Attrited Customer
+424795598,49,female,2,Student,Married,17070 zł brutto,Gold,24600.0,0.16,Attrited Customer
+971687095,38,male,1,Student,Single,30292 zł brutto,Platinum,44460.0,0.85,Attrited Customer
+891254696,61,male,3,Collage,Married,22574 zł brutto,Platinum,44460.0,0.65,Attrited Customer
+253200868,55,female,4,Post-Graduate,Married,18095 zł brutto,Platinum,44460.0,0.73,Attrited Customer
+674933397,22,female,2,Uneducated,Single,24597 zł brutto,Platinum,44460.0,0.65,Attrited Customer
+555219560,43,male,3,Doctorate,Married,22687 zł brutto,Platinum,44460.0,0.31,Attrited Customer
+726187744,26,male,5,Student,Married,29524 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+745145633,28,female,5,Professor,Unknown,23981 zł brutto,Platinum,44460.0,0.31,Existing Customer
+750122225,54,male,4,Post-Graduate,Unknown,31134 zł brutto,Platinum,44460.0,0.85,Existing Customer
+186339085,39,male,2,Doctorate,Unknown,24025 zł brutto,Platinum,44460.0,0.27,Existing Customer
+876936153,43,male,3,Professor,Unknown,22973 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+404293968,30,male,5,Post-Graduate,Unknown,10081 zł brutto,Silver,13650.0,0.11,Attrited Customer
+559007278,21,female,5,high school,Unknown,28466 zł brutto,Platinum,44460.0,0.23,Existing Customer
+712358478,52,male,1,Collage,Single,11842 zł brutto,Silver,13650.0,0.7,Attrited Customer
+751926481,43,male,4,Post-Graduate,Unknown,14429 zł brutto,Gold,24600.0,0.79,Existing Customer
+966163930,62,female,3,Post-Graduate,Married,25692 zł brutto,Platinum,44460.0,0.3,Existing Customer
+167479707,58,female,4,Post-Graduate,Single,8185 zł brutto,Silver,13650.0,0.67,Existing Customer
+447093871,53,female,3,Unknown,Single,30361 zł brutto,Platinum,44460.0,0.49,Attrited Customer
+950461270,25,female,5,Student,Unknown,16593 zł brutto,Gold,24600.0,0.38,Attrited Customer
+555458914,19,female,1,Post-Graduate,Single,14372 zł brutto,Gold,24600.0,0.96,Attrited Customer
+912106843,30,female,5,Collage,Unknown,2521 zł brutto,White,3750.0,0.22,Existing Customer
+997492927,32,female,5,Post-Graduate,Married,11653 zł brutto,Silver,13650.0,0.24,Attrited Customer
+205513927,33,female,3,Unknown,Married,26105 zł brutto,Platinum,44460.0,0.44,Existing Customer
+269452431,26,male,5,Post-Graduate,Unknown,22388 zł brutto,Platinum,44460.0,0.87,Attrited Customer
+230764785,52,male,1,high school,Married,14871 zł brutto,Gold,24600.0,0.89,Attrited Customer
+879100845,57,female,2,Student,Married,30388 zł brutto,Platinum,44460.0,0.05,Existing Customer
+993711691,60,male,4,Uneducated,Single,2591 zł brutto,White,3750.0,1.0,Existing Customer
+316579054,45,female,4,Unknown,Married,27853 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+966741917,39,male,3,Student,Single,27926 zł brutto,Platinum,44460.0,0.53,Attrited Customer
+540495443,21,female,3,high school,Married,10358 zł brutto,Silver,13650.0,0.24,Existing Customer
+886305654,37,male,5,Graduate,Married,18443 zł brutto,Platinum,44460.0,0.88,Attrited Customer
+740840855,59,male,4,Unknown,Unknown,26375 zł brutto,Platinum,44460.0,0.21,Attrited Customer
+298134560,35,female,3,Unknown,Single,25100 zł brutto,Platinum,44460.0,0.67,Existing Customer
+125665661,30,male,4,Post-Graduate,Married,4160 zł brutto,White,3750.0,0.22,Attrited Customer
+511124989,43,male,5,Student,Married,26777 zł brutto,Platinum,44460.0,0.98,Existing Customer
+415423640,48,female,3,Student,Married,4118 zł brutto,White,3750.0,0.97,Existing Customer
+573164202,44,male,4,Collage,Unknown,17046 zł brutto,Gold,24600.0,0.88,Attrited Customer
+492202145,41,male,1,Graduate,Single,20238 zł brutto,Platinum,44460.0,0.84,Attrited Customer
+310602557,47,female,1,high school,Unknown,25802 zł brutto,Platinum,44460.0,0.9,Attrited Customer
+599342847,29,male,2,Uneducated,Unknown,28610 zł brutto,Platinum,44460.0,0.43,Attrited Customer
+488582624,30,male,3,Professor,Single,3481 zł brutto,White,3750.0,0.31,Existing Customer
+132630674,23,male,2,Graduate,Unknown,8015 zł brutto,Silver,13650.0,0.78,Attrited Customer
+867971005,34,female,3,Doctorate,Married,25056 zł brutto,Platinum,44460.0,0.67,Attrited Customer
+687472523,22,male,3,Unknown,Married,11651 zł brutto,Silver,13650.0,0.47,Attrited Customer
+501885109,41,female,3,Unknown,Married,7348 zł brutto,Black,7900.0,0.66,Attrited Customer
+923734133,47,male,5,Post-Graduate,Single,19978 zł brutto,Platinum,44460.0,0.22,Existing Customer
+272628101,41,male,5,Professor,Married,10775 zł brutto,Silver,13650.0,0.08,Attrited Customer
+122825576,51,female,5,Post-Graduate,Single,16944 zł brutto,Gold,24600.0,0.81,Existing Customer
+430964315,37,female,3,Collage,Unknown,9866 zł brutto,Silver,13650.0,0.9,Attrited Customer
+283604276,20,male,3,Collage,Unknown,3917 zł brutto,White,3750.0,0.21,Attrited Customer
+525516627,46,male,1,Student,Unknown,24703 zł brutto,Platinum,44460.0,0.94,Attrited Customer
+122827532,40,male,3,Student,Married,5574 zł brutto,Black,7900.0,0.31,Attrited Customer
+175170158,36,female,4,Student,Unknown,28192 zł brutto,Platinum,44460.0,0.94,Attrited Customer
+819147736,28,female,2,Professor,Unknown,19790 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+778579926,38,female,3,high school,Single,13218 zł brutto,Gold,24600.0,0.17,Existing Customer
+993070397,50,male,4,Student,Single,23152 zł brutto,Platinum,44460.0,0.73,Attrited Customer
+299037248,37,male,1,high school,Single,20306 zł brutto,Platinum,44460.0,0.27,Attrited Customer
+481150205,62,female,3,Uneducated,Unknown,26025 zł brutto,Platinum,44460.0,0.3,Attrited Customer
+902409387,51,male,5,Graduate,Single,2555 zł brutto,White,3750.0,0.93,Existing Customer
+461534402,25,male,2,Post-Graduate,Unknown,12103 zł brutto,Gold,24600.0,0.92,Attrited Customer
+940445062,18,male,3,Doctorate,Unknown,25372 zł brutto,Platinum,44460.0,0.44,Attrited Customer
+855609595,35,female,4,Unknown,Married,7832 zł brutto,Silver,13650.0,0.99,Existing Customer
+616990263,54,male,4,Doctorate,Single,30382 zł brutto,Platinum,44460.0,0.13,Attrited Customer
+549593485,57,male,4,Unknown,Single,7400 zł brutto,Black,7900.0,0.73,Existing Customer
+798553504,29,female,1,Student,Single,4526 zł brutto,White,3750.0,0.04,Attrited Customer
+270461613,35,male,1,Professor,Single,20721 zł brutto,Platinum,44460.0,0.45,Existing Customer
+198753036,52,female,5,Student,Single,4500 zł brutto,White,3750.0,0.12,Attrited Customer
+610213068,40,male,4,high school,Married,4199 zł brutto,White,3750.0,0.56,Attrited Customer
+781732284,56,female,4,Collage,Married,29044 zł brutto,Platinum,44460.0,0.63,Existing Customer
+802722712,59,female,5,Graduate,Single,13747 zł brutto,Gold,24600.0,0.72,Attrited Customer
+595353058,62,male,3,Doctorate,Single,30797 zł brutto,Platinum,44460.0,0.07,Existing Customer
+659800248,60,female,4,Post-Graduate,Single,5830 zł brutto,Black,7900.0,0.68,Attrited Customer
+134460582,43,male,4,Professor,Unknown,23857 zł brutto,Platinum,44460.0,0.47,Attrited Customer
+373915186,59,female,1,Student,Married,4832 zł brutto,White,3750.0,0.26,Attrited Customer
+611490345,49,female,1,Graduate,Single,16985 zł brutto,Gold,24600.0,0.51,Existing Customer
+118709809,56,female,3,Student,Single,14376 zł brutto,Gold,24600.0,0.79,Attrited Customer
+322925774,39,male,3,Student,Single,23804 zł brutto,Platinum,44460.0,0.26,Attrited Customer
+445174460,60,female,3,Professor,Married,24062 zł brutto,Platinum,44460.0,0.0,Attrited Customer
+517296564,49,female,5,Doctorate,Married,31848 zł brutto,Platinum,44460.0,0.88,Existing Customer
+787661982,62,male,3,Student,Married,7875 zł brutto,Silver,13650.0,0.3,Existing Customer
+651582863,63,female,4,Professor,Single,7811 zł brutto,Silver,13650.0,0.02,Attrited Customer
+241156496,34,female,1,Student,Single,7201 zł brutto,Black,7900.0,0.27,Existing Customer
+914604733,49,female,4,Uneducated,Unknown,3515 zł brutto,White,3750.0,0.09,Existing Customer
+650554334,30,male,1,Post-Graduate,Unknown,13457 zł brutto,Gold,24600.0,0.54,Existing Customer
+429186626,43,male,5,Doctorate,Married,17353 zł brutto,Gold,24600.0,0.54,Attrited Customer
+134204074,41,female,5,Graduate,Unknown,20841 zł brutto,Platinum,44460.0,0.79,Attrited Customer
+499954824,40,male,2,Graduate,Married,30959 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+401392140,43,female,1,Uneducated,Unknown,29407 zł brutto,Platinum,44460.0,0.6,Attrited Customer
+767202859,28,female,3,Doctorate,Married,20560 zł brutto,Platinum,44460.0,0.86,Attrited Customer
+332901331,25,male,4,Unknown,Single,30474 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+211324142,57,female,3,Doctorate,Unknown,4680 zł brutto,White,3750.0,0.74,Existing Customer
+925508097,47,female,1,Collage,Unknown,17147 zł brutto,Gold,24600.0,0.1,Attrited Customer
+201870407,33,female,1,Doctorate,Single,8943 zł brutto,Silver,13650.0,0.08,Attrited Customer
+511731276,57,female,5,Graduate,Married,6446 zł brutto,Black,7900.0,0.96,Attrited Customer
+417584887,21,male,3,Doctorate,Single,21760 zł brutto,Platinum,44460.0,0.84,Attrited Customer
+262106555,21,female,1,Professor,Single,6607 zł brutto,Black,7900.0,0.12,Existing Customer
+727893280,63,male,1,Student,Single,25425 zł brutto,Platinum,44460.0,0.31,Existing Customer
+140456107,38,female,3,Unknown,Unknown,19595 zł brutto,Platinum,44460.0,0.94,Existing Customer
+361196609,30,male,5,Graduate,Married,8949 zł brutto,Silver,13650.0,0.61,Attrited Customer
+390106338,49,male,5,Graduate,Unknown,5752 zł brutto,Black,7900.0,0.6,Attrited Customer
+440057270,19,female,5,high school,Married,27605 zł brutto,Platinum,44460.0,0.42,Existing Customer
+471676701,27,female,1,Unknown,Single,3730 zł brutto,White,3750.0,0.61,Attrited Customer
+417653399,62,male,5,Doctorate,Married,23623 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+475286448,52,female,2,Doctorate,Single,13627 zł brutto,Gold,24600.0,0.63,Existing Customer
+886095686,26,male,3,Uneducated,Unknown,3939 zł brutto,White,3750.0,0.3,Attrited Customer
+623843836,28,male,4,Collage,Single,3522 zł brutto,White,3750.0,0.41,Existing Customer
+700574163,56,male,1,Unknown,Single,29588 zł brutto,Platinum,44460.0,0.82,Attrited Customer
+446483609,34,male,3,Post-Graduate,Single,21447 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+606298335,18,female,2,Student,Unknown,18677 zł brutto,Platinum,44460.0,0.35,Existing Customer
+409024026,40,male,3,Graduate,Unknown,28791 zł brutto,Platinum,44460.0,0.56,Attrited Customer
+250970294,48,male,4,Post-Graduate,Married,31090 zł brutto,Platinum,44460.0,0.64,Attrited Customer
+356729978,56,male,2,Unknown,Single,8157 zł brutto,Silver,13650.0,0.15,Attrited Customer
+580406926,52,female,2,Uneducated,Married,24739 zł brutto,Platinum,44460.0,0.14,Existing Customer
+843908157,29,male,4,Professor,Married,17582 zł brutto,Gold,24600.0,0.92,Existing Customer
+245837805,62,female,2,high school,Unknown,10305 zł brutto,Silver,13650.0,0.38,Attrited Customer
+380656608,55,male,5,Graduate,Married,23791 zł brutto,Platinum,44460.0,0.58,Existing Customer
+332467251,63,female,2,Graduate,Unknown,27740 zł brutto,Platinum,44460.0,0.15,Attrited Customer
+557304355,40,female,1,Post-Graduate,Unknown,21873 zł brutto,Platinum,44460.0,0.73,Attrited Customer
+352163594,40,female,3,high school,Married,10360 zł brutto,Silver,13650.0,0.21,Existing Customer
+588379691,60,male,5,Doctorate,Single,26511 zł brutto,Platinum,44460.0,0.92,Existing Customer
+614252024,61,female,2,Student,Single,19855 zł brutto,Platinum,44460.0,0.95,Existing Customer
+602670510,53,male,4,Doctorate,Married,25366 zł brutto,Platinum,44460.0,0.82,Existing Customer
+192644615,34,female,1,Post-Graduate,Single,5983 zł brutto,Black,7900.0,0.23,Existing Customer
+790778502,27,female,1,Student,Single,5668 zł brutto,Black,7900.0,0.97,Attrited Customer
+577247304,47,male,3,high school,Married,18656 zł brutto,Platinum,44460.0,0.77,Attrited Customer
+161544829,30,male,3,Collage,Single,6567 zł brutto,Black,7900.0,0.36,Attrited Customer
+563010961,40,female,2,Unknown,Single,20253 zł brutto,Platinum,44460.0,0.71,Attrited Customer
+504268684,34,male,1,Collage,Single,9248 zł brutto,Silver,13650.0,0.33,Attrited Customer
+631695324,31,male,1,Professor,Married,12292 zł brutto,Gold,24600.0,0.78,Attrited Customer
+272487083,52,male,4,Unknown,Single,31303 zł brutto,Platinum,44460.0,0.48,Existing Customer
+707902848,36,male,3,Post-Graduate,Single,15280 zł brutto,Gold,24600.0,0.64,Attrited Customer
+621582740,54,male,4,Post-Graduate,Single,3724 zł brutto,White,3750.0,0.6,Existing Customer
+820772694,30,female,1,Unknown,Unknown,22115 zł brutto,Platinum,44460.0,0.09,Existing Customer
+108034737,59,female,3,high school,Single,5936 zł brutto,Black,7900.0,0.24,Existing Customer
+988063848,52,female,2,Student,Single,20980 zł brutto,Platinum,44460.0,0.79,Existing Customer
+584111058,23,female,4,high school,Unknown,12233 zł brutto,Gold,24600.0,0.59,Attrited Customer
+754514981,43,male,3,Post-Graduate,Married,13624 zł brutto,Gold,24600.0,0.03,Existing Customer
+647088934,40,female,3,Professor,Single,20410 zł brutto,Platinum,44460.0,0.04,Attrited Customer
+358001312,21,female,1,Graduate,Single,9379 zł brutto,Silver,13650.0,0.31,Existing Customer
+242285155,52,male,2,Unknown,Unknown,23795 zł brutto,Platinum,44460.0,0.68,Attrited Customer
+116717414,33,male,5,Student,Unknown,10493 zł brutto,Silver,13650.0,0.7,Existing Customer
+893427065,24,female,4,Graduate,Married,11115 zł brutto,Silver,13650.0,0.66,Existing Customer
+533467921,48,female,1,Post-Graduate,Married,29588 zł brutto,Platinum,44460.0,0.07,Attrited Customer
+143214735,25,female,3,Doctorate,Unknown,5212 zł brutto,Black,7900.0,0.76,Attrited Customer
+588498256,41,female,3,Doctorate,Unknown,5246 zł brutto,Black,7900.0,0.24,Existing Customer
+145748004,23,male,5,Collage,Married,21725 zł brutto,Platinum,44460.0,0.6,Attrited Customer
+814039072,62,male,2,Doctorate,Married,8003 zł brutto,Silver,13650.0,0.6,Attrited Customer
+973781930,50,female,3,Collage,Single,31469 zł brutto,Platinum,44460.0,0.66,Attrited Customer
+397079027,38,male,5,Student,Married,23727 zł brutto,Platinum,44460.0,0.12,Existing Customer
+993005561,28,male,1,Doctorate,Single,27678 zł brutto,Platinum,44460.0,0.66,Existing Customer
+608091153,19,male,1,Doctorate,Married,16934 zł brutto,Gold,24600.0,0.9,Attrited Customer
+452704204,35,female,5,Professor,Unknown,17261 zł brutto,Gold,24600.0,0.31,Existing Customer
+281530692,52,male,5,Post-Graduate,Single,2697 zł brutto,White,3750.0,0.11,Existing Customer
+387597923,26,male,3,Doctorate,Unknown,25636 zł brutto,Platinum,44460.0,0.13,Existing Customer
+991593076,37,female,4,Collage,Single,30315 zł brutto,Platinum,44460.0,0.98,Attrited Customer
+604410884,28,female,5,Graduate,Single,21389 zł brutto,Platinum,44460.0,0.68,Existing Customer
+613382898,37,female,4,Doctorate,Married,18803 zł brutto,Platinum,44460.0,0.23,Attrited Customer
+580262725,62,female,5,Doctorate,Single,30907 zł brutto,Platinum,44460.0,0.04,Attrited Customer
+240370043,26,male,1,Post-Graduate,Married,21018 zł brutto,Platinum,44460.0,0.57,Existing Customer
+605924722,41,male,1,Student,Unknown,25124 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+356181607,23,female,1,Student,Single,25272 zł brutto,Platinum,44460.0,0.23,Attrited Customer
+939459594,38,male,2,Collage,Married,22761 zł brutto,Platinum,44460.0,0.84,Attrited Customer
+677950931,62,female,2,Post-Graduate,Married,17251 zł brutto,Gold,24600.0,0.06,Existing Customer
+628017128,53,male,3,Unknown,Married,3958 zł brutto,White,3750.0,0.59,Existing Customer
+825553179,21,male,5,Post-Graduate,Married,21619 zł brutto,Platinum,44460.0,0.6,Existing Customer
+111870248,37,female,2,Uneducated,Single,7015 zł brutto,Black,7900.0,0.95,Attrited Customer
+288096408,21,male,1,Post-Graduate,Unknown,15409 zł brutto,Gold,24600.0,0.17,Existing Customer
+384376376,45,male,1,Graduate,Unknown,26479 zł brutto,Platinum,44460.0,0.48,Existing Customer
+661231204,35,male,4,Post-Graduate,Married,14400 zł brutto,Gold,24600.0,0.0,Existing Customer
+765257394,24,female,3,Student,Married,13080 zł brutto,Gold,24600.0,0.24,Attrited Customer
+648940111,18,male,5,Collage,Unknown,3758 zł brutto,White,3750.0,0.02,Existing Customer
+660113438,55,male,4,Doctorate,Married,18395 zł brutto,Platinum,44460.0,0.06,Existing Customer
+753155823,59,female,4,Uneducated,Married,5757 zł brutto,Black,7900.0,0.1,Attrited Customer
+559262651,35,male,5,high school,Married,3790 zł brutto,White,3750.0,0.43,Existing Customer
+167239891,39,male,4,Graduate,Single,8310 zł brutto,Silver,13650.0,0.44,Attrited Customer
+387077336,23,male,2,Collage,Single,11689 zł brutto,Silver,13650.0,0.83,Existing Customer
+170099669,52,male,2,Uneducated,Unknown,13403 zł brutto,Gold,24600.0,0.86,Existing Customer
+989848948,55,male,1,Unknown,Unknown,6922 zł brutto,Black,7900.0,0.48,Attrited Customer
+473776684,37,female,2,Doctorate,Unknown,13681 zł brutto,Gold,24600.0,0.46,Existing Customer
+166406076,48,male,1,Uneducated,Unknown,11418 zł brutto,Silver,13650.0,0.27,Attrited Customer
+736808883,56,female,3,high school,Single,21803 zł brutto,Platinum,44460.0,0.46,Existing Customer
+209181348,29,female,1,Post-Graduate,Single,5347 zł brutto,Black,7900.0,0.37,Existing Customer
+768103647,55,female,2,Post-Graduate,Married,8037 zł brutto,Silver,13650.0,0.3,Attrited Customer
+466477777,29,female,1,Professor,Single,24776 zł brutto,Platinum,44460.0,0.9,Attrited Customer
+781978573,63,male,5,Doctorate,Unknown,21089 zł brutto,Platinum,44460.0,0.75,Existing Customer
+574344192,61,female,5,Unknown,Unknown,31792 zł brutto,Platinum,44460.0,0.91,Attrited Customer
+868766695,32,male,4,Student,Married,10294 zł brutto,Silver,13650.0,0.78,Attrited Customer
+607274275,18,female,5,Collage,Married,4869 zł brutto,White,3750.0,0.05,Existing Customer
+118744990,49,male,4,Doctorate,Married,10558 zł brutto,Silver,13650.0,0.05,Attrited Customer
+590492267,50,female,2,Doctorate,Unknown,11576 zł brutto,Silver,13650.0,0.84,Existing Customer
+902013353,47,male,5,Uneducated,Single,21764 zł brutto,Platinum,44460.0,0.16,Existing Customer
+578587048,21,female,4,Post-Graduate,Unknown,31062 zł brutto,Platinum,44460.0,0.17,Attrited Customer
+263478663,22,male,1,Student,Unknown,10357 zł brutto,Silver,13650.0,0.22,Existing Customer
+272329015,42,female,4,Doctorate,Unknown,16740 zł brutto,Gold,24600.0,0.73,Attrited Customer
+486713732,25,male,4,Collage,Married,23490 zł brutto,Platinum,44460.0,0.39,Existing Customer
+407474466,61,female,2,Collage,Unknown,11458 zł brutto,Silver,13650.0,0.2,Existing Customer
+770724587,36,male,5,Uneducated,Single,14051 zł brutto,Gold,24600.0,1.0,Existing Customer
+156135452,48,female,4,Post-Graduate,Single,23782 zł brutto,Platinum,44460.0,0.86,Existing Customer
+886215905,53,male,2,Graduate,Married,25149 zł brutto,Platinum,44460.0,0.35,Attrited Customer
+272595680,35,male,5,Post-Graduate,Single,26344 zł brutto,Platinum,44460.0,0.12,Existing Customer
+167958200,28,male,4,Post-Graduate,Single,11542 zł brutto,Silver,13650.0,0.49,Attrited Customer
+214229571,34,female,1,Post-Graduate,Unknown,5139 zł brutto,Black,7900.0,0.72,Existing Customer
+580814337,30,female,2,high school,Married,11184 zł brutto,Silver,13650.0,0.43,Existing Customer
+613061647,55,male,3,Unknown,Single,10643 zł brutto,Silver,13650.0,0.57,Existing Customer
+695580464,40,female,3,Uneducated,Married,7844 zł brutto,Silver,13650.0,0.35,Existing Customer
+938463207,50,female,1,Post-Graduate,Married,19383 zł brutto,Platinum,44460.0,0.4,Attrited Customer
+739358181,46,male,1,Graduate,Married,5099 zł brutto,Black,7900.0,0.88,Attrited Customer
+819220482,42,male,2,Unknown,Married,24956 zł brutto,Platinum,44460.0,0.29,Existing Customer
+295220792,30,male,4,Uneducated,Married,23014 zł brutto,Platinum,44460.0,0.06,Attrited Customer
+719093170,42,female,4,Post-Graduate,Unknown,23965 zł brutto,Platinum,44460.0,0.1,Attrited Customer
+150079180,56,male,3,Uneducated,Single,12137 zł brutto,Gold,24600.0,0.94,Existing Customer
+293386836,30,male,3,Student,Unknown,10904 zł brutto,Silver,13650.0,0.17,Attrited Customer
+234090038,32,male,4,Unknown,Unknown,28594 zł brutto,Platinum,44460.0,0.86,Existing Customer
+152594948,31,female,4,Post-Graduate,Single,4077 zł brutto,White,3750.0,0.01,Existing Customer
+459439363,60,female,4,Doctorate,Unknown,31595 zł brutto,Platinum,44460.0,0.18,Attrited Customer
+872276951,45,male,1,high school,Single,26557 zł brutto,Platinum,44460.0,0.98,Attrited Customer
+233623603,55,male,4,Professor,Single,4632 zł brutto,White,3750.0,0.43,Attrited Customer
+121113277,18,female,2,high school,Married,6783 zł brutto,Black,7900.0,0.27,Attrited Customer
+853462488,33,male,1,Graduate,Unknown,16963 zł brutto,Gold,24600.0,0.11,Attrited Customer
+828776391,45,male,4,Graduate,Unknown,5466 zł brutto,Black,7900.0,0.34,Attrited Customer
+371234423,60,female,4,high school,Single,8237 zł brutto,Silver,13650.0,0.11,Attrited Customer
+998118852,23,male,5,Unknown,Single,31439 zł brutto,Platinum,44460.0,0.59,Attrited Customer
+170274837,37,male,1,Doctorate,Single,16044 zł brutto,Gold,24600.0,0.62,Attrited Customer
+383111727,27,female,3,Post-Graduate,Unknown,21155 zł brutto,Platinum,44460.0,0.05,Attrited Customer
+166366223,42,male,4,high school,Married,31069 zł brutto,Platinum,44460.0,0.42,Existing Customer
+129048778,25,female,2,high school,Married,12780 zł brutto,Gold,24600.0,0.74,Attrited Customer
+756368142,42,male,2,Graduate,Married,20088 zł brutto,Platinum,44460.0,0.3,Attrited Customer
+102695421,34,male,2,high school,Married,23959 zł brutto,Platinum,44460.0,0.61,Attrited Customer
+116410543,36,female,4,Post-Graduate,Unknown,5815 zł brutto,Black,7900.0,0.46,Attrited Customer
+848375816,36,female,2,Professor,Married,19736 zł brutto,Platinum,44460.0,0.83,Attrited Customer
+619499062,22,male,1,Graduate,Unknown,9953 zł brutto,Silver,13650.0,0.13,Existing Customer
+188442860,34,female,2,Graduate,Single,13007 zł brutto,Gold,24600.0,0.76,Attrited Customer
+555895925,60,male,4,Unknown,Single,3389 zł brutto,White,3750.0,0.17,Attrited Customer
+608295134,61,female,5,Professor,Single,9717 zł brutto,Silver,13650.0,0.38,Attrited Customer
+613273602,22,female,4,Student,Unknown,15207 zł brutto,Gold,24600.0,0.29,Attrited Customer
+200048396,55,male,1,Doctorate,Single,30783 zł brutto,Platinum,44460.0,0.98,Existing Customer
+238612248,19,male,2,Post-Graduate,Single,8757 zł brutto,Silver,13650.0,0.86,Existing Customer
+364073408,47,male,4,Uneducated,Single,5250 zł brutto,Black,7900.0,0.58,Existing Customer
+560294572,27,male,5,Graduate,Unknown,26933 zł brutto,Platinum,44460.0,0.33,Existing Customer
+291069445,54,female,1,Collage,Unknown,19263 zł brutto,Platinum,44460.0,0.12,Attrited Customer
+382284249,34,male,2,Graduate,Single,29763 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+924402154,54,male,1,Post-Graduate,Single,15176 zł brutto,Gold,24600.0,0.32,Attrited Customer
+173432028,27,female,2,Graduate,Unknown,3482 zł brutto,White,3750.0,0.46,Attrited Customer
+597272374,27,female,3,high school,Single,8189 zł brutto,Silver,13650.0,0.98,Existing Customer
+542789265,52,male,4,Student,Married,16008 zł brutto,Gold,24600.0,0.1,Attrited Customer
+707669460,27,female,3,Student,Married,10242 zł brutto,Silver,13650.0,0.36,Existing Customer
+460107817,43,male,4,Student,Single,16612 zł brutto,Gold,24600.0,0.79,Existing Customer
+264074439,26,male,2,Collage,Married,30629 zł brutto,Platinum,44460.0,0.33,Existing Customer
+984839339,22,female,2,Unknown,Single,30271 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+199018561,21,male,5,Doctorate,Unknown,15998 zł brutto,Gold,24600.0,0.73,Existing Customer
+637877752,34,male,4,Uneducated,Unknown,9205 zł brutto,Silver,13650.0,0.28,Attrited Customer
+922242653,19,female,5,high school,Married,5003 zł brutto,Black,7900.0,0.71,Existing Customer
+144424449,32,male,4,Graduate,Unknown,17324 zł brutto,Gold,24600.0,0.2,Attrited Customer
+382288505,59,female,2,Collage,Single,16013 zł brutto,Gold,24600.0,0.14,Existing Customer
+152499718,58,male,3,Unknown,Single,25543 zł brutto,Platinum,44460.0,0.79,Existing Customer
+757192003,56,male,3,Graduate,Married,4901 zł brutto,White,3750.0,0.0,Attrited Customer
+829593026,43,male,2,Graduate,Unknown,2956 zł brutto,White,3750.0,0.64,Attrited Customer
+867571862,20,female,5,Doctorate,Single,4502 zł brutto,White,3750.0,0.67,Existing Customer
+830661208,62,female,2,Uneducated,Unknown,16028 zł brutto,Gold,24600.0,0.67,Attrited Customer
+104013303,59,male,3,Student,Unknown,4766 zł brutto,White,3750.0,0.28,Attrited Customer
+939706184,29,female,2,Uneducated,Single,11423 zł brutto,Silver,13650.0,0.53,Existing Customer
+133119874,18,female,4,Doctorate,Unknown,17454 zł brutto,Gold,24600.0,0.08,Existing Customer
+362474577,24,male,4,Collage,Unknown,8083 zł brutto,Silver,13650.0,0.28,Existing Customer
+770028075,62,male,1,Doctorate,Unknown,26165 zł brutto,Platinum,44460.0,0.32,Existing Customer
+421083610,27,male,1,Uneducated,Unknown,19455 zł brutto,Platinum,44460.0,0.86,Attrited Customer
+358378431,25,male,2,Unknown,Unknown,4538 zł brutto,White,3750.0,0.05,Existing Customer
+932045576,61,male,3,Professor,Single,15312 zł brutto,Gold,24600.0,0.13,Existing Customer
+290467597,32,female,2,Collage,Single,14013 zł brutto,Gold,24600.0,0.64,Existing Customer
+454587762,61,female,5,Collage,Single,28199 zł brutto,Platinum,44460.0,0.75,Attrited Customer
+565579415,39,male,1,Collage,Married,13536 zł brutto,Gold,24600.0,0.07,Existing Customer
+133666427,51,female,3,Post-Graduate,Single,9132 zł brutto,Silver,13650.0,0.13,Attrited Customer
+590556919,62,male,3,Doctorate,Unknown,4235 zł brutto,White,3750.0,0.81,Existing Customer
+793322954,24,male,2,Doctorate,Married,9735 zł brutto,Silver,13650.0,0.04,Existing Customer
+376381644,31,female,2,high school,Single,7613 zł brutto,Silver,13650.0,0.97,Attrited Customer
+105690598,32,female,2,Collage,Married,19103 zł brutto,Platinum,44460.0,0.46,Existing Customer
+725379641,57,female,1,Professor,Single,22475 zł brutto,Platinum,44460.0,0.02,Attrited Customer
+975213753,56,female,3,Post-Graduate,Married,9128 zł brutto,Silver,13650.0,0.08,Attrited Customer
+119086996,57,female,5,Graduate,Single,30146 zł brutto,Platinum,44460.0,0.05,Attrited Customer
+866827378,30,male,1,Doctorate,Single,9453 zł brutto,Silver,13650.0,0.87,Attrited Customer
+823749743,45,male,5,Student,Married,6860 zł brutto,Black,7900.0,0.85,Existing Customer
+461526509,31,male,4,Collage,Married,7262 zł brutto,Black,7900.0,0.42,Existing Customer
+892458034,20,male,5,Unknown,Married,7882 zł brutto,Silver,13650.0,0.32,Existing Customer
+966705232,25,male,1,Student,Married,15986 zł brutto,Gold,24600.0,0.3,Existing Customer
+782679471,50,female,4,high school,Single,11211 zł brutto,Silver,13650.0,0.12,Attrited Customer
+150926528,27,male,1,Student,Single,7715 zł brutto,Silver,13650.0,0.06,Existing Customer
+831940786,58,female,5,Professor,Single,9467 zł brutto,Silver,13650.0,0.03,Existing Customer
+382729919,21,male,4,Uneducated,Single,18207 zł brutto,Platinum,44460.0,0.02,Attrited Customer
+523593229,20,female,3,Professor,Unknown,17521 zł brutto,Gold,24600.0,0.47,Existing Customer
+604734836,62,female,1,Doctorate,Unknown,25519 zł brutto,Platinum,44460.0,0.1,Attrited Customer
+255801861,18,male,3,Collage,Single,10574 zł brutto,Silver,13650.0,0.88,Attrited Customer
+186718591,31,male,1,Post-Graduate,Single,14406 zł brutto,Gold,24600.0,0.73,Existing Customer
+863949131,49,male,1,Doctorate,Unknown,31580 zł brutto,Platinum,44460.0,0.61,Attrited Customer
+604782623,23,female,3,Post-Graduate,Married,4878 zł brutto,White,3750.0,0.03,Existing Customer
+416980119,30,female,1,Graduate,Married,8151 zł brutto,Silver,13650.0,0.2,Attrited Customer
+511557692,63,female,2,Collage,Single,27453 zł brutto,Platinum,44460.0,0.26,Existing Customer
+916621914,31,male,3,Collage,Unknown,9238 zł brutto,Silver,13650.0,0.97,Attrited Customer
+485085991,18,male,3,Professor,Single,4840 zł brutto,White,3750.0,0.11,Existing Customer
+139533783,35,male,4,Doctorate,Single,23699 zł brutto,Platinum,44460.0,0.55,Existing Customer
+711066765,21,female,3,Graduate,Single,12510 zł brutto,Gold,24600.0,0.5,Attrited Customer
+995017352,35,male,5,Uneducated,Single,23541 zł brutto,Platinum,44460.0,0.88,Existing Customer
+326280462,21,male,3,Graduate,Unknown,29194 zł brutto,Platinum,44460.0,0.28,Attrited Customer
+279943882,38,female,2,Professor,Single,19337 zł brutto,Platinum,44460.0,0.57,Attrited Customer
+681360628,24,female,1,Post-Graduate,Single,22338 zł brutto,Platinum,44460.0,0.23,Existing Customer
+323779349,51,male,2,Professor,Married,12642 zł brutto,Gold,24600.0,0.66,Existing Customer
+805368773,20,male,2,Collage,Married,5526 zł brutto,Black,7900.0,0.74,Attrited Customer
+969061151,29,female,2,Professor,Unknown,21089 zł brutto,Platinum,44460.0,0.39,Attrited Customer
+206624873,53,female,4,Post-Graduate,Single,20850 zł brutto,Platinum,44460.0,0.77,Existing Customer
+930100415,41,female,1,Collage,Married,19356 zł brutto,Platinum,44460.0,0.24,Attrited Customer
+145479368,30,female,3,Uneducated,Single,20339 zł brutto,Platinum,44460.0,0.99,Existing Customer
+422309746,42,female,3,Professor,Married,13893 zł brutto,Gold,24600.0,0.17,Attrited Customer
+141473211,46,female,4,Professor,Unknown,11239 zł brutto,Silver,13650.0,0.41,Attrited Customer
+133529862,58,female,2,Professor,Single,19025 zł brutto,Platinum,44460.0,0.42,Existing Customer
+996176343,32,female,2,Graduate,Married,10403 zł brutto,Silver,13650.0,0.92,Attrited Customer
+943648405,37,female,1,Professor,Unknown,30797 zł brutto,Platinum,44460.0,0.32,Existing Customer
+167008287,26,male,1,Doctorate,Married,21178 zł brutto,Platinum,44460.0,0.05,Attrited Customer
+182745614,25,male,3,Unknown,Unknown,17485 zł brutto,Gold,24600.0,0.07,Existing Customer
+997879356,27,female,5,Graduate,Single,4295 zł brutto,White,3750.0,0.5,Existing Customer
+481016589,50,male,1,high school,Unknown,11641 zł brutto,Silver,13650.0,0.3,Existing Customer
+388463170,20,female,1,Uneducated,Unknown,19387 zł brutto,Platinum,44460.0,0.85,Attrited Customer
+757348709,38,female,4,Student,Single,10251 zł brutto,Silver,13650.0,0.02,Existing Customer
+489946221,37,female,3,Professor,Married,31846 zł brutto,Platinum,44460.0,0.26,Existing Customer
+732293594,18,female,5,Unknown,Single,10700 zł brutto,Silver,13650.0,0.91,Existing Customer
+162287296,63,male,4,Graduate,Married,16797 zł brutto,Gold,24600.0,0.39,Attrited Customer
+598947312,63,male,1,Professor,Single,27134 zł brutto,Platinum,44460.0,0.02,Existing Customer
+213478701,32,female,2,Professor,Unknown,25969 zł brutto,Platinum,44460.0,0.54,Attrited Customer
+758786431,58,male,2,Graduate,Single,19246 zł brutto,Platinum,44460.0,0.82,Attrited Customer
+685070885,56,female,3,Doctorate,Unknown,25579 zł brutto,Platinum,44460.0,0.89,Existing Customer
+176125462,53,female,2,Post-Graduate,Married,17564 zł brutto,Gold,24600.0,0.77,Attrited Customer
+542327210,58,male,4,high school,Unknown,14182 zł brutto,Gold,24600.0,0.09,Existing Customer
+794813851,57,male,2,Professor,Married,14193 zł brutto,Gold,24600.0,0.94,Attrited Customer
+594122324,50,female,1,Graduate,Single,5779 zł brutto,Black,7900.0,0.07,Attrited Customer
+996672411,51,male,4,Collage,Married,23657 zł brutto,Platinum,44460.0,0.33,Attrited Customer
+443014413,46,male,1,Doctorate,Unknown,6117 zł brutto,Black,7900.0,0.09,Attrited Customer
+713764433,33,male,3,Post-Graduate,Single,17275 zł brutto,Gold,24600.0,0.1,Attrited Customer
+225785368,19,male,3,Unknown,Single,20405 zł brutto,Platinum,44460.0,0.78,Existing Customer
+296274323,38,female,1,Professor,Single,23639 zł brutto,Platinum,44460.0,0.89,Attrited Customer
+370792840,27,male,4,Student,Unknown,31340 zł brutto,Platinum,44460.0,0.51,Existing Customer
+590087442,27,male,2,Collage,Unknown,16827 zł brutto,Gold,24600.0,0.06,Existing Customer
+640480637,20,female,1,high school,Unknown,26413 zł brutto,Platinum,44460.0,0.54,Existing Customer
+254489279,51,male,5,Graduate,Married,11378 zł brutto,Silver,13650.0,0.14,Attrited Customer
+957140814,32,female,3,Professor,Unknown,4532 zł brutto,White,3750.0,0.74,Attrited Customer
+122730302,47,female,1,Collage,Unknown,18348 zł brutto,Platinum,44460.0,0.11,Existing Customer
+760466523,30,female,5,Post-Graduate,Married,20784 zł brutto,Platinum,44460.0,0.84,Existing Customer
+903655320,63,male,4,Uneducated,Single,25608 zł brutto,Platinum,44460.0,0.46,Attrited Customer
+966893120,41,male,1,Collage,Married,17758 zł brutto,Gold,24600.0,0.23,Existing Customer
+421578078,55,male,4,high school,Married,12193 zł brutto,Gold,24600.0,0.59,Existing Customer
+560232495,63,male,2,high school,Single,15417 zł brutto,Gold,24600.0,0.32,Attrited Customer
+211797597,50,female,2,Collage,Single,25507 zł brutto,Platinum,44460.0,0.49,Existing Customer
+391993853,63,male,3,Professor,Married,14051 zł brutto,Gold,24600.0,0.03,Attrited Customer
+903912441,30,male,2,Post-Graduate,Unknown,9872 zł brutto,Silver,13650.0,0.41,Attrited Customer
+951464774,27,female,1,Uneducated,Unknown,2932 zł brutto,White,3750.0,0.67,Attrited Customer
+746698970,48,female,1,Collage,Unknown,18938 zł brutto,Platinum,44460.0,0.68,Existing Customer
+823138373,35,female,2,Professor,Single,5293 zł brutto,Black,7900.0,0.86,Existing Customer
+475335315,31,male,3,Unknown,Single,17447 zł brutto,Gold,24600.0,0.58,Attrited Customer
+893703447,52,female,3,Doctorate,Unknown,28513 zł brutto,Platinum,44460.0,0.53,Attrited Customer
+787043774,18,male,1,Uneducated,Single,31356 zł brutto,Platinum,44460.0,0.93,Attrited Customer
+487021141,26,male,2,Graduate,Unknown,28227 zł brutto,Platinum,44460.0,0.55,Attrited Customer
+603591067,44,male,5,Uneducated,Married,19982 zł brutto,Platinum,44460.0,0.26,Existing Customer
+135353121,31,female,5,Uneducated,Unknown,9482 zł brutto,Silver,13650.0,0.68,Existing Customer
+472200920,26,female,2,Post-Graduate,Married,14016 zł brutto,Gold,24600.0,0.09,Attrited Customer
+344294177,46,female,4,Student,Unknown,17607 zł brutto,Gold,24600.0,0.13,Attrited Customer
+570573875,22,female,5,Doctorate,Married,6618 zł brutto,Black,7900.0,0.3,Attrited Customer
+907964715,20,male,3,Doctorate,Married,10477 zł brutto,Silver,13650.0,0.89,Existing Customer
+376933705,23,male,1,high school,Married,18273 zł brutto,Platinum,44460.0,0.92,Attrited Customer
+632234069,28,male,2,Graduate,Married,23561 zł brutto,Platinum,44460.0,0.41,Existing Customer
+696415041,25,male,3,Post-Graduate,Unknown,20151 zł brutto,Platinum,44460.0,0.3,Existing Customer
+785620237,22,female,1,Doctorate,Married,8876 zł brutto,Silver,13650.0,0.44,Attrited Customer
+681496832,49,female,1,Graduate,Unknown,16509 zł brutto,Gold,24600.0,0.4,Existing Customer
+960501038,51,male,3,Collage,Unknown,12208 zł brutto,Gold,24600.0,0.3,Attrited Customer
+897194541,61,male,4,Collage,Married,26179 zł brutto,Platinum,44460.0,0.46,Attrited Customer
+209218851,59,male,3,Student,Married,17830 zł brutto,Gold,24600.0,0.91,Attrited Customer
+171077365,41,male,2,high school,Single,24889 zł brutto,Platinum,44460.0,0.27,Existing Customer
+877019097,18,male,4,Post-Graduate,Single,3925 zł brutto,White,3750.0,0.35,Attrited Customer
+579409477,30,male,5,Post-Graduate,Married,8860 zł brutto,Silver,13650.0,0.55,Existing Customer
+519865030,18,male,5,Doctorate,Single,10224 zł brutto,Silver,13650.0,0.47,Attrited Customer
+391526721,55,female,4,Post-Graduate,Married,9928 zł brutto,Silver,13650.0,0.48,Existing Customer
+204907668,25,female,1,Collage,Single,25546 zł brutto,Platinum,44460.0,0.86,Attrited Customer
+787406087,34,female,3,Doctorate,Single,28468 zł brutto,Platinum,44460.0,0.82,Attrited Customer
+159569583,32,male,3,Post-Graduate,Unknown,26317 zł brutto,Platinum,44460.0,0.65,Existing Customer
+435101459,29,male,1,Professor,Unknown,19152 zł brutto,Platinum,44460.0,0.75,Existing Customer
+663877125,43,female,1,Doctorate,Single,22733 zł brutto,Platinum,44460.0,0.41,Existing Customer
+114163591,48,female,5,Collage,Married,6620 zł brutto,Black,7900.0,0.17,Existing Customer
+247920781,46,female,2,Graduate,Single,9614 zł brutto,Silver,13650.0,0.74,Existing Customer
+970295711,23,male,2,Post-Graduate,Married,11927 zł brutto,Silver,13650.0,0.21,Existing Customer
+281563431,57,male,1,Student,Single,16318 zł brutto,Gold,24600.0,0.75,Attrited Customer
+510699385,50,male,5,Professor,Married,7446 zł brutto,Black,7900.0,0.16,Existing Customer
+969092941,33,female,4,high school,Single,9531 zł brutto,Silver,13650.0,0.09,Attrited Customer
+982418564,37,female,2,Post-Graduate,Single,13154 zł brutto,Gold,24600.0,0.79,Existing Customer
+479065573,49,female,2,high school,Single,19031 zł brutto,Platinum,44460.0,0.56,Existing Customer
+207000999,51,female,1,Unknown,Unknown,2940 zł brutto,White,3750.0,0.61,Existing Customer
+321835878,58,male,1,Student,Single,16094 zł brutto,Gold,24600.0,0.25,Existing Customer
+811760519,35,male,3,Post-Graduate,Single,30727 zł brutto,Platinum,44460.0,0.06,Existing Customer
+445671526,50,female,2,Graduate,Married,23081 zł brutto,Platinum,44460.0,0.83,Existing Customer
+840921792,24,male,3,Student,Unknown,9603 zł brutto,Silver,13650.0,0.35,Existing Customer
+854273702,51,female,3,Post-Graduate,Unknown,5905 zł brutto,Black,7900.0,0.02,Existing Customer
+532195160,45,female,5,Student,Married,10591 zł brutto,Silver,13650.0,0.96,Attrited Customer
+719216813,34,female,5,Uneducated,Married,29905 zł brutto,Platinum,44460.0,0.62,Attrited Customer
+336866129,54,male,3,Collage,Single,30565 zł brutto,Platinum,44460.0,0.62,Attrited Customer
+471549669,38,female,4,Professor,Single,27859 zł brutto,Platinum,44460.0,0.43,Attrited Customer
+555649924,50,female,3,Post-Graduate,Single,18096 zł brutto,Platinum,44460.0,0.8,Attrited Customer
+107804319,49,female,1,Graduate,Single,7351 zł brutto,Black,7900.0,0.79,Attrited Customer
+907333224,29,male,3,Student,Unknown,20124 zł brutto,Platinum,44460.0,0.56,Existing Customer
+290621175,56,female,2,Unknown,Single,6938 zł brutto,Black,7900.0,0.72,Existing Customer
+420301445,36,male,4,Graduate,Single,11764 zł brutto,Silver,13650.0,0.12,Attrited Customer
+938370393,50,male,1,Doctorate,Unknown,3512 zł brutto,White,3750.0,0.48,Existing Customer
+603586229,24,male,1,Professor,Single,18015 zł brutto,Platinum,44460.0,0.28,Attrited Customer
+461361721,62,male,5,Graduate,Married,29674 zł brutto,Platinum,44460.0,0.94,Existing Customer
+373568270,33,male,5,Post-Graduate,Unknown,19414 zł brutto,Platinum,44460.0,0.44,Existing Customer
+560451508,25,male,4,high school,Single,5321 zł brutto,Black,7900.0,0.08,Existing Customer
+637124315,29,female,1,Student,Single,25064 zł brutto,Platinum,44460.0,0.56,Attrited Customer
+171752630,42,female,1,Graduate,Single,14465 zł brutto,Gold,24600.0,0.62,Attrited Customer
+702192489,59,female,5,Post-Graduate,Married,16534 zł brutto,Gold,24600.0,0.68,Existing Customer
+109748111,29,female,1,Graduate,Single,17954 zł brutto,Gold,24600.0,0.41,Attrited Customer
+135315486,19,female,2,Professor,Single,19624 zł brutto,Platinum,44460.0,0.48,Attrited Customer
+716898114,19,female,2,Collage,Single,28369 zł brutto,Platinum,44460.0,0.64,Existing Customer
+711464362,29,male,2,Unknown,Unknown,13557 zł brutto,Gold,24600.0,0.84,Existing Customer
+295347345,44,female,1,Unknown,Unknown,18435 zł brutto,Platinum,44460.0,0.83,Existing Customer
+914649282,55,female,5,Unknown,Married,18933 zł brutto,Platinum,44460.0,0.01,Attrited Customer
+959930873,60,female,1,Uneducated,Unknown,2534 zł brutto,White,3750.0,0.57,Attrited Customer
+716988197,62,female,5,Professor,Single,8320 zł brutto,Silver,13650.0,0.49,Existing Customer
+733974179,25,male,1,Post-Graduate,Married,23305 zł brutto,Platinum,44460.0,0.9,Existing Customer
+279294010,30,male,3,Professor,Married,10302 zł brutto,Silver,13650.0,0.93,Existing Customer
+789688842,25,male,4,Post-Graduate,Single,18709 zł brutto,Platinum,44460.0,0.48,Attrited Customer
