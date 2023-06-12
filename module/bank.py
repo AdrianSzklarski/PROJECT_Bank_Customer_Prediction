@@ -1,17 +1,18 @@
-import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+''' The class prepares data for Machine Learning analysis based on data obtained from *.*csv file'''
+
 
 class Bank:
+
     def __init__(self):
         self.linkCSV = pd.read_csv('/home/adrian/Pulpit/GitHub_Public/Bank_Customers_Prediction/csv/filename_new.csv')
         self.get_chart()
 
     def get_test(self):
         '''Code testing module'''
-
         dataReview = self.linkCSV.head(50), \
                      self.linkCSV.shape, \
                      self.linkCSV.isnull().sum()
@@ -74,7 +75,6 @@ class Bank:
                    \nand their gender{self.get_bank_customers()[1]} \
                    \nand their education{self.get_bank_customers()[2]} \
                    \nand their marital{self.get_bank_customers()[1]}')
-
 
 
 if __name__ == '__main__':

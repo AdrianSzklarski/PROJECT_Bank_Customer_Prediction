@@ -1,5 +1,5 @@
 from module.bank import Bank
-from module.table import DataCSV
+from module.preparationCSV import DataCSV
 from module.clearDir import get_clear_dir
 import os
 
