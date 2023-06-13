@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+from sklearn.decomposition import PCA
 
 
 class AnalisysML:
@@ -10,13 +11,7 @@ class AnalisysML:
         # pdb.set_trace()
         self.linkCSV[' Gender'] = self.linkCSV[' Gender'].map(self.get_gender)
         self.linkCSV[' Attrition_flag'] = self.linkCSV[' Attrition_flag'].map(self.get_customer)
-        self.y = self.linkCSV[' Card_Category']
-        self.X = self.linkCSV.copy()
-        self.earnings = self.X[' Earnings'].value_counts()
-
-        self.X[' Earnings'] = self.get_encoder(self.X[' Earnings'])
-        self.X[' Education_level'] = self.get_encoder(self.X[' Education_level'])
-        self.X[' Marital_status'] = self.get_encoder(self.X[' Marital_status'])
+        self.get_analisysML_preparations()
 
     def get_gender(self, x):
         '''conversion of data (gender) from a csv file into figures'''
@@ -39,6 +34,25 @@ class AnalisysML:
         print(feat.name, le.classes_)
         return le.transform(feat)
 
+    def get_analisysML_preparations(self):
+        '''machine learning preparations'''
+        self.y = self.linkCSV[' Card_category']
+        self.X = self.linkCSV.copy()
+        self.earnings = self.X[' Earnings'].value_counts()
+
+        self.X[' Earnings'] = self.get_encoder(self.X[' Earnings'])
+        self.X[' Education_level'] = self.get_encoder(self.X[' Education_level'])
+        self.X[' Marital_status'] = self.get_encoder(self.X[' Marital_status'])
+
+        # limit credit
+        # information in my notebook
+        self.X = self.X.drop([' Customer_number', ' Card_category'], axis=1)
+
+    def get_reduction(self):
+        '''data dimension reduction'''
+        pca = PCA(n_components=7)
+        pca2 = PCA(n_components=10)
+        return pca.fit_transform(self.X), pca2.fit_transform(self.X)
 
     def __str__(self):
         return f'{self.X.head(3)} {self.earnings} {self.X.describe()}'

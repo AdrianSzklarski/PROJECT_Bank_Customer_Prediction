@@ -32,7 +32,7 @@ class Bank:
 
     def get_analisys_card(self):
         '''determining the type of cards according to the age of the client'''
-        bank_cards = self.linkCSV.groupby(' Card_Category')
+        bank_cards = self.linkCSV.groupby(' Card_category')
         bank_marital = self.linkCSV.groupby(' Marital_status')
 
         # analysis for different age groups
@@ -43,7 +43,7 @@ class Bank:
         self.ave = bank_cards[' Avg_utilities_ratio'].mean()
 
         # analysis for different civil statuses
-        self.marital = bank_marital[' Card_Category'].value_counts()
+        self.marital = bank_marital[' Card_category'].value_counts()
 
         return self.maxAge, self.minAge, self.linkCSV.columns, self.ave, self.marital
 

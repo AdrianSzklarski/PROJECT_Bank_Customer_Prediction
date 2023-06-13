@@ -1,2 +1,10 @@
 1. Przewiduję kategorię karty, którą klient wybierze lub bank może próbować sprzedać komuś i tą kategorię;
 'Card Category'
+
+2. Ta linia kodu generuje problem
+self.X = self.X.drop([' Customer_number', ' Card_category'], axis=1)
+raz kod działa dobrze, raz wyrzuca
+KeyError: "[' Customer_number'] not found in axis"
+przeba parę razy uruchimić kod
+Do poźniejszej poprawy!
+

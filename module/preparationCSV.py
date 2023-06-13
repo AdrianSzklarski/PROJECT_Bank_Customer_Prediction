@@ -26,7 +26,7 @@ class DataCSV:
             'Education level',
             'Marital status',
             'Earnings',
-            'Card Category',
+            'Card category',
             'Credit limit',
             'Avg utilities ratio',
             'Attrition flag'
@@ -105,7 +105,7 @@ class DataCSV:
                         .replace('Number of counts', 'Number_of_counts, ') \
                         .replace('Education level', 'Education_level, ') \
                         .replace('Marital status', 'Marital_status, ') \
-                        .replace('Earnings', 'Earnings, ').replace('Card Category', 'Card_Category, ') \
+                        .replace('Earnings', 'Earnings, ').replace('Card category', 'Card_category, ') \
                         .replace('Credit limit', 'Credit_limit, ') \
                         .replace('Avg utilities ratio', 'Avg_utilities_ratio, ') \
                         .replace('Attrition flag', 'Attrition_flag')
