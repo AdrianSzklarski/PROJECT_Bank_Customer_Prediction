@@ -13,6 +13,13 @@ body {
 nav {
   text-transform: uppercase;
 }
+nav .navbar-toggler {
+  padding: 10px 15px;
+  border: 1px solid #00B140;
+}
+nav .navbar-brand {
+  font-weight: bold;
+}
 nav .navbar-nav .nav-link.active,
 nav .navbar-brand {
   color: #676767;

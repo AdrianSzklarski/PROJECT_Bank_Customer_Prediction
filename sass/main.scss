@@ -15,6 +15,15 @@ body {
 nav {
     text-transform: uppercase;
 
+    .navbar-toggler {
+        padding: 10px 15px;
+        border: 1px solid colors.$main_color;
+    }
+
+    .navbar-brand {
+        font-weight: bold;
+    }
+
     .navbar-nav .nav-link.active,
     .navbar-brand {
         color: colors.$grey-color;
