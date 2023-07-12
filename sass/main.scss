@@ -1,3 +1,5 @@
+@use './colors' as colors; 
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,6 +8,23 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #333;
-    color: #fff;
+    background-color: #FFFFFF;
+    color: #f7f0f0;
+}
+
+nav {
+    text-transform: uppercase;
+
+    .navbar-nav .nav-link.active,
+    .navbar-brand {
+        color: colors.$grey-color;
+    }
+
+    .nav-link:focus,
+    .nav-link:hover,
+    .navbar-brand:hover,
+    .nav-link.active:hover {
+        color: colors.$main_color;
+    }
+
 }

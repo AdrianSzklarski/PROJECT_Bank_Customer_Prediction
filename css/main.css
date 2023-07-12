@@ -5,6 +5,21 @@
 }
 
 body {
-  background-color: #333;
-  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  background-color: #FFFFFF;
+  color: #f7f0f0;
+}
+
+nav {
+  text-transform: uppercase;
+}
+nav .navbar-nav .nav-link.active,
+nav .navbar-brand {
+  color: #676767;
+}
+nav .nav-link:focus,
+nav .nav-link:hover,
+nav .navbar-brand:hover,
+nav .nav-link.active:hover {
+  color: #00B140;
 }/*# sourceMappingURL=main.css.map */
