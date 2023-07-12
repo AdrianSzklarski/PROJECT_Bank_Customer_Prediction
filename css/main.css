@@ -10,8 +10,18 @@ body {
   color: #f7f0f0;
 }
 
+.color-text {
+  color: rgb(245, 235, 235);
+}
+
+.shadow-bg {
+  background-color: rgba(61, 61, 40, 0.8);
+}
+
 nav {
   text-transform: uppercase;
+  transition: 0.5s;
+  z-index: 2;
 }
 nav .navbar-toggler {
   padding: 10px 15px;
@@ -29,4 +39,48 @@ nav .nav-link:hover,
 nav .navbar-brand:hover,
 nav .nav-link.active:hover {
   color: #00B140;
+}
+
+header.hero-img {
+  position: relative;
+  height: 200vh;
+  background-image: url("/images/bank_640x426.jpg");
+  color: #00B140;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #00B140;
+  z-index: 0;
+}
+header.hero-img h1 {
+  text-transform: uppercase;
+}
+
+.hero-shadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(122, 114, 3, 0.2);
+  z-index: -5;
+}
+
+.hero-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 20%;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 46px;
+  }
+}
+@media (min-width: 1200px) {
+  header.hero-img {
+    background-image: url("/images/bank_1920x1280.jpg");
+  }
 }/*# sourceMappingURL=main.css.map */
