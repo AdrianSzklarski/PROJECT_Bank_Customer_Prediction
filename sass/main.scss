@@ -20,6 +20,13 @@ body {
 	background-color: rgba(61, 61, 40, 0.8);
 }
 
+.describe {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    color: colors.$desc-color;
+}
+
 nav {
     text-transform: uppercase;
     transition: .5s;

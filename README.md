@@ -27,7 +27,7 @@ it's how much you currently owe divided by your credit limit. It is generally ex
 
 <br>
 <img src="images/www.png" alt="csv file">
-<p>First step of design' www</p>
+<p>Second step of design' www</p>
 
 
 ## Created by Adrian Szklarski, start time 04-06.2023/ Under construction, yet
